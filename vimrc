@@ -29,25 +29,33 @@ else
 endif
 
 " Use Plug to manage plugins
-call plug#begin('~/.vim/plugged')
-" Example: Plug 'tpope/vim-fugitive'
-call plug#end()
-
-" Check for errors and install plugins
-if empty($MYVIMRC) || !executable('ag')
-  echom "Error: $MYVIMRC not set or 'ag' not installed"
-else
-  try
-    " Example: Plug 'tpope/vim-fugitive'
-  catch
-  endtry
+" Install Plug.vim if it's not already installed
+if empty(glob('~/.vim/autoload/plug.vim'))
+  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+        \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
 endif
+
+" List your plugins here
+call plug#begin('~/.vim/plugged')
+Plug 'tpope/vim-fugitive'
+call plug#end()
 
 " Set colors and font
 if has('termguicolors')
   set termguicolors
 endif
-colorscheme gruvbox
+
+" Check if the color scheme exists before setting it
+if has('gui_running') || &t_Co > 256
+  if exists('+termguicolors')
+    set termguicolors
+  endif
+  colorscheme gruvbox
+else
+  colorscheme default
+endif
+
 if has('gui_running')
   set guifont=Monospace\ 10
 endif
