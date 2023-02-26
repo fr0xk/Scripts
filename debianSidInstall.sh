@@ -65,7 +65,7 @@ apt install -y xfce4 || { echo "Failed to install desktop environment"; exit 1; 
 apt autoremove -y
 apt autoclean
 
-Create LVM backup
+#Create LVM backup
 lvcreate -L 1G -s -n lv_backup /dev/vg0/lv_root || { echo "Failed to create LVM backup"; exit 1; }
 
 echo "Installation successful!"
