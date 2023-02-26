@@ -32,7 +32,7 @@ swapon ${DISK}1 || { echo "Failed to activate swap partition"; exit 1; }
 mount -a || { echo "Failed to mount file systems"; exit 1; }
 
 # Install Debian Sid from minimal bootable drive
-debootstrap sid /mnt http://deb.debian.org/debian || { echo "Failed to install Debian Sid"; exit 
+debootstrap sid /mnt http://deb.debian.org/debian || { echo "Failed to install Debian Sid"; exit 1; }
 
 # Chroot into the new installation
 chroot /mnt /bin/bash <<EOF || { echo "Failed to chroot into new installation"; exit 1; }
