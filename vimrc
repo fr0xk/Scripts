@@ -37,7 +37,7 @@ endif
 " endif
 
 " List your plugins here
-"call plug#begin('~/.vim/plugged')
+" call plug#begin('~/.vim/plugged')
 " Plug 'tpope/vim-fugitive'
 " call plug#end()
 
