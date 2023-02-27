@@ -30,16 +30,16 @@ endif
 
 " Use Plug to manage plugins
 " Install Plug.vim if it's not already installed
-if empty(glob('~/.vim/autoload/plug.vim'))
-  silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
-        \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
+" if empty(glob('~/.vim/autoload/plug.vim'))
+"   silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
+"         \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+"   autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+" endif
 
 " List your plugins here
-call plug#begin('~/.vim/plugged')
-Plug 'tpope/vim-fugitive'
-call plug#end()
+"call plug#begin('~/.vim/plugged')
+" Plug 'tpope/vim-fugitive'
+" call plug#end()
 
 " Set colors and font
 if has('termguicolors')
