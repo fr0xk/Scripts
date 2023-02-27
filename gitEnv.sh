@@ -39,12 +39,34 @@ function set_up_ssh {
   ssh-add ~/.ssh/id_rsa
 }
 
-function display_keys {
+function display_ssh_keys {
   echo "Your private SSH key is:"
   cat ~/.ssh/id_rsa
 
   echo "Your public SSH key is:"
   cat ~/.ssh/id_rsa.pub
+}
+
+function set_up_gpg {
+  echo "Setting up GPG configuration..."
+  gpg --gen-key
+}
+
+function add_gpg_key {
+  echo "Adding GPG key..."
+  read -p "Enter the email address associated with your GPG key: " email
+  read -p "Enter the name you want to associate with your GPG key: " name
+  gpg --list-secret-keys --keyid-format LONG
+  read -p "Enter the key ID for the GPG key you want to add: " key_id
+  git config --global user.signingkey "$key_id"
+  git config --global commit.gpgsign true
+  echo "Your GPG key has been added and configured for Git."
+}
+
+function display_gpg_keys {
+  echo "Your GPG key pairs are:"
+  gpg --list-keys
+  gpg --list-secret-keys
 }
 
 function test_ssh_connection {
@@ -65,7 +87,11 @@ create_github_repo
 
 # Set up SSH and display keys
 set_up_ssh
-display_keys
+display_ssh_keys
+
+# Add and configure GPG key and display keys
+add_gpg_key
+display_gpg_keys
 
 # Test SSH connection to GitHub
 test_ssh_connection
