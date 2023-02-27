@@ -7,7 +7,7 @@ function update_termux {
 
 function install_encryption_tools {
   echo "Installing encryption tools..."
-  pkg install -y gnupg2 pinentry-curses
+  pkg install -y gnupg openssh pinentry-curses
 }
 
 function set_up_gpg {
