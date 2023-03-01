@@ -49,4 +49,4 @@ for price in bike_prices:
     print(f"For a bike that costs ${price}, the maintenance budget is ${maintenance_budget} per year.")
 
 # Print the MIT license text
-print(mit_license)
+# print(mit_license)
