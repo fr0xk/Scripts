@@ -3,15 +3,15 @@
 
 import numpy as np
 
-age = 28
+age = # enter current age
 
-income = 12000
+income = # enter monthly income 
 
 max_savings_rate = 0.3
 
 retirement_age = 65
 
-life_expectancy = 80
+life_expectancy = 75
 
 annual_inflation_rate = 0.04
 
