@@ -133,8 +133,6 @@ if 'savings' in locals():
 print("Entertainment and Miscellaneous:", round(entertainment, 2))
 
 if 'travel' in locals():
-
-print("Travel:", round(travel, 2))
-
+    print("Travel:", round(travel, 2))
 print("Miscellaneous:", round(miscellaneous, 2))
-
+ 
