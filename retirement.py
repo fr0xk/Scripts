@@ -1,6 +1,5 @@
 # Financial and Life Planning Script
 
-# import necessary libraries
 
 import numpy as np
 
