@@ -22,10 +22,3 @@ warning = "\nWarning: Your savings are negative. Consider reducing expenses or i
 
 print(f"\nBudget for the month for {income_class}:\nTotal budget: Rs.{total_budget}{warning}")
 
-buy_something = input("Do you want to buy something? (y/n): ").lower()
-if buy_something == 'y':
-    price = float(input("Enter the price of the product: "))
-    can_afford = "You can afford to purchase the product" if price <= savings else f"You cannot afford to purchase the product. You need Rs.{price - savings} more savings."
-    print(f"{can_afford} for Rs.{price}")
-else:
-    print("Okay, no problem.")
