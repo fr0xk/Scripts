@@ -1,6 +1,6 @@
 # Define the decision tree using a list of tuples
 decision_tree = [
-    ("What is the problem?",
+    ("What is the problem?: ",
      [("Is the problem urgent?",
        [("Take action immediately.", lambda: True),
         ("Delegate the task to someone else.", lambda: True)]),
