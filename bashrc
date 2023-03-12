@@ -29,7 +29,7 @@ alias ls='ls --color=auto'
 
 # Make cd more intuitive by automatically listing directory contents after changing directories
 function cd() {
-  builtin cd "$@" && ls
+  builtin cd "$@" && "ls -lha"
 }
 
 # Display an error message if any command fails
