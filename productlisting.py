@@ -1,0 +1,44 @@
+import csv
+
+table = [
+
+    ['Product', 'Buying Cheap', 'Buying Mid-Range', 'Buying Premium'],
+
+    ['Commuter Vehicle', 'Maruti Suzuki Alto or Tata Tiago', 'Hyundai Santro or Kia Sonet', 'Toyota Fortuner or BMW X5'],
+
+    ['Bicycle', 'Hero Ranger DTB or Firefox Cyclone', 'Btwin Riverside or Montra Helicon', 'Trek Procaliber or Scott Spark RC'],
+
+    ['Motorcycle', 'Bajaj Platina or Hero Splendor Plus', 'Yamaha FZS or Honda CB350 H\'ness', 'Harley-Davidson Fat Boy or Triumph Bonneville T120'],
+
+    ['Laptop', 'HP 15 or Lenovo IdeaPad S145', 'Asus VivoBook or Dell Inspiron', 'Apple MacBook Air or Microsoft Surface Laptop 4'],
+
+    ['Camera', 'Canon EOS 1500D or Nikon D3500', 'Sony Alpha 6400 or Fujifilm X-T4', 'Sony Alpha 1 or Canon EOS R5'],
+
+    ['Headphones', 'JBL C100SI or Realme Buds Q2', 'Sony WH-1000XM4 or Bose QuietComfort 35 II', 'Sennheiser HD 820 or Audeze LCD-4z'],
+
+    ['Watch', 'Mi Watch Revolve or Realme Watch S Pro', 'Fossil Gen 5 or Garmin Forerunner 745', 'Apple Watch Series 7 or Samsung Galaxy Watch 4 Classic'],
+
+    ['Wine', 'Four Seasons Blush or Big Banyan Rosa Rossa', 'Sula Rasa or Grover La Reserve', 'Chateau Lafite Rothschild or Chateau Margaux'],
+
+    ['Running Shoes', 'Puma Rapid Runner or Reebok Lite Slip-On', 'Adidas Ultraboost or Nike Air Zoom Pegasus 38', 'Brooks Hyperion Elite 2 or Hoka One One Mach 4'],
+
+    ['Backpack', 'Wildcraft Flip or Skybags Figo', 'Quechua Forclaz or Decathlon Arpenaz', 'Osprey Atmos AG or Gregory Zulu'],
+
+    ['Kitchen Knife', 'Milton Stainless Steel or Prestige Tru-Edge', 'Solimo Premium or Victorinox Fibrox Pro', 'Wusthof Classic or Shun Classic'],
+
+    ['Mattress', 'Sleepwell Spinetech or Springtek Ortho', 'SleepX Ortho or Duroflex Back Magic', 'Kurlon Dream Sleep or Wakefit Orthopedic Memory Foam'],
+
+    ['Smartphone', 'Redmi 9A or Realme C21Y', 'Samsung Galaxy M31 or OnePlus Nord CE 5G', 'Apple iPhone 13 or Samsung Galaxy Z Fold 3'],
+
+    ['Golf Clubs', 'US Kids UL-51 or Decathlon Inesis 100', 'Callaway X-Series or Ping G710', 'Mizuno MP-20 or Titleist TSi2'],
+
+    ['Telescope', 'Celestron PowerSeeker 60AZ or Orion Observer II 70mm', 'Sky-Watcher Explorer or Celestron NexStar Evolution 8 HD', 'Meade LX90 or Takahashi FSQ-106 EDX4'],
+
+    ['Guitar', 'Yamaha F310 or Hobmer HCT-410', 'Cort X-11 or Fender Player Telecaster Plus', 'Taylor 814ce or Gibson J-45 Standard']
+
+]
+
+# Export the table to a CSV file
+
+with open('products.csv', 'w', newline='') as csvfile:
+
