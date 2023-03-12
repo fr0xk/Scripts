@@ -1,6 +1,6 @@
 #!/bin/sh
 
-REPO_PATH=/path/to/your/repo
+REPO_PATH="$(pwd)"
 
 cd "$REPO_PATH" || exit 1
 
