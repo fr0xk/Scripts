@@ -22,7 +22,7 @@ screen_size=$(termux-info | grep "Screen size" | awk '{print $3}')
 
 Xvfb :0 -screen 0 "${screen_size}x768" -ac &
 
-export DISPLAY=:0
+export DISPLAY=localhost:0
 
 xsetroot -solid "#000000"
 
