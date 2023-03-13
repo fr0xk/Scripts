@@ -2,7 +2,7 @@
 
 # Define required packages
 
-required_packages="x11-repo xorg-server xorg-xsetroot xorg-xrandr xterm mpv xorg-xvfb aterm"
+required_packages="x11-repo xorg-server xorg-xsetroot xorg-xrandr xterm mpv xorg-server-xvfb aterm"
 
 # Update the package list and install necessary packages
 
