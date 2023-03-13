@@ -78,7 +78,7 @@ git clone git@github.com:$GITHUB_USERNAME/Scripts.git $HOME/Scripts
 
 # Change to the repository directory
 
-cd $HOME/Scripts
+cd $HOME/repo/Scripts
 
 # Configure git to use the origin remote with SSH authentication
 
