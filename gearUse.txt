@@ -1,0 +1,18 @@
+Gear  Type of Riding         Description
+
+----  --------------         -----------
+
+1     Ultra-Super-Low        Bailout gear for really steep hills or easy hill climbing
+
+2     Super-Low              Long, steep climbs with heavy loads or tiredness
+
+3     Really Low             Steeper or longer climbs
+
+4     Medium-Low             Mild climbs or flat rides with some gear
+
+5     Medium                 Flat rides at a moderate pace
+
+6     Normal High            Fast riding on flat roads with tailwind
+
+7     Extra-High             Pedaling down hills
+
