@@ -3,7 +3,7 @@
 # Set variables
 USERNAME='user'
 VENV_NAME='env'
-DESKTOP_ENVIRONMENT='lxqt'
+DESKTOP_ENVIRONMENT='xfce4'
 
 # Prompt the user for the disk to use
 echo "Enter the disk to use (e.g. /dev/sda):"
