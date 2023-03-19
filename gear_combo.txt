@@ -1,0 +1,10 @@
+| Season  | Months                     | Flat Terrain Gear Combination | Uphill Climb Gear Combination |
+
+|---------|----------------------------|-------------------------------|-------------------------------|
+
+| Summer  | April to June              | Large Chainring (42T) with rear cog in the 28T to 18T range | Small Chainring (22T) with rear cog in the 28T to 21T range |
+
+| Monsoon | July to September          | Middle Chainring (32T) with rear cog in the 28T to 18T range | Small Chainring (22T) with rear cog in the 28T to 24T range |
+
+| Winter  | October to March           | Large Chainring (42T) with rear cog in the 24T to 14T range | Small Chainring (22T) with rear cog in the 28T to 24T range |
+
