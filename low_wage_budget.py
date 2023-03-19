@@ -1,3 +1,19 @@
+"""
+Here is a general breakdown of the allocation of expenditure by percentage for an average Indian household:
+
+Food and Beverages: 30-40%
+
+Housing and Utilities: 20-25%
+
+Transport and Communication: 10-15%
+
+Education and Health: 5-10%
+
+Personal and Miscellaneous: 10-15%
+
+Clothing and Footwear: 5-10%
+"""
+
 # Define spending breakdown percentages
 
 SPENDING_BREAKDOWN = {
