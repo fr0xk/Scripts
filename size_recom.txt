@@ -1,0 +1,16 @@
+| Height | Weight | Age | BMI | Recommended Bike Type |
+
+|--------|--------|-----|-----|-----------------------|
+
+| 4'10" - 5'1" (147-155cm) | <110 lbs (<50kg) | <18 | <22 | Road bike or Hybrid bike |
+
+| 5'2" - 5'5" (157-165cm) | 110-130 lbs (50-59kg) | 18-30 | 22-26 | Road bike, Hybrid bike, or Mountain bike |
+
+| 5'6" - 5'9" (168-175cm) | 130-160 lbs (59-73kg) | 30-50 | 26-30 | Road bike, Hybrid bike, or Mountain bike |
+
+| 5'10" - 6'1" (178-185cm) | 160-190 lbs (73-86kg) | 50-65 | 30-34 | Road bike, Hybrid bike, or Mountain bike |
+
+| 6'2" - 6'5" (188-196cm) | 190-220 lbs (86-100kg) | 65-80 | 34-38 | Road bike, Hybrid bike, or Mountain bike |
+
+| >6'5" (>196cm) | >220 lbs (>100kg) | >80 | >38 | Road bike, Hybrid bike, or Mountain bike |
+
