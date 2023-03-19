@@ -1,0 +1,116 @@
+# Here's an example of a row and column table in Python comments:
+
+# | Sector                | Company                                             |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Information Technology (IT) | Tata Consultancy Services                        |
+
+# |                          | Infosys Limited                                    |
+
+# |                          | Wipro Limited                                      |
+
+# |                          | HCL Technologies Limited                           |
+
+# |                          | Tech Mahindra Limited                              |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Banking              | HDFC Bank Limited                                   |
+
+# |                      | ICICI Bank Limited                                  |
+
+# |                      | Axis Bank Limited                                   |
+
+# |                      | Kotak Mahindra Bank Limited                         |
+
+# |                      | State Bank of India                                 |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Automotive           | Bajaj Auto Limited                                  |
+
+# |                      | Hero MotoCorp Limited                               |
+
+# |                      | Eicher Motors Limited                               |
+
+# |                      | Mahindra & Mahindra Limited                         |
+
+# |                      | Maruti Suzuki India Limited                         |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Consumer Goods       | Hindustan Unilever Limited                          |
+
+# |                      | Nestle India Limited                                |
+
+# |                      | Britannia Industries Limited                        |
+
+# |                      | Colgate-Palmolive (India) Limited                   |
+
+# |                      | Godrej Consumer Products Limited                    |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Pharmaceuticals      | Dr. Reddy's Laboratories Limited                    |
+
+# |                      | Sun Pharmaceutical Industries Limited               |
+
+# |                      | Cipla Limited                                       |
+
+# |                      | Divi's Laboratories Limited                         |
+
+# |                      | Serum Institute of India Limited                    |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Oil & Gas            | Reliance Industries Limited                         |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Finance              | Housing Development Finance Corporation Limited      |
+
+# |                      | Bajaj Finance Limited                               |
+
+# |                      | HDFC Life Insurance Company Limited                 |
+
+# |                      | ICICI Prudential Life Insurance Company Limited     |
+
+# |                      | SBI Life Insurance Company Limited                  |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Metals               | Tata Steel Limited                                  |
+
+# |                      | Hindalco Industries Limited                         |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Cement               | UltraTech Cement Limited                            |
+
+# |                      | Shree Cement Limited                                |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Power                | Power Grid Corporation of India Limited             |
+
+# |                      | NTPC Limited                                        |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Telecommunications   | Bharti Airtel Limited                               |
+
+# |----------------------|-----------------------------------------------------|
+
+# | Consumer Services    | Titan Company Limited                               |
+
+# |                      | Avenue Supermarts Limited (DMart)                    |
+
+# |                      | Adani Ports and Special Economic Zone Limited       |
+
+# |                      | Asian Paints Limited                                |
+
+# |                      | HDFC Asset Management Company Limited               |
+
+# |----------------------|-----------------------------------------------------|
+
