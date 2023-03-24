@@ -6,7 +6,7 @@ from typing import List, Dict
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "YOUR_API_KEY"
 
 common_phrases = [
 
