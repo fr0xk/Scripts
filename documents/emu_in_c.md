@@ -98,7 +98,7 @@ int main() {
 ```c
 #include <stdio.h>
 #include <stdlib.h>
-#include <pthread.h
+#include <pthread.h>
 
 #define BUFFER_SIZE 10
 
