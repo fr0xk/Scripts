@@ -2,7 +2,7 @@
 
 ## Python-like list comprehension in C:
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -19,7 +19,7 @@ int main() {
 
 ## Ruby-like string interpolation:
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -34,7 +34,7 @@ int main() {
 
 ## PHP-like dynamic typing:
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -49,7 +49,7 @@ int main() {
 
 # Swift-like optionals:
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -72,7 +72,7 @@ int main() {
 
 ## Kotlin-like null safety:
 
-```
+```c
 #include <stdio.h>
 
 int main() {
@@ -95,7 +95,7 @@ int main() {
 
 ## Go-like channels:
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h
@@ -160,7 +160,7 @@ int main() {
 
 ## Rust-like ownership and borrowing:
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -203,7 +203,7 @@ int main() {
 
 ## Haskell-like lazy evaluation:
 
-```
+```c
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -246,7 +246,7 @@ int main() {
 ```
  ## Idris-like dependent types:
 
- ```
+ ```c
  #include <stdio.h>
 #include <stdlib.h>
 
@@ -274,7 +274,7 @@ int main() {
 ```
 ## Lisp implementation in C:
 
-```
+```c
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
