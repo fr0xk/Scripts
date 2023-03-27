@@ -1,4 +1,4 @@
-# Language emulatuons in C
+# Language emulations in C
 
 ## Python-like list comprehension in C:
 
