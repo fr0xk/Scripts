@@ -12,6 +12,46 @@ Education and Health: 5-10%
 Personal and Miscellaneous: 10-15%
 
 Clothing and Footwear: 5-10%
+
+
+# This is an example of a Python file with a table in a comment
+
+# | Category | Examples |
+
+# | --- | --- |
+
+# | Food and Beverages | Groceries, Eating out, Alcoholic beverages |
+
+# | Housing and Utilities | Rent/mortgage payments, Electricity, gas, and water bills, Internet and cable TV bills, Property taxes and home insurance |
+
+# | Transport and Communication | Car payments and fuel, Public transportation fees, Telephone and mobile phone bills, Internet and cable TV bills |
+
+# | Education and Health | Tuition fees, Health insurance premiums, Doctor visits and medical procedures, Gym or fitness club memberships |
+
+# | Personal and Miscellaneous | Entertainment expenses, Gifts, Travel expenses, Hobbies and sports equipment |
+
+# | Clothing and Footwear | Clothing purchases, Shoes and boots, Accessories, Laundry and dry cleaning bills |
+
+
+# Below is an example of a simple function that takes in a list of expenses and returns the total amount spent
+
+def calculate_total_expenses(expenses):
+
+    total = 0
+
+    for expense in expenses:
+
+        total += expense
+
+    return total
+
+# Example usage
+
+expenses = [50.00, 75.23, 125.50, 23.99]
+
+total = calculate_total_expenses(expenses)
+
+print("Total expenses: $" + str(total))
 """
 
 # Define spending breakdown percentages
