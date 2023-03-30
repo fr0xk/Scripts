@@ -1,3 +1,11 @@
+"""
+This Python script optimizes running Python on Raspberry Pi: sum_numbers(n), process_large_file(file_path), compress_file(input_file_path, output_file_path), save_large_file(file_path, data), 
+run_gui_app_remotely(app_command, remote_computer_ip), example_optimization(), process_data(), worker(data), process_data_multiprocessing(data). 
+Techniques include using built-in functions, 
+avoiding unnecessary I/O, multiprocessing, and Flask for lightweight web apps.
+
+"""
+
 import os
 
 import gzip
