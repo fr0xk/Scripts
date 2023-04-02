@@ -78,5 +78,13 @@ check_error() {
 
 }
 
+# Check if ssh is installed and set up
+if [ -x "$(command -v ssh)" ] && [ -f ~/.ssh/id_rsa ]; then
+  # Add ssh key to ssh-agent
+  eval "$(ssh-agent -s)"
+  ssh-add ~/.ssh/id_rsa
+fi
+
+
 trap 'check_error' ERR;
 
