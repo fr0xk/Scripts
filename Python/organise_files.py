@@ -12,7 +12,9 @@ languages = {
 
     'JavaScript': ['.js'],
 
-    'C++': ['.cpp', '.h'],
+    'C++': ['.cpp', '.c', '.h', '.hpp'],
+    
+    'Bash': ['.bash', '.sh"],
 
     'HTML': ['.html'],
 
