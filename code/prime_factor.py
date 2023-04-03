@@ -1,114 +1,48 @@
-from typing import List, Tuple
+from typing import List
+from math import gcd
 
-import math
 
 def prime_factors(n: int) -> List[int]:
-
-    """Returns a list of prime factors of a given number."""
-
-    factors = []
-
-    i = 2
-
-    while i <= n:
-
-        if n % i == 0:
-
-            factors.append(i)
-
-            n //= i
-
+    """Returns a list of prime factors of a given number n"""
+    def factors(n: int, i: int) -> List[int]:
+        if i * i > n:
+            return [n] if n > 1 else []
+        elif n % i == 0:
+            return [i] + factors(n // i, i)
         else:
+            return factors(n, i + 1)
 
-            i += 1
+    return factors(abs(n), 2)
 
-    return factors
 
 def hcf(a: int, b: int) -> int:
+    """Returns the highest common factor of two numbers a and b"""
+    return abs(a) if b == 0 else hcf(b, a % b)
 
-    """Returns the highest common factor of two numbers."""
-
-    while b != 0:
-
-        a, b = b, a % b
-
-    return a
 
 def lcm(a: int, b: int) -> int:
+    """Returns the lowest common multiple of two numbers a and b"""
+    return abs(a * b) // gcd(a, b)
 
-    """Returns the lowest common multiple of two numbers."""
 
-    return a * b // hcf(a, b)
-
-def hcf_lcm(numbers: List[int]) -> Tuple[int, int]:
-
-    """Returns the highest common factor and lowest common multiple of a list of numbers."""
-
-    if not numbers:
-
-        return 0, 0
-
-    elif len(numbers) == 1:
-
-        return numbers[0], numbers[0]
-
-    else:
-
-        hcf_val = numbers[0]
-
-        lcm_val = numbers[0]
-
-        for n in numbers[1:]:
-
-            hcf_val = hcf(hcf_val, n)
-
-            lcm_val = lcm(lcm_val, n)
-
-        return hcf_val, lcm_val
-
-def get_numbers() -> List[int]:
-
-    """Prompts the user to enter a list of integers and returns the list."""
-
-    numbers = []
-
+def read_int(prompt: str) -> int:
+    """Reads an integer from user input with the given prompt"""
     while True:
-
         try:
-
-            n = int(input("Enter a number (or 0 to stop): "))
-
-            if n == 0:
-
-                return numbers
-
-            else:
-
-                numbers.append(n)
-
+            num: int = int(input(prompt))
+            return num
         except ValueError:
+            print("Invalid input. Please enter an integer.")
 
-            print("Invalid input. Please enter a valid integer.")
 
-def main() -> None:
-
-    """Main function that prompts the user for input and prints prime factors, HCF, and LCM."""
-
-    numbers = get_numbers()
-
-    for n in numbers:
-
-        factors = prime_factors(n)
-
-        hcf_val, lcm_val = hcf_lcm([n] + [m for m in numbers if m != n])
-
-        print(f"Prime factors of {n}: {factors}")
-
-        print(f"HCF of {n} and {numbers}: {hcf_val}")
-
-        print(f"LCM of {n} and {numbers}: {lcm_val}")
-
-if __name__ == "__main__":
-
-    main()
-
+if __name__ == '__main__':
+    num1: int = read_int("Enter first number: ")
+    num2: int = read_int("Enter second number: ")
+    pf1: List[int] = prime_factors(num1)
+    hcf_val: int = hcf(num1, num2)
+    lcm_val: int = lcm(num1, num2)
+    pf2: List[int] = prime_factors(num2)
+    print(f"Prime factors of {num1}: {pf1}")
+    print(f"HCF of {num1} and {num2}: {hcf_val}")
+    print(f"LCM of {num1} and {num2}: {lcm_val}\n")
+    
