@@ -22,11 +22,11 @@ This repository contains various files and code snippets created by @fr0xk.
 
 ## Git Stats
 
-- Last commit: 4 minutes ago
+- Last commit:
 
-- Number of commits: 10
+- Number of commits: 
 
-- Last updated: now
+- Last updated: 
 
 ## Contributors
 
