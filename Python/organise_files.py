@@ -22,6 +22,8 @@ languages = {
 
     'PHP': ['.php'],
 
+    'Markdown': ['.md', '.md2', '.markdown'],
+
     'Ruby': ['.rb'],
 
     'Swift': ['.swift'],
