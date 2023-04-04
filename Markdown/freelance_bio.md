@@ -46,6 +46,7 @@ With a passion for delivering quality work to clients, I have completed several 
 My portfolio showcases my proficiency in the following areas:
 
 - Developed few automation processes in finance industry
+
 As a freelancer, I pride myself on my ability to deliver while maintaining open communication with clients.
 I am always looking for new and exciting opportunities to challenge myself and expand my skillset.
 
