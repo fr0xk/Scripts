@@ -1,6 +1,6 @@
 # Description
 
-This program defines personal `'Sudarshan Kakoty'`, with a class containing a `describe` hat returns a string description of the sudarshan's identity, skills, and portfolio.
+This program defines personal `'Sudarshan Kakoty'`, with a class containing a `describe` that returns a string description of the sudarshan's identity, skills, and portfolio.
 
 ## Usage
 
