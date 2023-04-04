@@ -1,6 +1,6 @@
-# Freelancer Description
+# Description
 
-This program defines a `Freelancer` class with a `describe` method that returns a string description of the freelancer's identity, skills, and portfolio.
+This program defines a `Freelancer: 'Sudarshan Kakoty'`, a class with a `describe` method that returns a string description of the sudarshan's identity, skills, and portfolio.
 
 ## Usage
 
