@@ -1,6 +1,6 @@
 # Description
 
-This program defines a `Freelancer: 'Sudarshan Kakoty'`, a class with a `describe` method that returns a string description of the sudarshan's identity, skills, and portfolio.
+This program defines a `'Sudarshan Kakoty'`, with a class containing a `describe` hat returns a string description of the sudarshan's identity, skills, and portfolio.
 
 ## Usage
 
