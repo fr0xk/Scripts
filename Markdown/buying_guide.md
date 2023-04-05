@@ -93,16 +93,10 @@ Examples of premium products for low wage people:
 Here is a table of products categorized into cheap, mid-range, and premium based on the Indian context for people on a low wage:
 
 | Cheap | Mid-Range | Premium |
-
 | --- | --- | --- |
-
 | Generic brand groceries | Branded but affordable clothing | High-quality branded clothing |
-
 | Basic clothing from local shops | Mid-range smartphones with good features | High-end smartphones |
-
 | Non-branded kitchen utensils | Branded kitchen appliances that offer decent quality | High-quality, energy-efficient appliances |
-
 | Basic furniture from local shops | Branded furniture that provides better comfort and longevity | Branded furniture with top-of-the-line features |
-
 | Low-cost home cleaning products | Branded cleaning products with decent quality | High-quality, organic cleaning products |
 
