@@ -4,31 +4,31 @@
 
 Based on the analysis of the financial metrics of the following stocks, we believe that they have the potential to produce decent quality returns on a risk-adjusted basis:
 
-- Current Ratio: 1.6
+- Current Ratio: 1.6x
 
 - Debt to Equity: 4.5%
 
-- Asset Turnover: 0.8
+- Asset Turnover: 0.8x
 
-- Int. Cover Ratio: 26.6
+- Int. Cover Ratio: 26.6x
 
-- Return on Asset: 11.9
+- Return on Asset: 11.9%
 
-- ROE: 17.90
+- ROE: 17.90%
 
-- NPM: 12.5
+- NPM: 12.5%
 
-- Cash Flow: 13.6
+- Cash Flow: 13.6%
 
-- Return on Investment: 15.4
+- Return on Investment: 15.4%
 
-- EPS Growth: 11.4
+- EPS Growth: 11.4%
 
-- Revenue Growth: 10.23
+- Revenue Growth: 10.23%
 
 - 5Y CAGR: 12.6%
 
-- Average EV/Sales: 5.58
+- Average EV/Sales: 5.58x
 
 ## Investment Strategy
 
