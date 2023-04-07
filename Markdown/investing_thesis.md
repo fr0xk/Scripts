@@ -22,7 +22,7 @@ Based on the analysis of the financial metrics of the following stocks, we belie
 
 - Return on Investment: 15.4
 
-- EPS Growth: 11.4 (5Y avg)
+- EPS Growth: 11.4
 
 - Revenue Growth: 10.23
 
@@ -32,7 +32,7 @@ Based on the analysis of the financial metrics of the following stocks, we belie
 
 ## Investment Strategy
 
-Our investment strategy is to invest in companies with strong financial metrics that have the potential to deliver good returns on a risk-adjusted basis.
+Our investment strategy is to invest in companies with strong financial metrics that have the potential to deliver good returns on a risk-adjusted basis. Note that performance matrices are on average basis 
 
 The filtered companies with above criteria should yield postive returns over a long horizon. The current ratio of all three companies is above the industry average, indicating a strong ability to pay short-term debts. Additionally, the debt-to-equity ratio of the companies is low, indicating a low level of financial risk.
 
