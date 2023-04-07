@@ -53,3 +53,30 @@ The table below shows the average business cycle of NYSE-listed sectors, based o
 | Utilities                 | 8.5 years              |
 
 Note that these figures are only rough estimates, and the actual business cycle for each sector can vary based on the unique circumstances of the economy and the industry.
+
+# Global Stock Market Returns, Drawdowns, Valuations, and Gross Profit Margins
+
+The following are approximate average returns, drawdowns, valuations, and gross profit margins for a few of the most widely recognized global stock market indexes over the past 10, 30, and 50 years:
+
+## MSCI World Index
+
+Represents stocks from 23 developed countries
+
+| Time Period | Average Return | Average Drawdown | Average Valuation (P/E Ratio) | Average Gross Profit Margin |
+|-------------|----------------|------------------|-------------------------------|------------------------------|
+| 10 years    | around 9%      | around -12%      | around 19                     | around 36%                   |
+| 30 years    | around 8%      | around -24%      | around 16                     | around 33%                   |
+| 50 years    | around 7%      | around -31%      | around 14                     | around 31%                   |
+
+## S&P Global 1200
+
+Represents stocks from 31 developed and emerging market countries
+
+| Time Period | Average Return | Average Drawdown | Average Valuation (P/E Ratio) | Average Gross Profit Margin |
+|-------------|----------------|------------------|-------------------------------|------------------------------|
+| 10 years    | around 10%     | around -14%      | around 21                     | around 33%                   |
+| 30 years    | around 8%      | around -33%      | around 16                     | around 31%                   |
+| 50 years    | around 7%      | around -45%      | around 14                     | around 31%                   |
+
+Please note that these are just averages and that past performance is not a guarantee of future results. Additionally, individual investors may experience returns, drawdowns, valuations, and gross profit margins that differ from these averages based on their investment strategy, timing of investments, and other factors. The gross profit margin is a measure of profitability that is calculated as gross profit divided by revenue. It can vary based on industry and other factors.
+
