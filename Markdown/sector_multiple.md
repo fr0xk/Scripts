@@ -17,6 +17,22 @@ This table compares the 10-year average price-to-sales (P/S) ratio for various i
 | Materials       | 1.06                 | 0.85                |
 | Real Estate     | 1.05                 | 0.81                |
 
+## India Only
+
+| Sector | Average Price-to-Sales Ratio |
+| --- | --- |
+| Technology | 7.9x |
+| Consumer Goods | 2.2x |
+| Healthcare | 4.4x |
+| Energy | 1.5x |
+| Financial | 4.9x |
+| Materials | 2.2x |
+| Industrials | 1.6x |
+| Real Estate | 2.9x |
+| Communication Services | 1.6x |
+| Consumer Discretionary | 2.2x |
+| Utilities | 1.3x |
+
 
 # Average Business Cycle of NYSE Listed Sectors
 
