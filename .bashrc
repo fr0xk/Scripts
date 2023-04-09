@@ -85,6 +85,36 @@ if [ -x "$(command -v ssh)" ] && [ -f ~/.ssh/id_rsa ]; then
   ssh-add ~/.ssh/id_rsa
 fi
 
+# Define a function to show GitHub branches and their status if current directory is a GitHub directory
+if command -v git >/dev/null 2>&1; then
+  show_github_status() {
+    if [ -d .git ]; then
+      # Check if the current directory is a GitHub repository
+      git remote -v | grep -q "github.com" && {
+        # Get the name of the current branch
+        current_branch=$(git symbolic-ref --short HEAD)
+
+        # Get the status of the current branch
+        status=$(git status --porcelain | awk '{print $1}' | sort | uniq)
+
+        # Set the color for the status
+        case "$status" in
+          M) color="$(tput setaf 1)" ;; # red for modified
+          A) color="$(tput setaf 2)" ;; # green for added
+          D) color="$(tput setaf 1)" ;; # red for deleted
+          ??) color="$(tput setaf 7)" ;; # gray for untracked
+          *) color="$(tput setaf 3)" ;; # yellow for other changes
+        esac
+
+        # Set the prompt to display the branch and status
+        PS1="\[$(tput setaf 2)\]\u@\h\[$(tput setaf 4)\] \w \[\$(git rev-parse --show-toplevel | xargs basename)\]\[$(tput setaf 6)\]/$current_branch\[$(tput sgr0)\] $color$status \[$(tput sgr0)\]\$ "
+      }
+    fi
+  }
+
+  # Call the function to show GitHub branches and their status
+  show_github_status
+fi
 
 trap 'check_error' ERR;
 
