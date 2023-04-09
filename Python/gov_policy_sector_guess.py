@@ -19,12 +19,20 @@ def download_nltk_libraries():
 
 def get_impacted_sectors(statement):
     keywords = [token.lower() for token in word_tokenize(statement) if token.isalpha() and token.lower() not in stopwords.words('english')]
-    return set(sector for sector, subsectors in SECTORS_DICT.items() for keyword in keywords
-               if keyword in sector.lower() or any(keyword in subsector.lower() for subsector in subsectors))
+    impacted_sectors = set()
+    for sector, subsectors in SECTORS_DICT.items():
+        if any(keyword in sector.lower() or keyword in subsector.lower() for keyword in keywords for subsector in subsectors):
+            impacted_sectors.add(sector)
+    return impacted_sectors
 
 def guess_sector(statement):
     sentiment_scores = SentimentIntensityAnalyzer().polarity_scores(statement)
-    return ["Technology", "Energy", "Infrastructure"][int(sentiment_scores['compound'] <= -0.05) + int(sentiment_scores['compound'] > 0.05)]
+    if sentiment_scores['compound'] <= -0.05:
+        return "Infrastructure"
+    elif sentiment_scores['compound'] > 0.05:
+        return "Technology"
+    else:
+        return "Energy"
 
 def main():
     try:
@@ -40,7 +48,8 @@ def main():
         print(f"No potential sectors found based on the given statement. Guessing that the statement is related to the {guessed_sector} sector.")
     else:
         print("Potential sectors impacted by government policies for the given statement:")
-        print(*("- " + sector for sector in impacted_sectors), sep="\n")
+        for sector in impacted_sectors:
+            print(f"- {sector}")
 
 if __name__ == "__main__":
     main()
