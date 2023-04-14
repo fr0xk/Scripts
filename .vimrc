@@ -13,7 +13,16 @@ set expandtab
 set number
 
 " Set colorscheme
-colorscheme desert
+colorscheme slate
+
+function! RandomTheme()
+    let themes = ['default', 'delek', 'evening', 'industry', 'koehler', 'murphy', 'ron', 'shine', 'slate', 'torte', 'zellner']
+    let theme = themes[rand() % len(themes)]
+    execute 'colorscheme ' . theme
+    echo 'Selected theme: ' . theme
+endfunction
+
+nnoremap w :call RandomTheme()<CR>
 
 " Set default font size
 set guifont=Inconsolata:h14
