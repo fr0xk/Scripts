@@ -45,7 +45,7 @@ nnoremap <C-v> "+p
 vnoremap <C-v> "+p
 
 " Enable syntax checking for supported file types
-autocmd FileType python,ruby,javascript,typescript,go,nim,nix,sh,yaml,json,html,css,lua setlocal makeprg=echo\ % && setlocal errorformat=%f:%l:%c:\ %m
+autocmd FileType python,ruby,javascript,typescript,go,nim,nix,sh,yaml,json,html,css,lua
 
 " Set spellcheck options
 set spell spelllang=en_us
