@@ -54,5 +54,5 @@ Therefore, the piggy bank is worth $83.90 today if the discount rate is 5%. If i
 
 - Loss aversion: Fear of loss can lead to avoidance of buying or early selling, even when the investment is a good deal.
 
-If you have any questions or want to learn more about DCF, please let me know.
+Note: For novices, use traditional price to revenue ratio around < 1-3. Valuation multiple is nothing but shortcut of DCF. Over large amount of holdings, it will produce same results over someone doing hour after hour of spreadsheet analysis.
 
