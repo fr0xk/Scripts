@@ -1,6 +1,6 @@
 # Discounted Cash Flow (DCF)
 
-DCF is a method used to determine the present value of an investment based on its expected future cash flows. To determine the present value, we discount each future cash flow by a discount rate, which is the interest rate that could be earned if the money was invested elsewhere.
+DCF is a method used to determine the present value of an investment based on its expected future cash flows. To determine the present value, we discount each future cash flow by a discount rate, which is the interest rate that could be earned if the money was invested elsewhere. You need to know two things: how much money the piggy bank will give you each year, and how much you can earn by putting your money somewhere else, like a bank account. The first thing is called the future cash flow, and the second thing is called the discount rate.
 
 ## Calculating DCF
 
