@@ -6,9 +6,9 @@
 - [Strategy Details](#strategy-details)
 - [Expected Value Calculation](#expected-value-calculation)
 - [Risks and Challenges](#risks-and-challenges)
-- [Examples and Case Studies](#examples-and-case-studies)
-- [Charts and Graphs](#charts-and-graphs)
-- [Conclusion and Summary](#conclusion-and-summary)
+
+
+
 
 ## Overview
 
