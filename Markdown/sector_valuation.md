@@ -1,4 +1,4 @@
-# Sector Valuations
+# Sector Valuations for Indian Equities (2023)
 
 | Sector                 | PE * PB | 
 | ----------------------| -------:|
