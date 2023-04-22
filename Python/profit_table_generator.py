@@ -1,66 +1,48 @@
-def calculate_profit(current_revenue, profit_margin, revenue_growth_rate, expense_growth_rate, num_years):
+# Import tabulate library for printing tables
+from tabulate import tabulate
 
-    revenue = current_revenue
+# Define function to handle user input for a float value
+def get_float_input(prompt):
+    while True:
+        try:
+            value = float(input(prompt))
+            return value
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
 
-    expenses = current_revenue / (1 + profit_margin)
+# Define function to handle user input for an integer value
+def get_int_input(prompt):
+    while True:
+        try:
+            value = int(input(prompt))
+            return value
+        except ValueError:
+            print("Invalid input. Please enter a valid number.")
 
-    profits = revenue * profit_margin
+# Ask the user to enter the initial values
+revenue = get_float_input("Enter the initial revenue: $") # Initial revenue
+net_margin = get_float_input("Enter the net profit margin (as a percentage): ") / 100 # Net profit margin
+growth_rate = get_float_input("Enter the revenue growth rate (as a percentage): ") / 100 # Revenue growth rate
+years = get_int_input("Enter the number of years: ") # Number of years
 
-    results = [(1, revenue, expenses, profits)]
+# Create an empty list to store the results
+results = []
 
-    for i in range(2, num_years+1):
+# Loop through each year and calculate the values
+for year in range(years + 1):
+    # Calculate the net profit for the current year
+    net_profit = revenue * net_margin
 
-        revenue = revenue * (1 + revenue_growth_rate)
+    # Append the values to the results list as a tuple
+    results.append((year, revenue, growth_rate, net_margin, net_profit))
 
-        expenses = expenses * (1 + expense_growth_rate)
+    # Update the revenue for the next year
+    revenue = revenue * (1 + growth_rate)
 
-        profits = revenue * profit_margin
+# Calculate the total net profit by summing up the net profits
+total_net_profit = sum([result[4] for result in results])
 
-        results.append((i, revenue, expenses, profits))
-
-    return results
-
-try:
-
-    current_revenue = float(input("Enter the current revenue: "))
-
-    profit_margin = float(input("Enter the profit margin as a decimal: "))
-
-    revenue_growth_rate = float(input("Enter the revenue growth rate as a decimal: "))
-
-    expense_growth_rate = float(input("Enter the expense growth rate as a decimal: "))
-
-    num_years = int(input("Enter the number of years: "))
-
-    results = calculate_profit(current_revenue, profit_margin, revenue_growth_rate, expense_growth_rate, num_years)
-
-    # Determine the maximum length of each column to adjust spacing accordingly
-
-    max_lengths = [max(len(str(result[i])) for result in results) + 2 for i in range(4)]
-
-    header = [f"Year".ljust(max_lengths[0]), f"Revenue".ljust(max_lengths[1]), f"Expenses".ljust(max_lengths[2]), "Profit"]
-
-    # Print the table header
-
-    print("  ".join(header))
-
-    # Print each row of the table
-
-    for result in results:
-
-        row = [str(result[0]).ljust(max_lengths[0]), f"{result[1]:.2f}".ljust(max_lengths[1]), f"{result[2]:.2f}".ljust(max_lengths[2]), f"{result[3]:.2f}"]
-
-        print("  ".join(row))
-
-except ValueError:
-
-    print("Error: Invalid input. Please enter a valid number.") 
-
-except ZeroDivisionError:
-
-    print("Error: Profit margin cannot be zero.") 
-
-except:
-
-    print("Error: An unexpected error occurred.")
+# Print the results using tabulate library
+print(tabulate(results, headers=["Year", "Revenue", "Growth rate", "Net profit margin", "Net profit"], floatfmt=".2f"))
+print(f"Total net profit in {years} years: ${total_net_profit:.2f}")
 
