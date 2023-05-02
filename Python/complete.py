@@ -11,7 +11,7 @@ args = parser.parse_args()
 prompt = input('Enter the text to generate: ')
 
 # Set up the OpenAI API client
-openai.api_key = "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"
+openai.api_key = "YOIR_API_KEY"
 model_engine = args.model
 
 # Generate the completion
