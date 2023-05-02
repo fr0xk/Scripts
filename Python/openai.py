@@ -1,42 +1,27 @@
-import argparse
 import openai
+import argparse
 
-def generate_completion(prompt, api_key, model):
-    openai.api_key = api_key
-    completions = openai.Completion.create(
-        engine=model,
-        prompt=prompt,
-        max_tokens=1024,
-        n=1,
-        stop=None,
-        temperature=0.5,
-    )
-    message = completions.choices[0].text
-    return message.strip()
+# Parse command line arguments
+parser = argparse.ArgumentParser(description='Generate text using OpenAI GPT-3')
+parser.add_argument('--model', help='The name of the GPT-3 model to use', default='text-davinci-002')
+parser.add_argument('--max-tokens', help='The maximum number of tokens to generate', type=int, default=1024)
+args = parser.parse_args()
 
-if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Generate text completion using OpenAI's GPT-2 model")
-    parser.add_argument("prompt", type=str, help="Input prompt for GPT-2 model")
-    parser.add_argument("--api-key", type=str, help="OpenAI API key")
-    parser.add_argument("--model", type=str, default="text-davinci-002", help="GPT-2 model to use")
-    args = parser.parse_args()
+# Prompt the user for the text to generate
+prompt = input('Enter the text to generate: ')
 
-    api_key = args.api_key or openai.api_key
-    if not api_key:
-        print("Error: No OpenAI API key provided. Please provide an API key using the --api-key option or set it as the OPENAI_API_KEY environment variable.")
-        exit(1)
+# Set up the OpenAI API client
+openai.api_key = "YOUR_API_KEY"
+model_engine = args.model
 
-    # Check for potential vulnerability in API key
-    if "sk_" in api_key:
-        print("Warning: Your OpenAI API key appears to be a secret key. Please use an API key with only permissions necessary for your use case.")
-    
-    try:
-        message = generate_completion(args.prompt, api_key, args.model)
-        print(message)
-    except openai.Error as e:
-        print(f"OpenAI API error: {e}")
-        exit(1)
-    except Exception as e:
-        print(f"Error: {e}")
-        exit(1)
+# Generate the completion
+completions = openai.Completion.create(
+    engine=model_engine,
+    prompt=prompt,
+    max_tokens=args.max_tokens
+)
+
+# Print the generated text
+message = completions.choices[0].text
+print(message)
 
