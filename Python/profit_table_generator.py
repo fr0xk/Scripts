@@ -24,6 +24,7 @@ revenue = get_float_input("Enter the initial revenue: $") # Initial revenue
 net_margin = get_float_input("Enter the net profit margin (as a percentage): ") / 100 # Net profit margin
 growth_rate = get_float_input("Enter the revenue growth rate (as a percentage): ") / 100 # Revenue growth rate
 years = get_int_input("Enter the number of years: ") # Number of years
+discount_rate = get_float_input("Enter the discount rate (as a percentage): ") / 100 # Discount rate
 
 # Create an empty list to store the results
 results = []
@@ -40,9 +41,9 @@ for year in range(years + 1):
     revenue = revenue * (1 + growth_rate)
 
 # Calculate the total net profit by summing up the net profits
-total_net_profit = sum([result[4] for result in results])
+total_net_profit = sum([result[4] / ((1 + discount_rate) ** result[0]) for result in results])
 
 # Print the results using tabulate library
 print(tabulate(results, headers=["Year", "Revenue", "Growth rate", "Net profit margin", "Net profit"], floatfmt=".2f"))
-print(f"Total net profit in {years} years: ${total_net_profit:.2f}")
+print(f"Total discounted net profit in {years} years at a discount rate of {discount_rate:.2%}: ${total_net_profit:.2f}")
 
