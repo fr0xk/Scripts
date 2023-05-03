@@ -104,3 +104,5 @@ def main():
 
     print(f"The recommended tire pressure is {recommended_pressure_psi} PSI.")
 
+if __name__ == "__main__":
+    main()
