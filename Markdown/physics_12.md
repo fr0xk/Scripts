@@ -98,4 +98,4 @@ Here are some important questions from CBSE Physics Class 12:
 - Nuclear fission and fusion 
 - Characteristics of semiconductors, p-n junction diode, zener diode, LED, photodiode, solar cell, transistor, logic gates, etc.
 
-Some possible continuations for the assistant response are:
+
