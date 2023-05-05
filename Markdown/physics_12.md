@@ -45,7 +45,7 @@ Here are some important questions from CBSE Physics Class 12:
 - **Chapter 9 - Ray Optics and Optical Instruments**
     - State Snell's law of refraction and write its mathematical form. Derive lens maker's formula using this law.
     - Define magnifying power of a microscope and write its expression in terms of focal lengths of objective and eyepiece lenses.
-    - Draw a ray diagram showing the formation of image by a compound microscope when the final image is formed at infinity.¹²
+    - Draw a ray diagram showing the formation of image by a compound microscope when the final image is formed at infinity.
 
 - **Chapter 10 - Wave Optics**
     - State Huygens' principle and use it to derive Snell's law of refraction.
