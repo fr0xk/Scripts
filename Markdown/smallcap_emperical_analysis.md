@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Small-cap companies are those with a market capitalization of less than Rs. 5,000 crore. They are usually considered to be more risky and volatile than large-cap or mid-cap companies, but they also offer higher growth potential and returns in the long term. According to ³, there are about 1,500 small-cap companies listed on the Indian stock exchanges, accounting for about 10% of the total market capitalization.
+Small-cap companies are those with a market capitalization of less than Rs. 10,000 crore. They are usually considered to be more risky and volatile than large-cap or mid-cap companies, but they also offer higher growth potential and returns in the long term. According to ³, there are about 1,500 small-cap companies listed on the Indian stock exchanges, accounting for about 10% of the total market capitalization.
 
 In this report, we will analyze the performance and prospects of small-cap companies in India, with a focus on those with robust balance sheets and high net profit margins. We will also compare them with the average small-cap companies and the broader market indices.
 
