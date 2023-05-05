@@ -41,7 +41,7 @@ Based on the key findings, we can conclude that small-cap companies with robust 
 
 However, investing in small-cap companies also involves higher risk and volatility than investing in large-cap or mid-cap companies. Therefore, investors should do their own due diligence and research before investing in any small-cap company, and diversify their portfolio across different sectors and industries.
 
-Some examples of small-cap companies with robust balance sheets and high net profit margins are ⁴:
+Some examples of small-cap companies with robust balance sheets and high net profit margins are :
 
 - Dixon Technologies: A leading manufacturer of consumer electronics and appliances, with a net profit margin of 6.2% and an EV/revenue ratio of 0.6x.
 - Nilkamal: A leading manufacturer of plastic products and furniture, with a net profit margin of 6.4% and an EV/revenue ratio of 0.7x.
