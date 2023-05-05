@@ -1,6 +1,6 @@
-## Import Topics of Physics
+## Topics of Physics
 
-Here are some important questions from CBSE Physics Class 12 that I found from the web:
+Here are some important questions from CBSE Physics Class 12:
 
 - **Chapter 1 - Electric Charges and Fields**
     - Define electric flux. Write its SI units.
