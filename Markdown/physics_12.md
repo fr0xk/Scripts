@@ -52,6 +52,8 @@ Here are some important questions from CBSE Physics Class 12 that I found from t
     - Explain Young's double slit experiment and derive the condition for constructive and destructive interference at a point on the screen.
     - What is diffraction of light? How does it differ from interference?¹²
 
+## Extremely important topics:
+
 - Coulomb's Law of Vector Forces between multiple charges
 - Electric field due to system of charges
 - Electric dipole in the external electric field
