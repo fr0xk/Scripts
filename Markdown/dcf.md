@@ -35,4 +35,4 @@ This means that an investor should be willing to pay a maximum of $115.45 for sh
 
 ## Summary
 
-In summary, discounted cash flow is a powerful tool that investors can use to determine the present value of a company by forecasting its future cash flows and discounting them by a certain rate.
+In summary, discounted cash flow is a powerful tool that investors can use to determine the present value of a company by forecasting its future cash flows and discounting them by a certain rate. Price is what you pay, value is what you get. A good company, a great company or a junk company - it doesn’t matter as long as either the balance sheet or cash flows are strong and the price paid is cheap enough
