@@ -34,4 +34,4 @@ Response: A global and universal currency? More like a niche and elitist currenc
 Response: A social and political movement? More like a cult and a scam. Bitcoin is not a grassroots phenomenon, it is a top-down scheme. It is controlled by a few powerful entities, such as developers, miners, exchanges, and influencers. It is also exploited by many opportunists, such as scammers, hackers, fraudsters, and charlatans. It is not a democratic or transparent system, it is an opaque and secretive system. It is not a force for good, it is a source of harm.
 
 
-PS: I got banned for doubting Bitcoin, not even violated their rules
+PS: You still won't understand it! Because only few do..! 
