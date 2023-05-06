@@ -21,9 +21,12 @@ Present Value = EPS / (1 + Discount Rate)^Number of Years
 Using this formula and the given information, we can calculate the present value of the company's earnings for the next 10 years as follows:
 
 Year 1: $12 * 1.03 / (1 + 0.04) = $11.88
+
 Year 2: $12 * 1.03^2 / (1 + 0.04)^2 = $11.77
+
 Year 3: $12 * 1.03^3 / (1 + 0.04)^3 = $11.66
 ...
+
 Year 10: $12 * 1.03^10 / (1 + 0.04)^10 = $10.82
 
 By adding up the present value of the company's earnings for each year, we get a total present value of $115.45.
