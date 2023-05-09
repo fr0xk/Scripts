@@ -1,7 +1,7 @@
 # The DCF Delusion: Why Most Retail Investors Are Fooling Themselves With Flawed Valuations
 
 
-I hope you are all doing well and enjoying the market euphoria. I have been lurking on this subreddit for a while and I have noticed a disturbing trend: many of you are acting smart with discounted cash flow (DCF) models.
+
 
 You know what I mean. You plug in some optimistic assumptions about growth rates, margins, discount rates, terminal values, etc. and voila, you get a nice valuation for your favorite stock. You then use this valuation to justify buying more shares or holding on to your existing ones.
 
