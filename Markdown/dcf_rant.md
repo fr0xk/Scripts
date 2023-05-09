@@ -2,8 +2,9 @@
 
 
 
+I hope you are all doing well and enjoying the market euphoria by the bless of your FED that convinced you all that worst is over. I have been lurking on this subreddit for a while and I have noticed a disturbing trend: many of you are acting smart with discounted cash flow (DCF) models.
 
-You know what I mean. You plug in some optimistic assumptions about growth rates, margins, discount rates, terminal values, etc. and voila, you get a nice valuation for your favorite stock. You then use this valuation to justify buying more shares or holding on to your existing ones.
+You know what I mean. You plug in some optimistic assumptions about growth rates, margins, discount rates, terminal values, etc. and voila, you get a nice valuation for your favorite stock (usually those top 20% of indexed ones). You then use this valuation to justify buying more shares or holding on to your existing ones.
 
 But let me tell you something: DCF is not a magic wand that can turn any stock into a bargain. It is a tool that requires a lot of skill, judgment and humility to use properly. And most of you are not using it properly.
 
@@ -11,9 +12,9 @@ You are making two big mistakes: one, you are overestimating the future cash flo
 
 Let me explain.
 
-- First, you are overestimating the future cash flows of the company. You are assuming that the company will grow at a high rate for a long time, that it will maintain or improve its margins, that it will face no competition or disruption, that it will have no capital expenditures or working capital needs, that it will pay no taxes or dividends, etc.
+- First, you are overestimating the future cash flows of the company. You are assuming that the company will grow at an above average rate for a long time, then grow at constant rate forever, that it will maintain or improve its margins, that it will face no competition or disruption, that it will have no capital expenditures or working capital needs, that it will pay no taxes or dividends, etc.
 
-- But these assumptions are unrealistic and often contradicted by historical evidence. Most companies do not grow at a high rate for a long time. Most companies face competition and disruption. Most companies have capital expenditures and working capital needs. Most companies pay taxes and dividends.
+- But these assumptions are unrealistic and often contradicted by historical evidence. Most companies do not grow at a high rate for a long time. Most companies face competition and disruption. Most companies have capital expenditures and working capital needs. Most companies pay taxes and dividends. When I say most, I'm talking about 90% of global publically traded companies!
 
 - You are ignoring the fact that growth is hard to sustain and comes at a cost. You are ignoring the fact that margins tend to revert to the mean over time. You are ignoring the fact that the market is dynamic and unpredictable.
 
@@ -29,7 +30,7 @@ Let me explain.
 
 - You are ignoring the fact that uncertainty is inherent in any projection of future cash flows. You are ignoring the fact that risk is not only measured by volatility or beta, but also by exposure to rare and extreme events.
 
-- You are using a single point estimate for your valuation instead of a range or a distribution. You are using a constant discount rate instead of a variable one that reflects changing market conditions. You are using a terminal value that assumes perpetual growth instead of a finite horizon or an exit multiple.
+- You are using a single point estimate for your valuation instead of a range or a distribution. You are using a constant discount rate instead of a variable one that reflects changing market conditions. **You are using a terminal value that assumes perpetual growth instead of a finite horizon or an exit multiple.** Terminal Value method is not a funny game and uninformed inexperienced investors should avoid it from a far 
 
 - You are violating what Nassim Taleb calls the "Black Swan Principle": the idea that rare and extreme events have a disproportionate impact on history and markets. And you are violating what Benoit Mandelbrot calls the "Fractal Nature of Markets": the idea that markets exhibit patterns of variability across different scales of time and space.
 
@@ -37,4 +38,6 @@ Let me explain.
 
 - You are not accounting for the possibility of delays, setbacks, failures, lawsuits, scandals, frauds, bankruptcies, wars, pandemics, etc. You are not accounting for the possibility of new entrants, substitutes, disruptors, innovators, regulators, activists, etc.
 
-## TL;DR: DCF is a complex and subjective tool that requires a lot of skill, judgment and humility to use properly. Most retail investors are using it improperly by making unrealistic and optimistic assumptions about future cash flows and ignoring the uncertainty and risk involved. This leads to inflated and inaccurate valuations that can result in poor investment decisions and losses. You better do trend following on a diversified portfolio over various asset classes than these kind of absurdity!
+Just ask yourself: When a bull market convincing you to violate all these rules that made initial wealth of famous investors like Warren Buffett and Ben Graham, what's your chance of outperforming basic inflation adjusted returns? Forget benchmark outperformance. 
+
+**TL;DR: DCF is a complex and subjective tool that requires a lot of skill, judgment and humility to use properly. Most retail investors are using it improperly by making unrealistic and optimistic assumptions about future cash flows and ignoring the uncertainty and risk involved. This leads to inflated and inaccurate valuations that can result in poor investment decisions and losses. You better do trend following on a diversified portfolio over various asset classes than these kind of absurdity!**
