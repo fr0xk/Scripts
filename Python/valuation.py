@@ -1,6 +1,5 @@
-I can help you with rewriting your script to make it more user-friendly. Here is a possible version:
-
-```python
+#!/usr/bin/env python
+#
 # A python script for valuing companies based on earnings per share, fair PE and expected growth rate
 
 # Import the decimal module to handle precision
@@ -49,4 +48,3 @@ print()
 # Print the results using the custom function
 print_result("The intrinsic value of the company is", intrinsic_value)
 print_result("A fair price to pay for the company is", fair_price)
-```
