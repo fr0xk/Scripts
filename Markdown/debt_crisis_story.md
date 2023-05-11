@@ -1,4 +1,4 @@
-```md
+
 
 # The Collapse of the United States' Economy
 
@@ -36,4 +36,4 @@ In the end, the crisis that had threatened to destroy the world had actually bro
 The United States had merged with other countries to create something new and stronger than ever before. 
 It was a paradoxical ending to a doomsday scenario, but it was also a sign of hope for a brighter future.
 
-```
+
