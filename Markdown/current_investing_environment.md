@@ -1,6 +1,6 @@
 ## Article: The Impact of Financial Crisis, Behavioral Biases, and Political Beliefs on the Modern Financial Landscape
 
-```markdown
+
 
 ### Introduction
 
@@ -32,4 +32,4 @@ Based on capitalism ideas, we offer the following suggestions:
 
 By addressing these points and incorporating classical capitalism principles, we can work towards a more resilient and sustainable financial landscape.
 
-```
+
