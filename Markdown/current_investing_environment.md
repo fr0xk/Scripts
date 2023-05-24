@@ -32,6 +32,6 @@ Based on capitalism ideas, we offer the following suggestions:
 
 By addressing these points and incorporating classical capitalism principles, we can work towards a more resilient and sustainable financial landscape.
 
-**Note:** The article is generated via ChatGPT bot with my own opinions. Please avoid using it as an investing decision and use your own discretion of the present situation.
+**Note:** The article is generated via ChatGPT bot with my own opinions. Please avoid using it as an investing decision and use your own discretion while investing in present environment.
 
 
