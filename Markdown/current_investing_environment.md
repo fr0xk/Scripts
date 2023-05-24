@@ -12,17 +12,7 @@ Given this context, it becomes clear that a substantial negative event would be 
 
 A significant aspect that has influenced the financial landscape is the Securities and Exchange Commission (SEC) decision to permit companies to repurchase their own stocks. As a result, companies have the ability to extract funds from investors without providing dividends until the company fails. Importantly, it is crucial to note that companies are not legally obligated to fulfill these promises, but they are rather legally encouraged to make them as a part of their strategic approach. This has implications for investors and shareholders alike.
 
-### Behavioral Biases and Financial Trends
 
-In today's financial climate, individuals have become accustomed to receiving financial aid easily and having convenient access to funds. However, this ease can lead to behavioral biases that impact decision-making. Common biases such as confirmation bias and herd mentality often prevail, with investors relying heavily on advice from influential figures like Warren Buffet. Consequently, proper risk assessment and accurate valuation of investments may be overlooked.
-
-### Contemporary Manifestations of Hazardous Overconfidence
-
-It is crucial to recognize the presence of hazardous overconfidence in current beliefs. The notion that the global economy is immune to complete dismantlement despite vulnerabilities to reckless interference is one manifestation. Furthermore, there is a prevailing belief in the inherent and everlasting stability of US political institutions, potentially leading to a disregard for risks and vulnerabilities. Additionally, moral absolutism dismisses opposing perspectives as perpetually foolish or driven by deceitful motives and self-centeredness, impacting the discourse on upholding democracy and freedom.
-
-### The SEC Rule Change and Investor Implications
-
-The SEC's decision in 1983 to permit companies to repurchase their own stocks has significant implications for investors. This ruling allows companies to extract funds from investors without providing dividends until the company fails. Importantly, there is no legal obligation for companies to fulfill these promises; rather, they are encouraged to make them as part of their strategic approach. Investors must carefully evaluate these transactions, considering the associated risks.
 
 ### Conclusion
 
