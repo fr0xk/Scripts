@@ -4,7 +4,7 @@
 
 ### Introduction
 
-The financial crisis of 2008 and the subsequent discovery of the Madoff scam had a profound influence on the financial landscape. In this article, we explore the current trends shaped by behavioral biases and examine the manifestation of hazardous overconfidence in contemporary beliefs. Additionally, we analyze the implications of the Securities and Exchange Commission (SEC) rule change and provide suggestions based on classical capitalism ideas.
+The financial crisis of 2008 and the subsequent discovery of the Madoff scam had a profound influence on the financial landscape. In this article, we explore the current trends shaped by behavioral biases and examine the manifestation of hazardous overconfidence in contemporary beliefs. Additionally, we analyze the implications of the Securities and Exchange Commission (SEC) rule change and provide suggestions based on classical capitalism ideas. In a hypothetical scenario where the financial crisis of 2008 didn't occur, it's conceivable that the Madoff scam would have continued undetected until the present day. This would have had significant implications considering the prevailing trends and behaviors in the financial landscape.
 
 ### Behavioral Biases and Financial Trends
 
