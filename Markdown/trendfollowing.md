@@ -8,6 +8,26 @@ This article     provides an explanation of Trend Following, a strategy utilized
 
 Trend Following is a popular investment strategy that aims to profit from sustained price trends in financial markets. It operates on the principle that market trends tend to persist over time, allowing investors to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market.
 
+## Building a Trading System
+
+It's alot like old cigar butt investor style. From the Trend Following Pioneer "David Herding":
+
+>Answer the following five questions and you have a trend following trading system:
+
+>1) What market do you buy or sell at any time?
+
+>2) How much of a market do you buy or sell at any time?
+
+>3) When do you buy or sell a market?
+
+>4) When do you get out of a losing position?
+
+>5) When do you get out of a winning position?
+
+>6) Why do you think you'll make money despite of multiple intermediate losses?
+
+You want to be black or white with this. You do not want gray.
+
 ## Benefits and Considerations
 
 Trend Following offers several benefits for investors, including:
