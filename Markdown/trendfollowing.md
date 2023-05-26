@@ -12,19 +12,19 @@ Trend Following is a popular investment strategy that aims to profit from sustai
 
 It's alot like old cigar butt investor style. From the Trend Following Pioneer "David Herding":
 
->Answer the following five questions and you have a trend following trading system:
+**Answer the following five questions and you have a trend following trading system:**
 
->1) What market do you buy or sell at any time?
+- What market do you buy or sell at any time?
 
->2) How much of a market do you buy or sell at any time?
+- How much of a market do you buy or sell at any time?
 
->3) When do you buy or sell a market?
+- When do you buy or sell a market?
 
->4) When do you get out of a losing position?
+- When do you get out of a losing position?
 
->5) When do you get out of a winning position?
+- When do you get out of a winning position?
 
->6) Why do you think you'll make money despite of multiple intermediate losses?
+- Why do you think you'll make money despite of multiple intermediate losses?
 
 You want to be black or white with this. You do not want gray.
 
