@@ -10,9 +10,9 @@ Trend Following is a popular investment strategy that aims to profit from sustai
 
 ## Building a Trading System
 
-It's alot like old cigar butt investor style. From the Trend Following Pioneer "David Herding":
+It's alot like old cigar butt investing style. From the Trend Following Pioneer "David Herding":
 
-**Answer the following five questions and you have a trend following trading system:**
+**Answer the following six questions and you have a trend following trading system:**
 
 - What market do you buy or sell at any time?
 
