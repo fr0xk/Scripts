@@ -12,7 +12,7 @@ Undervalued stocks are often caused by one of these four reasons:
 - The sector or industry is out of favor
 - The company is misunderstood or overlooked
 - The company is facing temporary problems
-- The company is trading at high margin but at low multiple or low margin buy high multiple (opposite is true for overvaluation)
+- The company is trading at high margin but at low multiple or low margin buy high multiple (margins and PE multiple are inversely proportional)
 
 These reasons create a gap between the market price and the intrinsic value of the stock, which can be exploited by value investors who do thorough research and analysis and have a long-term horizon.
 
@@ -34,7 +34,7 @@ Overvalued stocks are often caused by one of these four reasons:
 - The sector or industry is in favor
 - The company is hyped or followed
 - The company is facing permanent problems
-- The company has both high PE and high profit margin 
+- The company has both high PE and high profit margin (margins and PE multiples are directly proportional)
 
 These reasons create a gap between the market price and the intrinsic value of the stock, which can be exploited by short sellers who do thorough research and analysis and have a short-term horizon.
 
