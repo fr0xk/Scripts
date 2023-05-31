@@ -12,6 +12,7 @@ Undervalued stocks are often caused by one of these four reasons:
 - The sector or industry is out of favor
 - The company is misunderstood or overlooked
 - The company is facing temporary problems
+- The company is trading at high margin but at low multiple or low margin buy high multiple (opposite is true for overvaluation)
 
 These reasons create a gap between the market price and the intrinsic value of the stock, which can be exploited by value investors who do thorough research and analysis and have a long-term horizon.
 
@@ -33,6 +34,7 @@ Overvalued stocks are often caused by one of these four reasons:
 - The sector or industry is in favor
 - The company is hyped or followed
 - The company is facing permanent problems
+- The company has both high PE and high profit margin 
 
 These reasons create a gap between the market price and the intrinsic value of the stock, which can be exploited by short sellers who do thorough research and analysis and have a short-term horizon.
 
@@ -50,4 +52,4 @@ Here are some examples of overvalued stocks by reason before 1960:
 
 These historical examples of undervalued and overvalued stocks show that investors need to be careful and diligent when evaluating stocks. They also show that there are opportunities to profit from both undervalued and overvalued stocks, depending on the strategy and the timing. Investors should always do their own research and analysis before investing in any stock, and avoid following the crowd or the hype blindly.
 
-**Note:** *It is quoted by Graham that "the blandishments of a salesman offering new common stock issues during bull markets should be resisted by the intelligent investor". It is noted that while a salesman may point out various issues that have had market advances, this is often part of a speculative atmosphere. The gains made from such investments may be outweighed by losses, with investors potentially losing more than they gain. An example given is the initial public offering of Apple in December 1980, where shares were sold for $22. It is pointed out that it was impossible to know at the time that Apple would become the first trillion dollar company. Another example given is the IPO of VA Linux, which had more projected potential and hype than Apple. It is stated that on its first day of trading, VA Linux opened at $30 and closed at $239.25. However, three years later, the stock was selling for $1.19. It is noted that while there are only a few examples similar to Apple, there are thousands similar to VA Linux.*
+**Note:** *It is quoted by Graham that "the blandishments of a salesman offering new common stock issues during bull markets should be resisted by the intelligent investor". It is noted that while a salesman may point out various issues that have had market advances, this is often part of a speculative atmosphere. The gains made from such investments may be outweighed by losses, with investors potentially losing more than they gain. An example given is the initial public offering of Apple in December 1980, where shares were sold for $22. It is pointed out that it was impossible to know at the time that Apple would become the first trillion dollar company. Another example given is the IPO of VA Linux, which had more projected potential and hype than Apple. It is stated that on its first day of trading, VA Linux opened at $30 and closed at $239.25. However, three years later, the stock was selling for $1.19. It is noted that while there are only a few examples similar to Apple, there are thousands similar to VA Linux. Future prospects remain uncertain even for Buffet. Predicting them is subjective. Discounted Cash Flow (DCF) is only as reliable as your business intuition. Capital is safeguarded not by a margin of safety, but through diversification. To generate alpha, embrace calculated risk.*
