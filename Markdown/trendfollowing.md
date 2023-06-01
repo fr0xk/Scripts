@@ -10,7 +10,7 @@ Trend Following is a popular strategy that aims to profit from sustained price t
 
 By following disciplined and systematic approaches, trend following takes advantage of prolonged market trends (aka called fat tails or outlier). Although individual trades may result in losses, the strategy aims to capture larger trends for profit. With disciplined execution and a focus on significant trends, trend following strategies offer potential profitability for investors seeking decent returns in both up and down markets (but don't expect outperforming the benchmark due to costs associated with it)
 
-Key factors for achieving positive results include effective risk management, diversification across 20-30 markets (e.g., bonds, stocks, commodities, currencies), and proper position sizing. Cutting losses quickly and allowing profitable trades to run which contributes to a favorable risk-reward ratio. While trend following does not guarantee success in every trade or market condition, its positive expectancy has been observed over the long term. Notably, managed futures funds like DUNE Capital and AQR have employed trend following with success.
+Key factors for achieving positive results include effective risk management, diversification across 5-10 markets (e.g., bonds, stocks, commodities, currencies, various ETFs etc), and proper position sizing. Cutting losses quickly and allowing profitable trades to run which contributes to a favorable risk-reward ratio. While trend following does not guarantee success in every trade or market condition, its positive expectancy has been observed over the long term. Notably, managed futures funds like DUNE Capital and AQR have employed trend following with success.
 
 ## The Pareto Principle
 
