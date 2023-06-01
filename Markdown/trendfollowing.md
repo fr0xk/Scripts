@@ -61,7 +61,7 @@ If you are interested in delving deeper into the concept of Trend Following, the
 
 - [Trend Following](https://www.trendfollowing.com/trend/): The official website of Michael Covel, an author and expert in Trend Following, provides extensive resources and information on the topic.
 
-It is important to note that the authors of these articles may have a bias towards their own strategies and may not explore alternative approaches such as value investing. However, they possess a strong understanding of Trend Following. For a different perspective, you may also find value in the writings of [John Hussman](https://www.hussmanfunds.com/wmc/wmc120827.htm), a value-oriented investor who offers insights on Trend Following despite his own investment style.
+Note that the authors of above mentioned articles may have a bias towards their own strategies and may not explore alternative approaches such as value investing. However, they possess a strong understanding of Trend Following. For a different perspective, you may also find value in the writings of [John Hussman](https://www.hussmanfunds.com/wmc/wmc120827.htm), a value-oriented investor who offers insights on Trend Following despite his own investment style.
 
 ## Objectivity and Perspective
 
