@@ -6,7 +6,11 @@ This article     provides an explanation of Trend Following, a strategy utilized
 
 ## Introduction
 
-Trend Following is a popular investment strategy that aims to profit from sustained price trends in financial markets. It operates on the principle that market trends tend to persist over time, allowing investors to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market.
+Trend Following is a popular investment strategy that aims to profit from sustained price trends in financial markets. It operates on the principle that market trends tend to persist over time, allowing investors to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market. Trend following strategies demonstrate long-term profitability.
+
+By following disciplined and systematic approaches, trend following takes advantage of prolonged market trends (aka called fat tails or outlier). Although individual trades may result in losses, the strategy aims to capture larger trends for profit. With disciplined execution and a focus on significant trends, trend following strategies offer potential profitability for investors seeking decent returns in both up and down markets (but don't expect outperforming the benchmark due to costs associated with it)
+
+Key factors for achieving positive results include effective risk management, diversification across 20-30 markets (e.g., bonds, stocks, commodities, currencies), and proper position sizing. Cutting losses quickly and allowing profitable trades to run which contributes to a favorable risk-reward ratio. While trend following does not guarantee success in every trade or market condition, its positive expectancy has been observed over the long term. Notably, managed futures funds like DUNE Capital and AQR have employed trend following with success.
 
 ## Building a Trading System
 
