@@ -12,6 +12,10 @@ By following disciplined and systematic approaches, trend following takes advant
 
 Key factors for achieving positive results include effective risk management, diversification across 20-30 markets (e.g., bonds, stocks, commodities, currencies), and proper position sizing. Cutting losses quickly and allowing profitable trades to run which contributes to a favorable risk-reward ratio. While trend following does not guarantee success in every trade or market condition, its positive expectancy has been observed over the long term. Notably, managed futures funds like DUNE Capital and AQR have employed trend following with success.
 
+## The Pareto Principle
+
+We often hear comments like trend following doesn’t work. Well, that is actually half the truth. Trend following doesn’t work on a single underlying like a stock or an index. It relies on the law of large numbers to make it work. This is because trend following also fall under the Pareto principle, also known as the 80/20 rule. It states that for many events, roughly 80% of the effects come from 20% of the causes. If we translate this principle to investing, it would mean that 80% of the profits come from only 20% of the trades we make in our portfolio. What this means is that most of the time, we will feel like our trades are not working and we are only making our brokers happy
+
 ## Building a Trading System
 
 It's alot like old cigar butt investing style. From the Trend Following Pioneer "David Herding":
