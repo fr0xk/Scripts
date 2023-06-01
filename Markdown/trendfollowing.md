@@ -18,7 +18,7 @@ We often hear comments like trend following doesn’t work. Well, that is actual
 
 ## Building a Trading System
 
-It's alot like old cigar butt investing style. From the Trend Following Pioneer "David Herding":
+It's alot like old cigar butt investing style, hence no discretion or prediction is used. From the Trend Following Pioneer "David Herding":
 
 **Answer the following six questions and you have a trend following trading system:**
 
@@ -38,7 +38,7 @@ You want to be black or white with this. You do not want gray.
 
 ## Benefits and Considerations
 
-Trend Following offers several benefits for investors, including:
+Trend Following offers several benefits for market participants, including:
 
 - **Profit from Significant Trends**: By identifying and capitalizing on sustained price trends, Trend Following strategies can generate substantial profits.
 
@@ -46,7 +46,7 @@ Trend Following offers several benefits for investors, including:
 
 - **Systematic and Rule-based Approach**: Trend Following relies on predetermined rules and objective indicators, removing emotional bias and subjectivity from investment decisions.
 
-However, it is important to consider the following aspects when implementing Trend Following strategies:
+But please consider the following aspects (risks) when implementing Trend Following strategies:
 
 - **Whipsaw Risk**: Trend Following strategies are vulnerable to whipsaws, which occur when markets experience short-term price reversals. This can result in losses as positions are exited prematurely.
 
