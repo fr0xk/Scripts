@@ -2,11 +2,11 @@
 
 [![Trend Following](https://www.tradingview.com/x/V7ksrkps/)](https://www.tradingview.com/x/V7ksrkps/)
 
-This article     provides an explanation of Trend Following, a strategy utilized in financial markets to respond to price movements. Trend Following relies on predetermined rules derived from various market price factors, without attempting to time the market or make discretionary decisions. Instead, it focuses on capturing the intermediate phase of price trends and offers protection against extreme events.
+This article provides an explanation of Trend Following, a strategy utilized in financial markets to respond to price movements. Trend Following relies on predetermined rules derived from various market price factors, without attempting to time the market or make discretionary decisions. Instead, it focuses on capturing the intermediate phase of price trends and offers protection against extreme events.
 
 ## Introduction
 
-Trend Following is a popular investment strategy that aims to profit from sustained price trends in financial markets. It operates on the principle that market trends tend to persist over time, allowing investors to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market. Trend following strategies demonstrate long-term profitability.
+Trend Following is a popular strategy that aims to profit from sustained price trends in financial markets. It's speculative strategy, hence it doesn't consider ownership relationship between assets and lender. It operates on the principle that in certain situations, market trends tend to persist over time, allowing speculators to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market. Trend following strategies historically demonstrated long-term profitability.
 
 By following disciplined and systematic approaches, trend following takes advantage of prolonged market trends (aka called fat tails or outlier). Although individual trades may result in losses, the strategy aims to capture larger trends for profit. With disciplined execution and a focus on significant trends, trend following strategies offer potential profitability for investors seeking decent returns in both up and down markets (but don't expect outperforming the benchmark due to costs associated with it)
 
