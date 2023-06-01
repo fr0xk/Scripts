@@ -6,11 +6,21 @@ This article provides an explanation of Trend Following, a strategy utilized in 
 
 ## Introduction
 
-Trend Following is a popular strategy that aims to profit from sustained price trends in financial markets. It's speculative strategy, hence it doesn't consider ownership relationship between assets and lender. It operates on the principle that in certain situations, market trends tend to persist over time, allowing speculators to capitalize on the momentum of these trends. By using basic momentum indicators such as moving averages, Trend Following strategies determine entry and exit points in the market. Trend following strategies historically demonstrated long-term profitability.
+Trend following is a trading strategy that tries to capture long-term price movements in different markets by following the direction of the trend. Trend followers do not try to predict or forecast future prices, but simply follow the current price action and adjust their positions accordingly.
 
-By following disciplined and systematic approaches, trend following takes advantage of prolonged market trends (aka called fat tails or outlier). Although individual trades may result in losses, the strategy aims to capture larger trends for profit. With disciplined execution and a focus on significant trends, trend following strategies offer potential profitability for investors seeking decent returns in both up and down markets (but don't expect outperforming the benchmark due to costs associated with it)
+Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, investor psychology, etc. Trend followers can exploit these trends by riding them until they end, and then switching to the opposite direction when a new trend emerges.
 
-Key factors for achieving positive results include effective risk management, diversification across 5-10 markets (e.g., bonds, stocks, commodities, currencies, various ETFs etc), and proper position sizing. Cutting losses quickly and allowing profitable trades to run which contributes to a favorable risk-reward ratio. While trend following does not guarantee success in every trade or market condition, its positive expectancy has been observed over the long term. Notably, managed futures funds like DUNE Capital and AQR have employed trend following with success.
+Trend following is speculative, but based on empirical evidence and historical data. Trend followers use systematic rules and algorithms to identify and follow trends, and they test their strategies on historical data to ensure robustness and profitability. Trend following has been proven to work across different markets and time frames, and has delivered consistent returns over long periods of time. But keep in mind, it's not short term trading like 5-15mins bar strategy.
+
+Trend following is not tax efficient and has costs, but the fact that Trend followers do not need to pay for expensive research, analysis, news, or advice, as they only rely on price data and their own rules. Trend followers also do not trade frequently, as they only adjust their positions when the trend changes, which reduces transaction costs and slippage³. Trend followers can also diversify their portfolio across different markets and instruments, which reduces risk and volatility.
+
+Some of the evidence of trend following working are:
+
+- The performance of trend following hedge funds and commodity trading advisors (CTAs), who use trend following as their main strategy. These funds have outperformed the market indices and other hedge fund strategies over long periods of time, especially during market crises and extreme events.
+
+- The success stories of legendary trend followers, such as Richard Dennis, John Henry, Ed Seykota, Bill Dunn, etc., who have made fortunes by following trends in various markets.
+- The academic research and studies that have confirmed the validity and profitability of trend following strategies across different markets, time frames, and risk levels.
+
 
 ## The Pareto Principle
 
