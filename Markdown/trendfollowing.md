@@ -50,7 +50,8 @@ But please consider the following aspects (risks) when implementing Trend Follow
 
 - **Whipsaw Risk**: Trend Following strategies are vulnerable to whipsaws, which occur when markets experience short-term price reversals. This can result in losses as positions are exited prematurely.
 
-- **Mental Demands**: Trend Following can be mentally demanding, requiring discipline and adherence to predefined rules, even during periods of market volatility or conflicting signals.
+- **Mental Demands**: Trend Following can be mentally demanding, requiring discipline and adherence to predefined rules, even during periods of market volatility or conflicting signals
+
 
 ## Further Reading
 
