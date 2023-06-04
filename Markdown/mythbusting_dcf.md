@@ -14,7 +14,7 @@ Let's examine an example to demonstrate the concept. Consider two companies, Com
 | A       | 10       | 20%           |
 | B       | 30       | 5%            |
 
-The underlying rationale for this approach is derived from CAPM, which suggests that companies with higher profit margins should be associated with lower PE ratios, while companies with lower profit margins should be tied to higher PE ratios¹. So market just does it. By diligently adhering to this principle, I believe it's possible to outperform approximately 90% of actively managed portfolios.
+The underlying rationale for this approach is derived from CAPM, which suggests that companies with higher profit margins should be associated with lower PE ratios, while companies with lower profit margins should be tied to higher PE ratios. So market just does it. By diligently adhering to this principle, I believe it's possible to outperform approximately 90% of actively managed portfolios.
 
 ## Methodology
 
