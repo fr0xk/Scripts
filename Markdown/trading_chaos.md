@@ -11,23 +11,13 @@ It is unlikely that HFTs can manipulate prices by a large margin such as -50%, a
 
 ## Retail Trading Strategies
 
-Retail traders are individual investors who trade on their own accounts using online platforms or brokers. Retail traders often look at liquidity, volatility, and volume when deciding what stocks to buy. Some tools that retail traders use to pinpoint buying points include candlestick chart patterns, trendlines and triangles, and volume.
+Retail traders are individual investors who trade on their own accounts using online platforms or brokers. Retail traders often look at liquidity, volatility, and volume when deciding what stocks to buy. Some tools that retail traders use to pinpoint buying points include candlestick chart patterns, and volume. However, I always encourage position trading over others. Position trading is an activity of holding stocks for multiple years based on long term fundamentals and price action data.
 
-There are different types of retail trading strategies, such as:
-
-- **Day trading**: Buying and selling stocks within the same day, taking advantage of small price movements.
-- **Swing trading**: Holding stocks for a few days or weeks, following the short-term trends and momentum.
-- **Position trading**: Holding stocks for months or years, based on the long-term fundamentals and macroeconomic factors.
-- **Scalping**: Making frequent trades with small profits, using high leverage and low commissions.
-- **Options trading**: Buying and selling contracts that give the right to buy or sell an underlying asset at a specified price and time.
-
-Each strategy has its own advantages and disadvantages, depending on the trader's goals, risk tolerance, capital, and skills. Retail traders need to have a well-thought-out plan for making trading decisions, such as:
+Trading has it's strength and weakness, depending on the trader's goals, risk tolerance, capital, and skills. Retail traders need to have a well-thought-out plan for making trading decisions, such as:
 
 - What they need to see before they enter a trade
 - Where they will exit and how much they will risk
 - Where they will place their stop loss
-
-Retail traders also need to keep up with the latest stock market news and events that affect stocks, such as interest rates, earnings reports, economic indicators, etc. They can use various sources of information, such as online news outlets, financial websites, podcasts, blogs, etc.
 
 ## The Good, The Bad And The Ugly Of Trading Education
 
@@ -47,13 +37,13 @@ These platforms offer comprehensive and practical trading education for retail t
 - Trading plan: How to create a personalized plan for your goals
 - Trading performance: How to track your results and improve your skills
 
-However, not all sources of trading education are reliable or useful. Some of the pitfalls to avoid are:
+Keep in mind, not all sources of trading education are reliable or useful. Some of the pitfalls to avoid are:
 
 - Scams: Beware of platforms or individuals that promise unrealistic returns or guaranteed profits from trading. They may charge exorbitant fees or sell useless products or services.
 - Hype: Beware of platforms or individuals that use sensationalist language or exaggerated claims to attract attention or followers. They may lack credibility or expertise.
 - Bias: Beware of platforms or individuals that have a vested interest or agenda in promoting certain stocks or strategies. They may have conflicts of interest or ulterior motives.
 
-Therefore, it is important to do your own research and due diligence before trusting any source of trading education. Look for platforms or individuals that have:
+Therefore, always do your own research and due diligence before trusting any source of trading education. Look for platforms or individuals that have:
 
 - Transparency: They disclose their credentials, track record, and performance.
 - Credibility: They provide evidence, data, and references to support their claims.
