@@ -1,9 +1,9 @@
 
 # DCF == PE
 
-YES
+**YES**
 
-This article demonstrating the equivalence of discounted cash flow (DCF) and price-to-earnings (PE) ratio valuation method. People criticize PE ratios due to margin mean reversion. They say that present earnings are not a reliable metric for future cash flows. That's true but only if you pick a handful of companies. But over a large sample size, DCF and PE are basically the same thing. You pay as low as possible to present cash flows so that you get future cash flows at a cheap rate.
+This article is demonstrating the equivalence of discounted cash flow (DCF) and price-to-earnings (PE) ratio valuation method. People criticize PE ratios due to margin mean reversion. They say that present earnings are not a reliable metric for future cash flows. That's true but only if you pick a handful of companies. But over a large sample size, DCF and PE are basically the same thing. You pay as low as possible to present cash flows so that you get future cash flows at a cheap rate.
 
 ## Example
 
@@ -41,6 +41,8 @@ Adding all EPS from the last 10 years: 32 EPS
 Growth Multiple: EPS 2022/EPS 2012 = 6.11/1.58 = 3.86x
 
 32 * 4 = 128/share (intrinsic value)
+
+In the context of above, the following assumptions are made: the reliability of EPS as an indicator of company performance and growth, the predictability of future earnings based on past EPS values, the aggregation of EPS values to determine total earnings, the correlation between GDP growth rate and company growth, the assumption of a constant growth rate, the estimation of future earnings through the multiplication of EPS sum by a specific factor, and the association of a higher multiplier with higher confidence levels.
 
 PS: Avoid assigning a dollar or rupee sign to stocks. The value of stocks is not a legitimate alternative to fiat currency, which is backed by government and central bank policies and used in exchange for goods and services. Money is real, whereas the value of stocks is perceived and, unfortunately, volatile (contrary to what finance teachers often teach).
 
