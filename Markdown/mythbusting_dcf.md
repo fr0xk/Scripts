@@ -28,6 +28,22 @@ The prevailing concept behind the comparable method is the law of one price, whi
 
 Keep in mind that employing this strategy necessitates a substantial sample size to yield dependable outcomes. By consistently implementing such an approach, investors may enhance their chances of achieving favorable investment results. Basically it involves purchasing stocks with high PE ratios and low profit margins in one industry, and stocks with low PE ratios and high profit margins in other industries. Additionally I propose considering the EV/Revenue ratio. A ratio exceeding 4 raises questions about the viability of an investment.
 
+## Suggestions:
+
+You can simplify the process further by calculating the sum of all the earnings per share (EPS) of the past 7 to 10 years, without the need for complex adjustments like accounting for inflation. Once you have these figures, determine an estimated growth rate. For example, if we consider India's annualized GDP growth rate of 8% over the past 30 years as an illustration, assuming a growth rate of 8%, a $1 investment would accumulate to approximately $2 in 10 years. Therefore, multiplying the sum of all EPS by 1 or 2 or 3 should be sufficient, or 4 if you have high confidence in the company's future.
+
+-----
+
+Checking at AAPL:
+
+Adding all EPS from the last 10 years: 32 EPS
+
+Growth Multiple: EPS 2022/EPS 2012 = 6.11/1.58 = 3.86x
+
+32 * 4 = 128/share (intrinsic value)
+
+PS: Avoid assigning a dollar or rupee sign to stocks. The value of stocks is not a legitimate alternative to fiat currency, which is backed by government and central bank policies and used in exchange for goods and services. Money is real, whereas the value of stocks is perceived and, unfortunately, volatile (contrary to what finance teachers often teach).
+
 -------
 
 ## References
