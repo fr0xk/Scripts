@@ -28,8 +28,11 @@ The prevailing concept behind the comparable method is the law of one price, whi
 
 Keep in mind that employing this strategy necessitates a substantial sample size to yield dependable outcomes. By consistently implementing such an approach, investors may enhance their chances of achieving favorable investment results. Basically it involves purchasing stocks with high PE ratios and low profit margins in one industry, and stocks with low PE ratios and high profit margins in other industries. Additionally I propose considering the EV/Revenue ratio. A ratio exceeding 4 raises questions about the viability of an investment.
 
+-------
+
 ## References
 
 ¹: https://www.investopedia.com/articles/professionals/072915/dcf-vs-comparables-which-one-use.asp
+
 ²: https://blogs.cfainstitute.org/investor/2022/01/19/investings-first-principles-the-discounted-cash-flow-model/
 
