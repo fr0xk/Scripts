@@ -8,7 +8,7 @@ This article provides an explanation of Trend Following, a strategy utilized in 
 
 Trend following is a trading strategy that tries to capture long-term price movements in different markets by following the direction of the trend. Trend followers do not try to predict or forecast future prices, but simply follow the current price action and adjust their positions accordingly.
 
-Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, investor psychology, etc. Trend followers can exploit these trends by riding them until they end, and then switching to the opposite direction when a new trend emerges.
+Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, investor psychology, etc. Trend followers can exploit these trends by riding them until they end, and then switching to the opposite direction when a new trend emerges. Definition of Trend is subjective but academic research postulates Trend as "if the ratio of present closing price to closing price of last n period is above 1, then it's called uptrend else it's downtrend"
 
 Trend following is speculative, but based on empirical evidence and historical data. Trend followers use systematic rules and algorithms to identify and follow trends, and they test their strategies on historical data to ensure robustness and profitability. Trend following has been proven to work across different markets and large time frames, and has delivered consistent returns over long periods of time. But keep in mind, it's not short term trading like 5-15mins bar strategy.
 
