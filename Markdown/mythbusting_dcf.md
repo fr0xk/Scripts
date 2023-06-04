@@ -20,7 +20,7 @@ The underlying rationale for this approach is derived from CAPM, which suggests 
 
 The DCF model refers to a group of approaches that assume the value of an asset equals the present value of all future monetary benefits. This model is easy to use when the future cash benefits are known or can be at least reasonably forecasted. The most common variations of the DCF model are the dividend discount model (DDM) and the free cash flow (FCF) model.
 
-The comparables method uses ratios from an industry, peer group or similar companies to estimate a company’s equity value². The following ratios are mostly used: price-to-earning ratio (P/E), price-to-sales ratio (P/S), and enterprise value-to-earnings before interest, tax, depreciation and amortization (EV/EBITDA), which are also called multiples.
+The comparables method uses ratios from an industry, peer group or similar companies to estimate a company’s equity value. The following ratios are mostly used: price-to-earning ratio (P/E), price-to-sales ratio (P/S), and enterprise value-to-earnings before interest, tax, depreciation and amortization (EV/EBITDA), which are also called multiples.
 
 The prevailing concept behind the comparable method is the law of one price, which states that similar assets should sell at a similar price. We can rephrase this for company earnings or profit: Companies that have similar revenues and earnings drivers should be worth about the same.
 
