@@ -1,9 +1,9 @@
 
 # DCF == PE
 
-## YES
+YES
 
-This is a repository for demonstrating the equivalence of discounted cash flow (DCF) and price-to-earnings (PE) ratio valuation method. People criticize PE ratios due to margin mean reversion. They say that present earnings are not a reliable metric for future cash flows. That's true but only if you pick a handful of companies. But over a large sample size, DCF and PE are basically the same thing. You pay as low as possible to present cash flows so that you get future cash flows at a cheap rate.
+This article demonstrating the equivalence of discounted cash flow (DCF) and price-to-earnings (PE) ratio valuation method. People criticize PE ratios due to margin mean reversion. They say that present earnings are not a reliable metric for future cash flows. That's true but only if you pick a handful of companies. But over a large sample size, DCF and PE are basically the same thing. You pay as low as possible to present cash flows so that you get future cash flows at a cheap rate.
 
 ## Example
 
