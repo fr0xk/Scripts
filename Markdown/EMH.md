@@ -40,4 +40,4 @@ Thus, after conducting 10,000 iterations, a trading strategy with a 20% win rate
 
 ## Conclusion:
 
-In conclusion, Fama's Efficient Market Hypothesis asserts that markets are efficient and stock prices reflect all relevant information. While Fama's perspective downplays the effectiveness
+In conclusion, Fama's Efficient Market Hypothesis asserts that markets are efficient and stock prices reflect all relevant information.
