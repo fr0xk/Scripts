@@ -1,25 +1,31 @@
-# The Case for Investing in Businesses with Real Cash Flow
+# Non-Dividend Paying Companies: Deceptive Promises and Speculative Ventures
 
-Tax evasion, reinvested earnings, stock repurchases, and hypothetical cash flows are all aspects of modern finance that have garnered attention and sparked debates among investors. In this article, we will delve into these topics and argue in favor of investing in businesses that generate and share real cash in the present, as opposed to relying on uncertain projections and hypothetical scenarios. 
+*By fr0xk*
 
-## The Illegality of Tax Evasion
+---
 
-First and foremost, it is crucial to recognize that tax evasion is illegal. While some individuals may attempt to defer payment or engage in questionable practices, it is important to understand that liabilities must eventually be settled. Governments have the authority to impose penalties and strict measures to ensure that taxes are paid. Moreover, when taxes are not properly collected, authorities may resort to measures such as printing money, which can lead to rampant inflation and negatively impact individuals and businesses alike. It is evident that tax evasion is not a sustainable or ethical approach to financial management.
+I find it perplexing how non-dividend paying companies manage to deceive investors with their hollow promises of future dividends, which may never materialize. These companies demand genuine financial investments while offering mere hypothetical returns. They resemble multi-level marketing schemes or collectibles, relying on a continuous influx of new gullible investors to artificially inflate their stock prices, all the while lacking solid fundamentals or any tangible connection between investors and the company. It's akin to one fool selling poker chips to another.
 
-## Reinvested Earnings and Shareholder Concerns
+## The Illusion of Growth and Innovation
 
-Companies that choose to retain earnings often do so with the intention of reinvesting the profits into further growth opportunities. While this strategy may benefit the company in terms of expansion, it can leave shareholders without immediate dividends. In this scenario, shareholders can only realize gains by selling their shares to other investors at higher prices than their initial purchase. This mechanism may give the impression of a Ponzi scheme, as it relies on the continuous influx of new investors to sustain the value of the shares. The lack of direct monetary connection between shareholders and investors raises questions about the true ownership rights and the viability of long-term returns for shareholders.
+Some of the largest and most renowned companies in the world, such as Alphabet (GOOG), Meta (META) formerly known as Facebook, Amazon (AMZN), Biogen (BIIB), and Tesla (TSLA), fall into the category of non-dividend paying companies. Despite amassing billions of dollars in revenue and profit, these companies have steadfastly refused to distribute dividends to their shareholders. Their rationale? Reinvesting earnings into growth and innovation—or so they claim.
 
-## Stock Repurchases and Their Implications
+BUT...!!! what purpose does growth and innovation serve if it fails to translate into tangible returns for the company's owners? Shareholders are the ones who provide the capital necessary for these companies to operate and expand. They rightly deserve a fair portion of the rewards. Otherwise, investors are merely pouring real money into an illusory future cash flow. After all, isn't it all a positive-sum game?
 
-Some argue that companies repurchase shares to enhance earnings per share (EPS) and increase the ownership stake of existing shareholders. While this may be true, the question arises as to the purpose of owning a company that does not provide cash flow to its owners due to continuous growth aspirations. The hope of future dividends becomes a distant prospect, and the relationship between investors and shareholders becomes increasingly hypothetical. The proliferation of stock issuance and capital raising without a clear obligation to repay further blurs the line between ownership rights and mere speculation. 
+## Zero-Sum Game and Self-Interest
 
-## The Significance of Real Cash in Finance
+Contrary to popular belief, non-dividend paying companies do not create a positive-sum environment. Instead, they operate within a zero-sum or even negative-sum framework. They prioritize their own value creation at the expense of their shareholders. Inflated stock prices become their currency for acquiring other companies, compensating their top executives excessively, and rewarding employees with stock options. Furthermore, these companies exploit their market dominance and wield their influence to stifle competition and manipulate public opinion, effectively acting as monopolies that harm both customers and society.
 
-In the world of finance, various models and methodologies are employed to evaluate investments. One such model is the discounted cash flow (DCF) model, which seeks to assess the present value of future cash flows. While this model has its merits, it is essential to recognize that tangible cash holds greater importance in the realm of practicality. Businesses operate on real money, backed by central banks and subject to legitimate financial transactions. Non-dividend stocks, despite having legal rights, lack the legitimacy and tangible benefits associated with cash flow.
+## Risks and Volatility
 
-## The Need for Investing in Businesses with Real Cash Flow
+Additionally, non-dividend paying companies pose significant risks and exhibit volatility. They remain at the mercy of market whims and analysts' expectations. Any negative news, failure to meet targets, or even a shift in sentiment can result in a drastic plummet in their stock prices. When this occurs, shareholders are left without any cushion, safety net, or income stream to protect their investments. They are left holding the bag while insiders seize the opportunity to cash out and move on to their next scheme.
 
-Given the uncertainties surrounding hypothetical scenarios and speculative promises, it is prudent for investors to focus on businesses that generate and share real cash in the present. The allure of potential future dividends should not overshadow the importance of tangible returns and immediate cash flow. Investment decisions should be rooted in realistic assessments and the understanding that hypothetical situations can be subject to varying interpretations. It is crucial to consider the legitimacy and stability of a business's financial operations, as well as its ability to provide tangible returns to its shareholders.
+## Speculative Ventures, Not Investments
 
-In conclusion, the realm of finance is rife with debates and discussions surrounding tax evasion, reinvested earnings, stock repurchases, and hypothetical cash flows. However, by prioritizing investments in businesses that generate and share real cash in the present, investors can navigate the uncertainties of the market and ensure a more solid foundation for long-term financial growth. The focus on tangible returns and realistic assessments empowers investors to make informed decisions based on the actual performance and financials of these companies 
+I think non-dividend paying companies should not be considered investments but rather speculative ventures. They involve gambling with other people's money, lacking sustainability and ethical principles.
+
+To echo the words of the esteemed John Burr Williams, *"Earnings are only a means to an end, and the means should not be mistaken for the end. Therefore, we must say that a stock derives its value from its dividends, not its earnings."* This quote encapsulates the importance of dividends as the true indicators of a stock's worth.
+
+---
+
+*Note: The opinions expressed in this article are those of the author and do not necessarily reflect the views of GitHub or its affiliates.*
