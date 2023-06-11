@@ -32,7 +32,24 @@ The list goes on and on, encompassing quantitative analysis versus technical ana
 
 It's a never-ending loop of pointless arguments that lead us down a rabbit hole of frustration. These discussions seem to have no purpose other than to waste everyone's time and perpetuate the chaos. The lack of consensus, the subjective nature of the topics, and the disregard for the efficient market hypothesis create an environment of utter confusion and chaos. It's as if the participants are trapped in a perpetual loop of self-righteousness, each believing that their approach holds the key to financial success.
 
-But let's take a step back and reassess the situation. While healthy debates and differing opinions are essential for progress and innovation, these discussions often devolve into nothing more than ego battles and pointless rhetoric. It's disheartening to witness the sheer waste of intellectual energy and the failure to focus on more productive endeavors.
+But let's take a step back and reassess the situation. While healthy debates and differing opinions are essential for progress and innovation, these discussions often devolve into nothing more than ego battles and pointless rhetoric. It's disheartening to witness the sheer waste of intellectual energy and the failure to focus on more productive endeavors. Here's some random intelligent sounding arguments
+
+**Stocks will do well because the economy is recovering.**
+
+And so it is! But so what? That doesn’t mean the stock market will keep booming. From 1968 to 1982 the economy grew nearly 300%, but during that time, the stock market went nowhere. In real, after-tax dollars, investors lost money.
+
+The economy has grown by two-thirds since 1999. How’s your stock portfolio done over that period? The Japanese economy has doubled since 1989, but the Nikkei is still down by three quarters. Studies by Elroy Dimson and colleagues at the London Business School found many cases around the world of capitalist economies where investors did poorly for decades even while the economy grew.
+
+Economic growth does not always produce good investment returns. It’s a myth.
+
+**Stocks should earn 9% a year.**
+
+Com on. This reminds me of Michael Jordan. Also, this is the dumbest claim I have ever heard. So dumb that even my dog laughed at this. The returns in real, or constant dollars, were a much more modest 6%. Second, this is just an average. And it’s very misleading. During all those years, as Stern’s data shows, the stock market only beat inflation by a decent margin during two boom periods — from 1949 to 1967 and from 1982 to 1999. Both were followed by vicious bear markets which wiped out the gains. If you missed those two booms, your total gain from U.S. stocks over the other 54 years since 1928 came to a total of mere 7%, after inflation.
+
+
+**A balanced portfolio of stocks and bonds will always make money.**
+
+This is more nonsense. I don’t want to reinvent the wheel. The elevator summary is that the so-called “foolproof” balanced portfolio of 60% stocks, 40% bonds has failed, massively, at least twice, just in the past 84 years — from 1937 through 1950, and from 1965 through 1982. It can fail again. That’s because there is nothing magical about a “balanced” portfolio of stocks and bonds. As people used to say, nothing is ever foolproof because fools are so damned inventive. A portfolio of bonds and stocks has only worked in the past when either the stocks were undervalued, or the bonds were undervalued, or both. That’s it. Today, it is neither
 
 In the grand scheme of things, the efficient market hypothesis exists for a reason. While it may not be perfect or hold true in every circumstance, it serves as a reminder that markets are influenced by vast amounts of information and countless participants. Attempting to consistently outsmart the collective wisdom of the market is an uphill battle, if not a fool's errand.
 
