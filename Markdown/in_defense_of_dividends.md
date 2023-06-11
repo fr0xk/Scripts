@@ -2,6 +2,8 @@
 
 *By fr0xk*
 
+> Instead of counting your chicken before they hatch, you could just count your eggs, so to speak -- that is, you could value the business assets as they stand here 
+
 ---
 
 I find it perplexing how non-dividend paying companies manage to deceive investors with their hollow promises of future dividends, which may never materialize. These companies demand genuine financial investments while offering mere hypothetical returns. They resemble multi-level marketing schemes or collectibles, relying on a continuous influx of new gullible investors to artificially inflate their stock prices, all the while lacking solid fundamentals or any tangible connection between investors and the company. It's akin to one fool selling poker chips to another.
