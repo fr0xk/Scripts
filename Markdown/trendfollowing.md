@@ -26,6 +26,14 @@ Some of the evidence of trend following working are:
 
 We often hear comments like trend following doesn’t work. Well, that is actually half the truth. Trend following doesn’t work on a single underlying like a stock or an index. It relies on the law of large numbers to make it work. This is because trend following also fall under the Pareto principle, also known as the 80/20 rule. It states that for many events, roughly 80% of the effects come from 20% of the causes. If we translate this principle to investing, it would mean that 80% of the profits come from only 20% of the trades we make in our portfolio. What this means is that most of the time, we will feel like our trades are not working and we are only making our brokers happy
 
+## Randomness vs Chaos
+
+In a chaotic system, even if you possess a time machine, attempting to predict outcomes by traveling back in time would be futile due to the inherent time-independence of chaotic systems.
+
+Market movements do not adhere to randomness; instead, they exhibit chaotic behavior. While in a random system, even with complete knowledge and real-time information as the system's creator, it remains impossible to make accurate predictions.
+
+The nature of market movements is characterized by chaos. This implies that there are instances where predictability is evident, and other times when it is not. In chaotic systems, if you possess real-time knowledge of the aggregate orders placed by all market participants and can process this information instantly, it becomes possible to anticipate market movements before the execution of the next billions of orders.
+
 ## Building a Trading System
 
 It's alot like old cigar butt investing style, hence no discretion or prediction is used. From the Trend Following Pioneer "David Herding":
