@@ -6,6 +6,20 @@
 
 The world of stock market speculation and investing is a never-ending circus of debates and arguments. It's like a virtual battleground where fundamental investors clash with technical investors, value investors square off against momentum investors, and the chaos just keeps on escalating. It's enough to drive any rational person to the brink of madness. Today, I want to take a moment to express my frustrations and delve into the absurdity that plagues these discussions.
 
+Therefore, adhering to Bonini's principle, trading a system with a very low success rate requires considerable discipline and strong money management skills. Refining such systems does not result in superior profits.
+
+By applying Bonini's principle, if numerous delicate components are combined to construct a system, it becomes antifragile, exhibiting the opposite of "Bonini's paradox."
+
+Bonini's paradox (original):
+
+"Any effort to simplify a complex system into a straightforward formula will reduce the system's comprehensibility as it becomes more comprehensive."
+
+However, the challenge lies in the fact that markets are not only complex but also chaotic. In chaotic systems, having more information does not necessarily lead to better outcomes.
+
+The reverse of Bonini's paradox:
+
+"Any attempt to address simple problems using a complex formula will enhance the system's comprehensibility as the system becomes less comprehensive."
+
 Before we dive into the chaos, let's briefly touch upon the "efficient market hypothesis" (EMH). Now, I'm not going to bore you with an in-depth explanation or get lost in the intricacies of this theory, but it's worth mentioning in this context. The EMH suggests that financial markets reflect all available information, making it impossible to consistently outperform the market by exploiting market inefficiencies. While we won't delve deeper into the EMH, keep in mind that the debates I'm about to discuss often disregard this hypothesis in a loose manner.
 
 So, let's venture into the battlefield of futile arguments, where confusion reigns supreme. One would hope that there's at least some level of agreement on basic terms and concepts, but alas, that is not the case. These debates often revolve around ambiguous and subjective definitions, leaving participants more confused than when they started.
