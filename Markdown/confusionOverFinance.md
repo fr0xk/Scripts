@@ -66,7 +66,7 @@ Economic growth does not always produce good investment returns. It’s a myth.
 
 **Stocks should earn 9% a year.**
 
-Com on. This reminds me of Michael Jordan. Also, this is the dumbest claim I have ever heard. So dumb that even my dog laughed at this. The returns in real, or constant dollars, were a much more modest 6%. Second, this is just an average. And it’s very misleading. During all those years, as Stern’s data shows, the stock market only beat inflation by a decent margin during two boom periods — from 1949 to 1967 and from 1982 to 1999. Both were followed by vicious bear markets which wiped out the gains. If you missed those two booms, your total gain from U.S. stocks over the other 54 years since 1928 came to a total of mere 7%, after inflation.
+Com on. This reminds me of Michael Jordan. Also, this is the dumbest claim I have ever heard. So dumb that even my dog laughed at this. The returns in real, or constant dollars, were a much more modest 6%. Second, this is just an average. And it’s very misleading. During all those years, as Stern’s data shows, the stock market only beat inflation by a decent margin during two boom periods — from 1949 to 1967 and from 1982 to 1999. Both were followed by vicious bear markets which wiped out the gains. If you missed those two booms, your total gain from U.S. stocks over the other 54 years since 1928 came to a total of mere 4% annualized after inflation, that too due to hyper bull run of last two decades 
 
 
 **A balanced portfolio of stocks and bonds will always make money.**
