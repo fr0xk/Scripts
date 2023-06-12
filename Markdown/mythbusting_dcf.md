@@ -14,7 +14,7 @@ Let's examine an example to demonstrate the concept. Consider two companies, Com
 | A       | 10       | 20%           |
 | B       | 30       | 5%            |
 
-The underlying rationale for this approach is derived from CAPM, which suggests that companies with higher profit margins should be associated with lower PE ratios, while companies with lower profit margins should be tied to higher PE ratios. So market just does it. But during the bubble periods, both PE and margin get positively correlated. By diligently adhering to principle of mean reversion, I believe it's possible to outperform approximately 90% of actively managed portfolios.
+The underlying rationale for this approach is derived from CAPM, which suggests that companies with higher profit margins should be associated with lower PE ratios, while companies with lower profit margins should be tied to higher PE ratios. So market just does it. But during the irrational periods, both PE and margin get positively correlated. By diligently adhering to principle of mean reversion, I believe it's possible to outperform approximately 90% of actively managed portfolios.
 
 ## Methodology
 
