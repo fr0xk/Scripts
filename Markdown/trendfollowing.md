@@ -28,7 +28,7 @@ We often hear comments like trend following doesn’t work. Well, that is actual
 
 ## Randomness vs Chaos
 
-In a chaotic system, even if you possess a time machine, attempting to predict outcomes by traveling back in time would be futile due to the inherent time-independence of chaotic systems.
+In a random system, even if you possess a time machine, attempting to predict outcomes by traveling back in time would be futile due to the inherent time-independence of randomness.
 
 Market movements do not adhere to randomness; instead, they exhibit chaotic behavior. While in a random system, even with complete knowledge and real-time information as the system's creator, it remains impossible to make accurate predictions.
 
