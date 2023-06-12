@@ -8,7 +8,7 @@
 
 The world of stock market speculation and investing is a never-ending circus of debates and arguments. It's like a virtual battleground where fundamental investors clash with technical investors, value investors square off against momentum investors, and the chaos just keeps on escalating. It's enough to drive any rational person to the brink of madness. Today, I want to take a moment to express my frustrations and delve into the absurdity that plagues these discussions.
 
-Therefore, adhering to Bonini's principle, trading a system with a very low success rate requires considerable discipline and strong money management skills. Refining such systems does not result in superior profits.
+Usually, adhering to Bonini's principle, a trading/investing system with a very low success rate requires considerable discipline and strong money management skills. Refining such systems does not result in superior profits.
 
 By applying Bonini's principle, if numerous delicate components are combined to construct a system, it becomes antifragile, exhibiting the opposite of "Bonini's paradox."
 
