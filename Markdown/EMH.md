@@ -1,4 +1,4 @@
-# Title: Analysis of Efficient Market Hypothesis and the Role of Technical Analysis
+# Analysis of Efficient Market Hypothesis and the Role of Technical Analysis
 
 ## Introduction:
 
