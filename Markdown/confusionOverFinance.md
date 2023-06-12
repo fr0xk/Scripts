@@ -1,5 +1,7 @@
 # The Never-Ending Circus of Market Debate
 
+![Image](https://www.tradingview.com/x/JBz0bWvA/)
+
 *Author: fr0xk*
 
 ---
