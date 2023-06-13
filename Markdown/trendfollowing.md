@@ -86,9 +86,7 @@ log₁₀(100) / log₁₀(1-0.35) = 2 / log₁₀(0.65)
 
 = -10.69023
 
-This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times
-
-, which gives us a very small number close to zero.
+This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times, which gives us a very small number close to zero.
 
 Therefore, we can say that it would take about 11 consecutive losses and 3-4 consecutive wins in a cluster of 100 trades to reach a success rate of 35%.
 
