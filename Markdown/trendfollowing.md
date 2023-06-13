@@ -104,7 +104,7 @@ Considering all the challenges involved in achieving this, merely earning a $10 
 
 Expectancy = [ win rate x payoff - losing rate x value at risk ] x number of trades
 
-Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 x 4 - 0.65 x 1 = 0.75 x 100 = 75 units. Hence such a system has positive expectancy over large amount of iterations 
+Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 x 4 - 0.65 x 1 = 0.75 x 100 = 75 units ]. Hence such a system has positive expectancy over large amount of iterations 
 
 ## Further Reading
 
