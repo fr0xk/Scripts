@@ -18,7 +18,7 @@ Some evidence of trend following working includes:
 
 - The performance of trend following hedge funds and commodity trading advisors (CTAs) that use trend following as their main strategy. These funds have outperformed market indices and other hedge fund strategies over long periods of time, especially during market crises and extreme events.
 
-- The success stories of legendary trend followers, such as Richard Dennis, John Henry, Ed Seykota, Bill Dunn, etc., who have made fortunes by following trends in various markets.
+- The success stories of legendary trend followers, such as Richard Dennis, John Henry, Ed Seykota, Jerry Parker, Bill Dunn, etc., who have made fortunes by following trends in various markets.
 
 - Academic research and studies that have confirmed the validity and profitability of trend following strategies across different markets, time frames, and risk levels.
 
