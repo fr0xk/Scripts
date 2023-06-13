@@ -90,7 +90,7 @@ log₁₀ (100) / log₁₀ (1-0.35) = 2 / log₁₀ (0.65)
 
 This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times, which gives us a very small number close to zero.
 
-Therefore, we can say that it would take about 11 consecutive losses in a cluster of 100 trades to reach a success rate of 35%.
+Therefore, we can say that it would take about 11 consecutive losses and 3-4 consecutive wins in a cluster of 100 trades to reach a success rate of 35%.
 
 Now, let's imagine a scenario where you lose 2% of your investment 11 times in a row. In this case, an initial investment of $100 would be reduced to $81 by multiplying it by 0.98 eleven times:
 
@@ -100,7 +100,7 @@ But if you were to achieve three significant gains of 8% consecutively each (wit
 
 $81 * 1.08³ = $102
 
-Considering all the challenges involved in achieving this, merely earning a $2 profit at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
+Considering all the challenges involved in achieving this, merely earning a $2 spread at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
 
 
 ## Further Reading
