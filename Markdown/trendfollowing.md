@@ -6,29 +6,31 @@ This article provides an explanation of Trend Following, a strategy utilized in 
 
 ## Introduction
 
-Trend following is a trading strategy that tries to capture long-term price movements in different markets by following the direction of the trend. Trend followers do not try to predict or forecast future prices, but simply follow the current price action and adjust their positions accordingly.
+Trend following is a trading strategy that aims to capture long-term price movements in different markets by following the trend's direction. Trend followers do not try to predict or forecast future prices; instead, they simply follow the current price action and adjust their positions accordingly.
 
-Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, investor psychology, etc. Trend followers can exploit these trends by riding them until they end, and then switching to the opposite direction when a new trend emerges. Definition of Trend is subjective but academic research postulates Trend as "if the ratio of present closing price to closing price of last n period is above 1, then it's called uptrend else it's downtrend"
+Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, and investor psychology. Trend followers can exploit these trends by riding them until they end and then switching to the opposite direction when a new trend emerges. The definition of a trend is subjective, but academic research defines a trend as follows: if the ratio of the present closing price to the closing price of the last n period is above 1, it is called an uptrend; otherwise, it's a downtrend.
 
-Trend following is speculative, but based on empirical evidence and historical data. Trend followers use systematic rules and algorithms to identify and follow trends, and they test their strategies on historical data to ensure robustness and profitability. Trend following has been proven to work across different markets and large time frames, and has delivered consistent returns over long periods of time. But keep in mind, it's not short term trading like 5-15mins bar strategy.
+Trend following is speculative but based on empirical evidence and historical data. Trend followers use systematic rules and algorithms to identify and follow trends, and they test their strategies on historical data to ensure robustness and profitability. Trend following has been proven to work across different markets and large time frames, delivering consistent returns over long periods of time. However, it is not a short-term trading strategy like a 5-15 minute bar strategy.
 
-Trend following is not tax efficient and has costs, but the fact that Trend followers do not need to pay for expensive research, analysis, news, or advice, as they only rely on price data and their own rules. Trend followers also do not trade frequently, as they only adjust their positions when the trend changes, which reduces transaction costs and slippage. Trend followers can also diversify their portfolio across different markets and instruments, which reduces risk and volatility.
+Trend following is not tax efficient and has costs, but trend followers do not need to pay for expensive research, analysis, news, or advice as they rely only on price data and their own rules. Trend followers also do not trade frequently, adjusting their positions only when the trend changes, which reduces transaction costs and slippage. Additionally, trend followers can diversify their portfolio across different markets and instruments, reducing risk and volatility.
 
-Some of the evidence of trend following working are:
+Some evidence of trend following working includes:
 
-- The performance of trend following hedge funds and commodity trading advisors (CTAs), who use trend following as their main strategy. These funds have outperformed the market indices and other hedge fund strategies over long periods of time, especially during market crises and extreme events.
+- The performance of trend following hedge funds and commodity trading advisors (CTAs) that use trend following as their main strategy. These funds have outperformed market indices and other hedge fund strategies over long periods of time, especially during market crises and extreme events.
 
 - The success stories of legendary trend followers, such as Richard Dennis, John Henry, Ed Seykota, Bill Dunn, etc., who have made fortunes by following trends in various markets.
-- The academic research and studies that have confirmed the validity and profitability of trend following strategies across different markets, time frames, and risk levels.
 
+- Academic research and studies that have confirmed the validity and profitability of trend following strategies across different markets, time frames, and risk levels.
 
 ## The Pareto Principle
 
-We often hear comments like trend following doesn’t work. Well, that is actually half the truth. Trend following doesn’t work on a single underlying like a stock or an index. It relies on the law of large numbers to make it work. This is because trend following also fall under the Pareto principle, also known as the 80/20 rule. It states that for many events, roughly 80% of the effects come from 20% of the causes. If we translate this principle to investing, it would mean that 80% of the profits come from only 20% of the trades we make in our portfolio. What this means is that most of the time, we will feel like our trades are not working and we are only making our brokers happy
+We often hear comments like "trend following doesn't work." Well, that is only half the truth. Trend following doesn't work on a single underlying asset like a stock or an index. It relies on the law of large numbers to make it work. This is because trend following also falls under the Pareto principle, also known as the 80/20 rule. The principle states that for many events, roughly 80% of the effects come from 20% of the causes. If we translate this principle to investing, it means that 80% of the profits come from only 20% of the trades in our portfolio. This implies that most of the time, we will feel like our trades are not working, and we are only making our brokers happy.
 
 ## Randomness vs Chaos
 
-In a random system, even if you possess a time machine, attempting to predict outcomes by traveling back in time would be futile due to the inherent time-independence of randomness.
+In a random system, even if you possess a time machine, attempting to predict outcomes by traveling back in time would be futile due to the inherent time-independence of randomness
+
+.
 
 Market movements do not adhere to randomness; instead, they exhibit chaotic behavior. While in a random system, even with complete knowledge and real-time information as the system's creator, it remains impossible to make accurate predictions.
 
@@ -36,9 +38,7 @@ The nature of market movements is characterized by chaos. This implies that ther
 
 ## Building a Trading System
 
-It's alot like old cigar butt investing style, hence no discretion or prediction is used. From the Trend Following Pioneer "David Herding":
-
-**Answer the following six questions and you have a trend following trading system:**
+It's a lot like the old cigar butt investing style; hence no discretion or prediction is used. According to the trend following pioneer David Herding, you can build a trend following trading system by answering the following six questions:
 
 - What market do you buy or sell at any time?
 
@@ -50,7 +50,7 @@ It's alot like old cigar butt investing style, hence no discretion or prediction
 
 - When do you get out of a winning position?
 
-- Why do you think you'll make money despite of multiple intermediate losses?
+- Why do you think you'll make money despite multiple intermediate losses?
 
 You want to be black or white with this. You do not want gray.
 
@@ -68,27 +68,29 @@ But please consider the following aspects (risks) when implementing Trend Follow
 
 - **Whipsaw Risk**: Trend Following strategies are vulnerable to whipsaws, which occur when markets experience short-term price reversals. This can result in losses as positions are exited prematurely.
 
-- **Mental Demands**: Trend Following can be mentally demanding, requiring discipline and adherence to predefined rules, even during periods of market volatility or conflicting signals
+- **Mental Demands**: Trend Following can be mentally demanding, requiring discipline and adherence to predefined rules, even during periods of market volatility or conflicting signals.
 
 ## Psychological Demand
 
-Trend Following systems are not for faint hearts, as they usually have a low success rate of around 30-40%. To show how hard this is, we can use logarithms to find out how many losses in a row we can expect in 100 trades. If we use the formula logₐ (b) = logₐ (c) / logₐ (d), we can calculate the logarithm of 100 divided by the logarithm of (1-0.35) as follows:
+Trend Following systems are not for the faint of heart, as they usually have a low success rate of around 30-40%. To illustrate how challenging it can be, we can use logarithms to calculate how many consecutive losses we can expect in 100 trades. Using the formula logₐ(b) = logₐ(c) / logₐ(d), we can calculate the logarithm of 100 divided by the logarithm of (1-0.35) as follows:
 
-logₐ (100) / logₐ (1-0.35) = logₐ (10²) / logₐ (0.65)
+logₐ(100) / logₐ(1-0.35) = logₐ(10²) / logₐ(0.65)
 
-= 2 * logₐ (10) / logₐ (0.65)
+= 2 * logₐ(10) / logₐ(0.65)
 
-= 2 / logₐ (0.65)
+= 2 / logₐ(0.65)
 
-We can use any base a for this calculation, as long as it is positive and not equal to 1. For example, if we use base 10, we get:
+We can use any positive base, a, for this calculation, as long as it is not equal to 1. For example, if we use base 10, we get:
 
-log₁₀ (100) / log₁₀ (1-0.35) = 2 / log₁₀ (0.65)
+log₁₀(100) / log₁₀(1-0.35) = 2 / log₁₀(0.65)
 
 = 2 / -0.18709
 
 = -10.69023
 
-This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times, which gives us a very small number close to zero.
+This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times
+
+, which gives us a very small number close to zero.
 
 Therefore, we can say that it would take about 11 consecutive losses and 3-4 consecutive wins in a cluster of 100 trades to reach a success rate of 35%.
 
@@ -102,7 +104,6 @@ $81 * 1.08³ = $102
 
 Considering all the challenges involved in achieving this, merely earning a $2 spread at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
 
-
 ## Further Reading
 
 If you are interested in delving deeper into the concept of Trend Following, the following articles provide valuable insights:
@@ -111,7 +112,7 @@ If you are interested in delving deeper into the concept of Trend Following, the
 
 - [Trend Following](https://www.trendfollowing.com/trend/): The official website of Michael Covel, an author and expert in Trend Following, provides extensive resources and information on the topic.
 
-Note that the authors of above mentioned articles may have a bias towards their own strategies and may not explore alternative approaches such as value investing. However, they possess a strong understanding of Trend Following. For a different perspective, you may also find value in the writings of [John Hussman](https://www.hussmanfunds.com/wmc/wmc120827.htm), a value-oriented investor who offers insights on Trend Following despite his own investment style.
+Note that the authors of the above-mentioned articles may have a bias towards their own strategies and may not explore alternative approaches such as value investing. However, they possess a strong understanding of Trend Following. For a different perspective, you may also find value in the writings of [John Hussman](https://www.hussmanfunds.com/wmc/wmc120827.htm), a value-oriented investor who offers insights on Trend Following despite his own investment style.
 
 ## Objectivity and Perspective
 
