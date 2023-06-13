@@ -100,11 +100,11 @@ $81 * 1.08³ = $110
 
 Considering all the challenges involved in achieving this, merely earning a $10 spread at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
 
-## Calculation of expected returns
+## Expected Return Expectancy
 
 Expectancy = [ win rate x payoff - losing rate x value at risk ] x number of trades
 
-Expectancy with 1:4 risk reward with 35% probability = [ 0.35 x 4 - 0.65 x 1 = 0.75 x 100 = 75 units. Hence such a system has positive expectancy over large amount of iterations 
+Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 x 4 - 0.65 x 1 = 0.75 x 100 = 75 units. Hence such a system has positive expectancy over large amount of iterations 
 
 ## Further Reading
 
