@@ -70,6 +70,38 @@ But please consider the following aspects (risks) when implementing Trend Follow
 
 - **Mental Demands**: Trend Following can be mentally demanding, requiring discipline and adherence to predefined rules, even during periods of market volatility or conflicting signals
 
+## Psychological Demand
+
+Trend Following systems are not for faint hearts, as they usually have a low success rate of around 30-40%. To show how hard this is, we can use logarithms to find out how many losses in a row we can expect in 100 trades. If we use the formula logₐ (b) = logₐ (c) / logₐ (d), we can calculate the logarithm of 100 divided by the logarithm of (1-0.35) as follows:
+
+logₐ (100) / logₐ (1-0.35) = logₐ (10²) / logₐ (0.65)
+
+= 2 * logₐ (10) / logₐ (0.65)
+
+= 2 / logₐ (0.65)
+
+We can use any base a for this calculation, as long as it is positive and not equal to 1. For example, if we use base 10, we get:
+
+log₁₀ (100) / log₁₀ (1-0.35) = 2 / log₁₀ (0.65)
+
+= 2 / -0.18709
+
+= -10.69023
+
+This means that we need to raise 10 to the power of -10.69023 to get 100 / (1-0.35), or equivalently, we need to multiply 10 by itself -10.69023 times to get the same result. This is the same as dividing 10 by itself 10.69023 times, which gives us a very small number close to zero.
+
+Therefore, we can say that it would take about 11 consecutive losses in a cluster of 100 trades to reach a success rate of 35%.
+
+Now, let's imagine a scenario where you lose 2% of your investment 11 times in a row. In this case, an initial investment of $100 would be reduced to $81 by multiplying it by 0.98 eleven times:
+
+$100 * 0.98¹¹ = $81
+
+But if you were to achieve three significant gains of 8% consecutively each (with a risk-reward ratio of 1:4), your account balance would rise back to $102 by multiplying it by 1.08 three times:
+
+$81 * 1.08³ = $102
+
+Considering all the challenges involved in achieving this, merely earning a $2 profit at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
+
 
 ## Further Reading
 
