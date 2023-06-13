@@ -94,9 +94,9 @@ Now, let's imagine a scenario where you lose 2% of your investment 11 times in a
 
 $100 * 0.98¹¹ = $81
 
-But if you were to achieve four significant gains of 8% consecutively each (with a risk-reward ratio of 1:4), your account balance would rise back to $110 by multiplying $81 by 1.08 three times:
+But if you were to achieve four significant gains of 8% consecutively each (with a risk-reward ratio of 1:4), your account balance would rise back to $110 by multiplying $81 by 1.08 four times:
 
-$81 * 1.08³ = $110
+$81 * 1.08⁴ = $110
 
 Considering all the challenges involved in achieving this, merely earning a $10 spread at best case will seem like a small reward. It's undoubtedly a tough task to accomplish.
 
