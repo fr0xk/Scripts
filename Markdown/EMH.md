@@ -12,7 +12,7 @@ Fama's definition of the EMH rests on the assumption that all relevant informati
 
 
 
-## The Efficient Market Hypothesis: Common Misinterpretations and What It Really Means**
+## The Efficient Market Hypothesis: Common Misinterpretations and What It Really Means
 
 The efficient market hypothesis (EMH) is one of the most influential and controversial ideas in financial economics. It states that asset prices reflect all available information, and that it is impossible to beat the market consistently on a risk-adjusted basis. The EMH has important implications for investors, regulators, and academics, but it is also often misunderstood and misapplied. In this article, we will clarify some common misinterpretations of the EMH and explain what it really means.
 
@@ -32,7 +32,7 @@ A third common misinterpretation of the EMH is that it implies that active inves
 
 The EMH is not a statement about how markets work in reality, but rather a benchmark for how markets should work in an ideal world. It is a hypothesis that can be tested empirically by comparing actual market outcomes with theoretical predictions based on different models of risk and return. The EMH does not deny the existence of market anomalies, inefficiencies, or bubbles, but rather challenges us to explain them using rigorous and consistent frameworks. The EMH does not discourage active investing, but rather encourages us to evaluate its costs and benefits using realistic and relevant measures of performance.
 
-The EMH was originally proposed by Eugene Fama in his seminal 1970 paper "Efficient Capital Markets: A Review of Theory and Empirical Work".¹ Fama defined three forms of market efficiency: weak-form (prices reflect past information), semi-strong-form (prices reflect public information), and strong-form (prices reflect private information). He reviewed the existing evidence on each form and concluded that markets were mostly efficient in the weak-form and semi-strong-form, but less so in the strong-form. He also acknowledged the limitations and challenges of testing market efficiency empirically.
+The EMH was originally proposed by Eugene Fama in his seminal 1970 paper "Efficient Capital Markets: A Review of Theory and Empirical Work". Fama defined three forms of market efficiency: weak-form (prices reflect past information), semi-strong-form (prices reflect public information), and strong-form (prices reflect private information). He reviewed the existing evidence on each form and concluded that markets were mostly efficient in the weak-form and semi-strong-form, but less so in the strong-form. He also acknowledged the limitations and challenges of testing market efficiency empirically.
 
 Since then, the EMH has been refined and extended by many researchers and practitioners in financial economics. The EMH has also faced many criticisms and controversies from various perspectives and disciplines. The debate over market efficiency is still ongoing and lively today.
 
