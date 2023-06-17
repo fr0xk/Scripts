@@ -10,8 +10,6 @@ Fama's views on the EMH clarify common misconceptions. Contrary to popular belie
 
 Fama's definition of the EMH rests on the assumption that all relevant information is readily accessible to all investors, enabling stock prices to consistently reflect their fair market value. He maintains that security prices fully incorporate all available information. Fama also distinguishes between the weak and strong forms of the EMH, with the weak form assuming that past information is already reflected in stock prices, while new, non-public information may not be accounted for. The weak form further suggests that technical trading strategies are unlikely to consistently generate excess returns due to their limited ability to predict future prices based solely on past performance.
 
-
-
 ## The Efficient Market Hypothesis: Common Misinterpretations and What It Really Means
 
 The efficient market hypothesis (EMH) is one of the most influential and controversial ideas in financial economics. It states that asset prices reflect all available information, and that it is impossible to beat the market consistently on a risk-adjusted basis. The EMH has important implications for investors, regulators, and academics, but it is also often misunderstood and misapplied. In this article, we will clarify some common misinterpretations of the EMH and explain what it really means.
@@ -53,6 +51,18 @@ And if we assume that statement "most fund managers can't beat the benchmark" is
 >"The idea is that value stocks have low prices relative to their present fundamentals, so the market thinks they're relatively financially distressed. The value premium is the return difference between stocks with low market values relative to book value, earnings, or cash flow (value stocks) and stocks with high market values relative to these measures (growth stocks). Value stocks are often distressed, in the sense that they have low profitability and high leverage. The value premium is compensation for bearing the risk that these firms do poorly or fail."
 
 Available at SSRN: https://ssrn.com/abstract=2287202
+
+**Systematic Value vs Discretionary Judgement**
+
+The first concept we need to understand is the forward PE ratio, which represents the price-to-earnings ratio that is expected but not yet announced. It is essentially a speculative or educated guess based on hypotheses. Forward PE is not an observable fact, and therefore we cannot engage in debates regarding hypothetical cash flows. You can see X and I can say Y and guess what? We're both equally correct.
+
+Consider a hypothetical scenario with a stock that has historical earnings per share (EPS) values of 10, 10.5, 10, 11, 12, and 13. The current price of the stock is 750. Now, let's assume that you believe there are macroeconomic or product demand reasons that could lead to an EPS of 50 in the near future, resulting in a forward PE ratio of only 15. In this case, you could be correct, which would signify a significant shift from the present situation or even if you turn out to be wrong, there may still be other factors influencing the stock price that could lead to financial gains on your side or worse you will be bagholding.
+
+Now, let's consider a scenario where you select 150 stocks using discretionary judgment, either based on analyst estimates (which often tend to be overshoot or undershoot) or your own assessment within a semi-efficient market. On the other hand, another individual chooses 150 stocks based solely on the lowest 10% of price-to-earnings or price-to-book ratios within each sector, without considering any other factors such as management or qualitative aspects.
+
+Both of you hold these stocks for a long period, let's say 30 years. In a semi-efficient market, any additional effort exerted through discretionary judgment should have minimal impact, and any alpha generated through discretionary decision-making is likely to be accounted for in terms of time, costs, and associated risks associated with it. Therefore, it remains uncertain whether valuation derived from discretionary judgment, based on cash flow estimates, can generate alpha (excess returns) compared to systematically selected stocks based on academic factors such as price-to-book and price-to-earnings ratios.
+
+Based on my standpoint, I believe that neither systematic nor discretionary decisions can consistently generate excess returns over the other.
 
 ## The Role of Technical Analysis:
 
