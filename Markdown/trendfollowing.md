@@ -104,11 +104,7 @@ Considering all the challenges involved in achieving this, merely earning a $10 
 
 Expectancy = [ win rate * payoff - losing rate * value at risk ] * number of trades
 
-Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 * 4 - 0.65 * 1 ] * 100 = 0.75 * 100 = 75 units. Hence such a system has positive expectancy over large amount of iterations 
-
-## Simple Backtest
-
-Here is a possible rewrite of the report in a casually professional tone. I have also added a chart to compare the strategy with buy and hold (after tax).
+Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 * 4 - 0.65 * 1 ] * 100 = 0.75 * 100 = 75 units. Hence such a system has positive expectancy over large amount of iteration.
 
 # Trend Following on NIFTY50
 
