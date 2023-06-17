@@ -2,7 +2,7 @@
 
 # The Warren Buffett Trap: How to Lose Money by Copying the Oracle of Omaha
 
-Warren Buffett is one of the richest men in the world, thanks to his knack for buying cheap stocks and holding them forever. He is the boss of Berkshire Hathaway, a giant conglomerate that owns everything from insurance to candy. He is widely revered as a saint of value investing, a religion that worships buying bargains and shunning fads [(except when he doesn't).](https://www.cxoadvisory.com/animal-spirits/why-dont-we-all-just-do-what-warren-buffett-does/)
+Warren Buffett is one of the richest men in the world, thanks to his knack for buying cheap stocks and holding them forever [(except when he doesn't).](https://www.cxoadvisory.com/animal-spirits/why-dont-we-all-just-do-what-warren-buffett-does/). He is the boss of Berkshire Hathaway, a giant conglomerate that owns everything from insurance to candy. He is widely revered as a saint of value investing, a religion that worships buying bargains and shunning fads 
 
 Some skeptics say that Buffett's image and words may not always match his deeds and motives. They say that he is more of a spin doctor than a true value investor, and that he often breaks his own rules. For example, he preaches about "never losing money" but also plays with derivatives that he called weapons of mass destruction. He also talks about paying a "fair price" for a stock, but this is a meaningless term that can be twisted to suit any whim. It is fair only to the extent of one's own delusions. Different people may use that term differently to rationalize their own mistakes.
 
