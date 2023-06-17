@@ -1,4 +1,4 @@
-# Interpretation of Efficient Market Hypothesis and the Role of Technical Analysis
+# Interpretation of Efficient Market Hypothesis and the Role of Technical Analysis & Value 
 
 ## Introduction:
 
@@ -37,6 +37,18 @@ The EMH was originally proposed by Eugene Fama in his seminal 1970 paper "Effici
 Since then, the EMH has been refined and extended by many researchers and practitioners in financial economics. The EMH has also faced many criticisms and controversies from various perspectives and disciplines. The debate over market efficiency is still ongoing and lively today.
 
 The main takeaway from this article is that the EMH is not a dogma or a doctrine, but rather a hypothesis or a theory. It is not a simple or a static idea, but rather a complex and a dynamic one. It is not a universal or a absolute truth, but rather a conditional and a relative one. It is not a final or a definitive answer, but rather a starting point and a guiding principle.
+
+## The role of Value Investing:
+
+I'm not trying to alter the definition of PE ratios where E still stands for elephant instead of earnings. But I think it's often misunderstood as "DCF > PE". PE is a misleading measure if current earnings don't reflect long-term future cash flows. But if they do, then PE is a proper measure. (In ideal situation, profit margin also needs to be considered, where lower PE should correspond to higher margin and vice versa).
+
+PE is a statistical measure, which means it requires a large sample size to work. This implies that if the market is somewhat efficient, holding a diversified portfolio of low PE stocks for 30+ years will yield similar returns to carefully selected stocks by investors who build a concentrated portfolio.
+
+And if we assume that statement "most fund managers can't beat the benchmark" is true, then neither group should be able to predict cash flows better than the market itself over time. Whether they invest in "Great companies at reasonable prices" or "Bad companies at cheap prices". Eugene Fama, however, favors the latter view. The concept behind value stocks is that they have low prices compared to their current financial situation, so the market views them as being in some financial trouble. The value premium refers to the difference in returns between stocks with low market values compared to their book value, earnings, or cash flow (these are called value stocks) and stocks with high market values relative to these measures (these are called growth stocks). Value stocks often face difficulties, such as low profitability and high debt. The value premium is the extra return investors expect to receive for taking on the risk that these companies may perform poorly or even go out of business.
+
+>"The idea is that value stocks have low prices relative to their present fundamentals, so the market thinks they're relatively financially distressed. The value premium is the return difference between stocks with low market values relative to book value, earnings, or cash flow (value stocks) and stocks with high market values relative to these measures (growth stocks). Value stocks are often distressed, in the sense that they have low profitability and high leverage. The value premium is compensation for bearing the risk that these firms do poorly or fail."
+
+Available at SSRN: https://ssrn.com/abstract=2287202
 
 ## The Role of Technical Analysis:
 
