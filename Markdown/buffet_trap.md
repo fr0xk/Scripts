@@ -1,0 +1,13 @@
+
+# The Warren Buffett Trap: Why Following the Oracle of Omaha May Not Be the Best Strategy
+
+Warren Buffett is one of the most successful investors of all time, having amassed a personal fortune of more than $100 billion. He is the chairman and CEO of Berkshire Hathaway, a diversified holding company that owns dozens of businesses, including insurer Geico, battery maker Duracell and restaurant chain Dairy Queen. He is widely regarded as a guru of value investing, a strategy that involves buying undervalued stocks and holding them for the long term which is also [questionable](https://www.cxoadvisory.com/animal-spirits/why-dont-we-all-just-do-what-warren-buffett-does/)
+
+Some critics argue that Buffett's public persona and statements may not always reflect his true actions and motives. They claim that he is more of a public relations master than a genuine value investor, and that he often does things that contradict his own principles. For example, he talks about "never losing money" but also engages in activities involving derivatives that he compared to rat poison. He also advocates for paying a "fair price" for a stock, but this concept is subjective and not an objective measure. It is fair only to the extent of one's own estimations. Different people may interpret that concept differently to justify their own biases.
+
+Some investors may fall into the trap of blindly following Buffett's advice or mimicking his portfolio, without understanding the context and rationale behind his decisions. They may also overlook the fact that Buffett has access to unique opportunities and resources that are not available to most individual investors. For example, he can negotiate favourable deals with companies that need capital or influence, such as his investments in Goldman Sachs and Bank of America during the financial crisis². He can also leverage his reputation and network to gain insights and information that are not public knowledge.
+
+Therefore, it may not be wise to simply copy what Buffett does or says, without doing one's own research and analysis. There may be other strategies that are more suitable for one's own goals and preferences. For instance, some investors may prefer dividends and innovation over buybacks and stability. They may also favour more objective and statistical methods of valuation over subjective and qualitative ones.
+
+In conclusion, Warren Buffett is undoubtedly a legendary investor who has achieved remarkable success over many decades. But he is not infallible or omniscient, and his style may not be the best fit for everyone. Investors should be aware of the potential pitfalls of following him too closely or uncritically, and instead develop their own independent thinking and judgement..
+
