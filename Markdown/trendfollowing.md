@@ -106,7 +106,7 @@ Expectancy = [ win rate * payoff - losing rate * value at risk ] * number of tra
 
 Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 * 4 - 0.65 * 1 ] * 100 = 0.75 * 100 = 75 units. Hence such a system has positive expectancy over large amount of iteration.
 
-# Trend Following on NIFTY50
+### Trend Following on NIFTY50
 
 In this report, we explore how a simple Trend Following strategy can work on the NIFTY50 index, which is the main index for the National Stock Exchange of India (NSE). It tracks the performance of the top 50 stocks by market capitalization from 13 sectors of the Indian economy. We use a 50 month simple moving average as a signal to decide when to buy or sell. We start with $100 in 1996 and see how it grows until now. We also account for fees of 0.25% on both buying and selling, and 20% capital gains tax on the final value. 
 
