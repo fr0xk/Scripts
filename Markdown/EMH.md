@@ -62,7 +62,9 @@ Now, let's consider a scenario where you select 150 stocks using discretionary j
 
 Both of you hold these stocks for a long period, let's say 30 years. In a semi-efficient market, any additional effort exerted through discretionary judgment should have minimal impact, and any alpha generated through discretionary decision-making is likely to be accounted for in terms of time, costs, and associated risks associated with it. Therefore, it remains uncertain whether valuation derived from discretionary judgment, based on cash flow estimates, can generate alpha (excess returns) compared to systematically selected stocks based on academic factors such as price-to-book and price-to-earnings ratios.
 
-Based on my standpoint, I believe that neither systematic nor discretionary decisions can consistently generate excess returns over the other.
+Valuing assets or companies is not just challenging—it's actually impossible. That's why even Ben Graham, widely regarded as the father of value investing, didn't use the term "value" himself. Instead, he referred to them as "cheap stocks." Cheap stocks typically represent poorly performing companies that investors believe are more valuable when bankrupt than when operational. These stocks are often defined academically as having low prices relative to their current financial indicators.
+
+If the market is truly efficient and always correct, then all cheap stocks will continue to decrease in value. However, if the market is only partially efficient, there is a possibility of a positive outcome when investing in a collection of such cheap stocks throughout a complete business cycle. Based on my standpoint, I believe that neither systematic nor discretionary decisions can consistently generate excess returns over the other.
 
 ## The Role of Technical Analysis:
 
