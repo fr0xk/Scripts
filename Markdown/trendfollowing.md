@@ -112,15 +112,6 @@ In this report, we explore how a simple Trend Following strategy can work on the
 
 The table below shows the results of each trade and the cumulative return of the strategy. The first trade is a bearish one, and we lose $18.4 (18.4%). The second trade is also bearish, and we lose $15.67 (19.2%). The third trade is another bearish one, and we lose $10.33 (15.7%). The fourth trade is a bullish one, and we make $61.4 (110.7%). The fifth trade is also bullish, and we make $125 (107%). The sixth trade is still open and bullish, and we make $161 (66%) so far.
 
-| Trade | Entry Date | Exit Date | Entry Price | Exit Price | Return | Cumulative Return |
-| ----- | ---------- | --------- | ----------- | ---------- | ------ | ----------------- |
-| 1     | Jan-96     | Mar-03    | 100         | 81.6       | -18.4% | -18.4%            |
-| 2     | Mar-03     | Apr-04    | 81.6        | 65.93      | -19.2% | -34%              |
-| 3     | Apr-04     | May-06    | 65.93       | 55.6       | -15.7% | -44%              |
-| 4     | May-06     | Jan-08    | 55.6        | 117        | 110.7% | 17%               |
-| 5     | Jan-08     | Mar-09    | 117         | 242        | 107%   | 142%              |
-| 6     | Mar-09     | Now       | 242         | 403        | 66%    | 303%              |
-
 The strategy turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5% (against 10% annualized buy and hold). The strategy has a lower drawdown than buy and hold, but also a lower Sharpe ratio.
 
 ![Chart showing Trend Following signals](https://www.tradingview.com/x/Ix3nwNYy/)
