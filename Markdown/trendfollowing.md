@@ -106,6 +106,31 @@ Expectancy = [ win rate * payoff - losing rate * value at risk ] * number of tra
 
 Expectancy with 1:4 risk reward with 35% probability traded 100 times = [ 0.35 * 4 - 0.65 * 1 ] * 100 = 0.75 * 100 = 75 units. Hence such a system has positive expectancy over large amount of iterations 
 
+## Simple Backtest
+
+Here is a possible rewrite of the report in a casually professional tone. I have also added a chart to compare the strategy with buy and hold (after tax).
+
+# Trend Following on NIFTY50
+
+In this report, we explore how a simple Trend Following strategy can work on the NIFTY50 index, which is the main index for the National Stock Exchange of India (NSE). It tracks the performance of the top 50 stocks by market capitalization from 13 sectors of the Indian economy. We use a 50 month simple moving average as a signal to decide when to buy or sell. We start with $100 in 1996 and see how it grows until now. We also account for fees of 0.25% on both buying and selling, and 20% capital gains tax on the final value. 
+
+The table below shows the results of each trade and the cumulative return of the strategy. The first trade is a bearish one, and we lose $18.4 (18.4%). The second trade is also bearish, and we lose $15.67 (19.2%). The third trade is another bearish one, and we lose $10.33 (15.7%). The fourth trade is a bullish one, and we make $61.4 (110.7%). The fifth trade is also bullish, and we make $125 (107%). The sixth trade is still open and bullish, and we make $161 (66%) so far.
+
+| Trade | Entry Date | Exit Date | Entry Price | Exit Price | Return | Cumulative Return |
+| ----- | ---------- | --------- | ----------- | ---------- | ------ | ----------------- |
+| 1     | Jan-96     | Mar-03    | 100         | 81.6       | -18.4% | -18.4%            |
+| 2     | Mar-03     | Apr-04    | 81.6        | 65.93      | -19.2% | -34%              |
+| 3     | Apr-04     | May-06    | 65.93       | 55.6       | -15.7% | -44%              |
+| 4     | May-06     | Jan-08    | 55.6        | 117        | 110.7% | 17%               |
+| 5     | Jan-08     | Mar-09    | 117         | 242        | 107%   | 142%              |
+| 6     | Mar-09     | Now       | 242         | 403        | 66%    | 303%              |
+
+The chart below compares the strategy with buy and hold (after tax). Buy and hold turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5%. The strategy turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5%. The strategy has a lower drawdown than buy and hold, but also a lower Sharpe ratio.
+
+![Chart showing Trend Following signals](https://www.tradingview.com/x/Ix3nwNYy/)
+
+We can conclude that Trend Following on NIFTY50 can be a viable strategy for long-term investors who want to avoid large losses during market downturns, but are willing to accept lower returns than buy and hold in some periods.
+
 ## Further Reading
 
 If you are interested in delving deeper into the concept of Trend Following, the following articles provide valuable insights:
