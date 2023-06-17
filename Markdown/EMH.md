@@ -84,4 +84,4 @@ Thus, after conducting 10,000 iterations, a trading strategy with a 20% win rate
 
 ## Conclusion:
 
-In conclusion, Fama's Efficient Market Hypothesis asserts that markets are efficient and stock prices reflect all relevant information. This information is not essentially accurate or the reaction of market participants to same information can be different at different times.
+In conclusion, Fama's Efficient Market Hypothesis asserts that markets are efficient and stock prices reflect all relevant information. This information is not essentially accurate or the reaction of market participants to same information can be different at different times. EMH is a good base ground for estimating future returns or building strategies but EMH doesn't equate to market correctly pricing value of underlying securities, rather explains the competative nature of arbitrage opportunities and costs associated with it.
