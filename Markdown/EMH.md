@@ -36,7 +36,7 @@ Since then, the EMH has been refined and extended by many researchers and practi
 
 The main takeaway from this article is that the EMH is not a dogma or a doctrine, but rather a hypothesis or a theory. It is not a simple or a static idea, but rather a complex and a dynamic one. It is not a universal or a absolute truth, but rather a conditional and a relative one. It is not a final or a definitive answer, but rather a starting point and a guiding principle.
 
-## The role of Value Investing:
+## The Role of Value Investing:
 
 > Any Investing is Value Investing - Warren Buffett 
 
