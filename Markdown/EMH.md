@@ -1,4 +1,4 @@
-# Interpretation of Efficient Market Hypothesis and the Role of Technical Analysis & Value 
+# Interpretation of Efficient Market Hypothesis and the Role of Technical Analysis & Value Investing 
 
 ## Introduction:
 
