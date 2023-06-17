@@ -40,6 +40,10 @@ The main takeaway from this article is that the EMH is not a dogma or a doctrine
 
 ## The role of Value Investing:
 
+> Any Investing is Value Investing - Warren Buffett
+
+There is a consistent battle regarding what's Value Investing and what's Speculation between classic Value Investors and those who follow the school of "Wonderful companies at fair price", so I think a better term to explain Value Investing is the same term Benjamin Graham used back in days which is consistent with academic definition of value stocks - "cheap stocks". With that, PE, PB etc are measure of how cheap or expensive a company is based on present value and treating both growth and quality as a matric of speculation.
+
 I'm not trying to alter the definition of PE ratios where E still stands for elephant instead of earnings. But I think it's often misunderstood as "DCF > PE". PE is a misleading measure if current earnings don't reflect long-term future cash flows. But if they do, then PE is a proper measure. (In ideal situation, profit margin also needs to be considered, where lower PE should correspond to higher margin and vice versa).
 
 PE is a statistical measure, which means it requires a large sample size to work. This implies that if the market is somewhat efficient, holding a diversified portfolio of low PE stocks for 30+ years will yield similar returns to carefully selected stocks by investors who build a concentrated portfolio.
