@@ -121,7 +121,7 @@ The table below shows the results of each trade and the cumulative return of the
 | 5     | Jan-08     | Mar-09    | 117         | 242        | 107%   | 142%              |
 | 6     | Mar-09     | Now       | 242         | 403        | 66%    | 303%              |
 
-The chart below compares the strategy with buy and hold (after tax). Buy and hold turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5%. The strategy turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5%. The strategy has a lower drawdown than buy and hold, but also a lower Sharpe ratio.
+The strategy turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5%. The strategy has a lower drawdown than buy and hold, but also a lower Sharpe ratio.
 
 ![Chart showing Trend Following signals](https://www.tradingview.com/x/Ix3nwNYy/)
 
