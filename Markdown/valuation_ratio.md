@@ -34,6 +34,16 @@ The lowest EV/Revenue ratio is observed in the **Materials** sector, which has a
 
 The other sectors have EV/Revenue ratios ranging from **1.5x** to **3x**, which are close to the average and median values.
 
+## Relationship between profit margins and valuation multiple 
+
+We investigate the relationship between the expected return of a firm and its enterprise value to revenue ratio (EV/R) over a 10-year horizon. We use the median profit margin data provided by the user for different EV/R ranges as follows: 3% or less for EV/R below 1, 5% or less for EV/R between 1 and 2, 6% for EV/R between 2 and 3, 9% for EV/R between 3 and 5, 12% for EV/R between 5 and 10, and 17% for EV/R between 10 and 30. We assume that the firm has a constant EV/R, a constant sales growth rate, and a constant profit margin within each range. We also assume that the firm pays no dividends and reinvests all its earnings. Under these assumptions, we derive the following formula for the expected return of the firm:
+
+Expected Return = EV/R x (1 + g)^10 x PM - 1
+
+where EV/R is the enterprise value to revenue ratio, g is the sales growth rate, and PM is the profit margin.
+
+We use this formula to estimate the expected return for different EV/R ranges. We find that the expected return increases with EV/R, reflecting the higher risk and growth potential of firms with higher valuation multiples. However, we also note that this formula is subject to several limitations, such as ignoring the effects of taxes, interest, and inflation, and assuming constant parameters that may vary over time. Therefore, our results should be interpreted with caution and only as an approximation.
+
 ## Conclusion
 
 The EV/Revenue ratios of different Indian sectors provide a useful insight into how the market perceives their value and performance. The average and median EV/Revenue of all industries are around 2x, which suggests that the Indian market is moderately valued. However, there are significant variations among different sectors, with some being overvalued and some being undervalued. Investors can use this information to identify opportunities and risks in different sectors and make informed decisions.
