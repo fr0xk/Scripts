@@ -36,14 +36,11 @@ The other sectors have EV/Revenue ratios ranging from **1.5x** to **3x**, which 
 
 ## Relationship between profit margins, growth rate, and valuation multiple
 
-We investigate the relationship between the expected return of a firm and its enterprise value to revenue ratio (EV/R) over a 10-year horizon. We use the median profit margin data provided by the user for different EV/R ranges as follows:
+We investigate the relationship between the expected return of a firm and its enterprise value to revenue ratio (EV/R) over a 10-year horizon. We use the median profit margin data provided for different EV/R ranges as follows:
 
-- 3% or less for EV/R below 1
-- 5% or less for EV/R between 1 and 2
-- 6% for EV/R between 2 and 3
-- 9% for EV/R between 3 and 5
-- 12% for EV/R between 5 and 10
-- 17% for EV/R between 10 and 30
+- 00% - 10% for EV/R 1x
+- 10% - 20% for EV/R 3x
+- 20% - 30% for EV/R 5x
 
 We assume that the firm has a constant EV/R, a constant sales growth rate, and a constant profit margin within each range. We also assume that the firm pays no dividends and reinvests all its earnings. Under these assumptions, we derive the following formula for the expected return of the firm:
 
