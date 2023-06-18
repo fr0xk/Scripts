@@ -47,11 +47,17 @@ We investigate the relationship between the expected return of a firm and its en
 
 We assume that the firm has a constant EV/R, a constant sales growth rate, and a constant profit margin within each range. We also assume that the firm pays no dividends and reinvests all its earnings. Under these assumptions, we derive the following formula for the expected return of the firm:
 
-Expected Return = EV/R x (1 + g)^10 x PM - 1
+$$E(R) = \frac{S_0 \times (1 + g)^n \times \overline{P/S} - P_0}{P_0} + D$$
 
-where EV/R is the enterprise value to revenue ratio, g is the sales growth rate, and PM is the profit margin.
+Where:
 
-We use this formula to estimate the expected return for different EV/R ranges. We find that the expected return increases with EV/R, reflecting the higher risk and growth potential of firms with higher valuation multiples. However, we also note that this formula is subject to several limitations, such as ignoring the effects of taxes, interest, and inflation, and assuming constant parameters that may vary over time. Therefore, our results should be interpreted with caution and only as an approximation. An investor expecting mean reversion should see a positive value as a negative expectancy, whereas a negative value as positive expectancy.
+- $E(R)$ is the expected return on an investment
+- $S_0$ is the current sales per share
+- $g$ is the expected constant growth rate of sales
+- $n$ is the number of years for which we want to forecast
+- $\overline{P/S}$ is the long-term average P/S ratio for the sector or industry
+- $P_0$ is the current stock price
+- $D$ is the dividend yield
 
 Empirical observations indicate that within the range of 1x to 3x EV/Revenue multiples, a growth rate of 10% is widely regarded as a representative benchmark. This domain encompasses a harmonious equilibrium where investors perceive the fundamental value of an enterprise to be commensurate with its revenue generation capabilities. Companies exhibiting revenue growth within this range are typically valued with a sense of stability, acknowledging their ability to sustain moderate expansion.
 
