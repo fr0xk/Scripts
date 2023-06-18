@@ -2,7 +2,7 @@
 
 Enterprise value to revenue (EV/Revenue) is a financial ratio that measures how much a company is worth relative to its sales. It is often used to compare the valuation of companies across different industries or markets.
 
-In this article, we will look at the EV/Revenue ratios of various Indian sectors as on June 18, 2023, based on the data provided by the user. We will also calculate the average and median EV/Revenue of all industries and discuss what they imply.
+In this article, we will look at the median EV/Revenue ratios of various Indian sectors as on June 18, 2023, based on the data provided by the user. We will also calculate the average and median EV/Revenue of all industries and discuss what they imply. All these companies have minimum sales and MarketCap around 1 billion (100 crores).
 
 ## Data
 
