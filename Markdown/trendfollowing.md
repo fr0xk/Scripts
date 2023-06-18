@@ -6,7 +6,9 @@ This article provides an explanation of Trend Following, a strategy utilized in 
 
 ## Introduction
 
-Trend following is a trading strategy that aims to capture long-term price movements in different markets by following the trend's direction. Trend followers do not try to predict or forecast future prices; instead, they simply follow the current price action and adjust their positions accordingly.
+Trend following is a trading strategy that aims to capture long-term price movements in different markets by following the trend's direction. Trend followers do not try to predict or forecast future prices; instead, they simply follow the current price action and adjust their positions accordingly. In the realm of trend following, the approach starkly differs from the traditional technical analysis that is often deemed deceptive. Instead of relying on support and resistance levels and setting predetermined profit targets, trend following operates in a reactive manner. It involves adhering to a predetermined system pattern, one that can be mechanized or programmed, such as a new all-time high (ATH) or a moving average crossover.
+
+Once a position is taken, the initial stop loss is determined by considering a measure of volatility, such as the average true range (ATR). As the price starts moving in a favorable direction, the stop loss is trailed upwards, ensuring that profits are secured as the trend progresses. This reactive approach stands in stark contrast to the predictive nature of traditional technical analysis, offering a distinct methodology in trend following.
 
 Trend following works because markets tend to move in trends due to various factors, such as economic cycles, geopolitical events, and investor psychology. Trend followers can exploit these trends by riding them until they end and then switching to the opposite direction when a new trend emerges. The definition of a trend is subjective, but academic research defines a trend as follows: if the ratio of the present closing price to the closing price of the last n period is above 1, it is called an uptrend; otherwise, it's a downtrend.
 
