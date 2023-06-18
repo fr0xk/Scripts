@@ -34,7 +34,7 @@ The lowest EV/Revenue ratio is observed in the **Materials** sector, which has a
 
 The other sectors have EV/Revenue ratios ranging from **1.5x** to **3x**, which are close to the average and median values.
 
-## Relationship between profit margins and valuation multiple 
+## Relationship between profit margins,. growth rate and valuation multiple 
 
 We investigate the relationship between the expected return of a firm and its enterprise value to revenue ratio (EV/R) over a 10-year horizon. We use the median profit margin data provided by the user for different EV/R ranges as follows: 3% or less for EV/R below 1, 5% or less for EV/R between 1 and 2, 6% for EV/R between 2 and 3, 9% for EV/R between 3 and 5, 12% for EV/R between 5 and 10, and 17% for EV/R between 10 and 30. We assume that the firm has a constant EV/R, a constant sales growth rate, and a constant profit margin within each range. We also assume that the firm pays no dividends and reinvests all its earnings. Under these assumptions, we derive the following formula for the expected return of the firm:
 
@@ -42,7 +42,9 @@ Expected Return = EV/R x (1 + g)^10 x PM - 1
 
 where EV/R is the enterprise value to revenue ratio, g is the sales growth rate, and PM is the profit margin.
 
-We use this formula to estimate the expected return for different EV/R ranges. We find that the expected return increases with EV/R, reflecting the higher risk and growth potential of firms with higher valuation multiples. However, we also note that this formula is subject to several limitations, such as ignoring the effects of taxes, interest, and inflation, and assuming constant parameters that may vary over time. Therefore, our results should be interpreted with caution and only as an approximation.
+We use this formula to estimate the expected return for different EV/R ranges. We find that the expected return increases with EV/R, reflecting the higher risk and growth potential of firms with higher valuation multiples. However, we also note that this formula is subject to several limitations, such as ignoring the effects of taxes, interest, and inflation, and assuming constant parameters that may vary over time. Therefore, our results should be interpreted with caution and only as an approximation. Empirical observations indicate that within the range of 1x to 3x EV/Revenue multiples, a growth rate of 10% is widely regarded as a representative benchmark. This domain encompasses a harmonious equilibrium where investors perceive the fundamental value of an enterprise to be commensurate with its revenue generation capabilities. Companies exhibiting revenue growth within this range are typically valued with a sense of stability, acknowledging their ability to sustain moderate expansion.
+
+Expanding our purview, we venture into the realm of 3x to 30x EV/Revenue multiples, where the growth rate becomes more nuanced. Here, a broader spectrum ranging from 10% to 15% emerges as a benchmark that aligns with prevailing market sentiment. In this elevated territory, investors place greater emphasis on potential future growth, necessitating a more robust and sustainable trajectory. Enterprises that demonstrate consistent revenue growth within this interval are perceived as possessing greater intrinsic worth, justifying the relatively higher valuation multiples assigned to them.
 
 ## Conclusion
 
