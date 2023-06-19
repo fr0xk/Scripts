@@ -120,8 +120,6 @@ Trend Following can hunt for outliers and save investors from unpredictable even
 
 ![Chart showing Trend Following signals](https://www.tradingview.com/x/KJHUn6mH/)
 
-![Chart showing performance of global equities at all time high](https://pbs.twimg.com/media/EH-f6QkUEAE4hXb?format=jpg)
-
 We can conclude that Trend Following can be a viable strategy for those who want to avoid large losses during market downturns, but are willing to accept lower returns than buy and hold in some periods.
 
 ## Further Reading
