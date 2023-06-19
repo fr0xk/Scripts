@@ -104,6 +104,10 @@ Nevertheless, there is evidence to suggest that technical analysis, when combine
 
 ## Quantitative Explanation:
 
+>"It is a great mistake to believe that a speculation has been unwise if you lose money at it. That sounds like an obvious conclusion, but actually it is not true at all. A speculation is unwise only if it is made on insufficient study and by poor judgment. There is a great deal of that in Wall Street, particularly in the field of speculation, when you are trying to do it by careful calculation. In some cases the thing will work out badly. But that is simply part of the game. If the probabilities, as measure by our mathematical test, are definitely in favor of the speculation, then we can transform these separate intelligent speculations into investment by the simple device of diversification. That, I think, is a clue to the most successful and rewarding treatment of speculation in Wall Street. The idea, in fine, is simply to get the odds on your side by processes of skillful, experienced calculation. If it was bound to work out rightly, it wouldn’t be a speculation at all, and there wouldn’t be the opportunities of profit that inhere in sound speculation. It seems to me that is axiomatic."
+
+-- Ben Graham 
+
 To illustrate the potential outcomes of a trading strategy with a 20% win rate and a risk-reward ratio of 1:6, we conducted a quantitative analysis. Utilizing the formula for expected outcome, we calculated the expected result over a substantial number of iterations.
 
 Expected Outcome = [(Win Probability * Reward) + (Loss Probability * Risk)] * Number of Iterations
