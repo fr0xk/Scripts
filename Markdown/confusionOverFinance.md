@@ -115,3 +115,5 @@ At the end of the day, investing and speculation should be approached with caref
 In various financial market scenarios, offering specific and actionable advice tailored to individual circumstances and supported by a clear methodology or strategy can significantly enhance its practical value.
 
 In conclusion, the incessant battles between various factions within the stock market community only serve to distract us from what truly matters: making wise investment choices and navigating the markets with prudence. Instead of wasting time and energy on pointless arguments, let's focus on enhancing our understanding, developing robust strategies, and embracing the ever-evolving nature of the financial world. It's time to break free from the cycle of frustration and channel our efforts towards more productive and meaningful endeavors.
+
+Note: Alot of bulls*** is normalised here: Markdown/EMH.md
