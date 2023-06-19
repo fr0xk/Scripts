@@ -1,5 +1,9 @@
 ## The Impact of Financial Crisis, Behavioral Biases, and Political Beliefs on the Modern Financial Landscape
 
+---
+Date: 19th June, 2023
+---
+
 ### Introduction
 
 As we embark on this exploration, I am driven by a natural inclination to challenge established paradigms and disrupt the norm. It is fascinating how the dynamics of various phenomena evolve over time, whether it's the unfolding of events or the volatility of prices. What's even more intriguing is the emergence of predictability during periods of heightened unpredictability, while paradoxically, heightened unpredictability arises during times of diminished unpredictability.
