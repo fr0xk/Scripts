@@ -10,7 +10,7 @@ Some fools may fall into the trap of blindly following Buffett's tips or copying
 
 Therefore, it may not be smart to simply do what Buffett does or says, without doing your own homework and thinking. There may be other ways that are more suited for your own needs and tastes. For example, some investors may like dividends and innovation over buybacks and stagnation. They may also prefer more factual and numerical methods of valuation over vague and emotional ones.
 
-Sure, here are some of the myths about Warren Buffett, along with evidence to debunk them:
+These are some of the popular myths about Warren Buffett:
 
 **Myth:** Warren Buffett is a value investor.
 
