@@ -37,3 +37,5 @@ These are some of the popular myths about Warren Buffett:
 **Evidence:** Buffett is often portrayed as a kind and grandfatherly figure. However, he is a complex and powerful individual. He is also a billionaire, and his wealth gives him a lot of influence.
 
 In summary, Warren Buffett is undoubtedly a great investor who has achieved amazing results over many years. But he is not perfect or all-knowing, and his style may not be the best match for everyone. Investors should beware of the dangers of following him too closely or blindly, and instead develop their own independent thinking and judgement.
+
+PS: Also read ["Bulls*** in Finance"](confusionOverFinance.md)
