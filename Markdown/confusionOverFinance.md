@@ -71,7 +71,42 @@ Here's a glimpse into the maddening world of financial semantics:
 
 The list goes on and on, encompassing quantitative analysis versus technical analysis, technical analysis versus fundamental analysis, technical analysis versus astrology (yes, astrology!), fundamental analysis versus astrology, astrology versus astronomy, chartists versus technical analysts, price action versus technical indicators, smart money versus dumb money, hedge funds versus high-frequency traders, high-frequency traders versus day trading, day trading versus swing trading, swing trading versus positional trading, positional trading versus investing, investing versus speculation, and speculation versus gambling.
 
-It's a never-ending loop of pointless arguments that lead us down a rabbit hole of frustration. These discussions seem to have no purpose other than to waste everyone's time and perpetuate the chaos. The lack of consensus, the subjective nature of the topics, and the disregard for the efficient market hypothesis create an environment of utter confusion and chaos. It's as if the participants are trapped in a perpetual loop of self-righteousness, each believing that their approach holds the key to financial success.
+## A lot of conflicting information
+
+Personally, I dismiss any statement lacking objectivity and verifiability, which relies solely on hypothetical ideas and claims. Such statements tend to create confusion rather than provide assistance.
+
+The widely known phrase "Buy low, sell high" often heard in investing appears to be a straightforward strategy. However, it lacks practicality and consensus when it comes to identifying the optimal points of "low" or "high" for stocks. Instead, it tends to initiate speculative discussions centered around factors like "growth" and "quality."
+
+The popular saying "Be fearful when others are greedy, and greedy when others are fearful" fails to acknowledge the potential for trends to persist over long periods. Contrarian strategies do not consistently yield positive results.
+
+The quote "Price is what you pay, value is what you get" proves useless as well, since both value and risk are subjective.
+
+Regarding the statement "Our favorite holding period is forever," the majority of contemporary stocks resemble the greater fool theory. They either lack a significant payout ratio or offer minimal returns. In order to cash out, one must find another investor willing to pay higher prices, relying on the same promises that were made during the initial purchase. Consequently, in today's market, there is no direct correlation between shareholders and a company's profits.
+
+There's endless advices and quotes:
+
+1. Warren Buffett: "Be fearful when others are greedy, and greedy when others are fearful." vs George Soros: "The worse a situation becomes, the less it takes to turn it around, and the bigger the upside."
+
+3. Peter Lynch: "Invest in what you know." vs Ray Dalio: "Diversification is a powerful risk-management tool."
+
+4. Benjamin Graham: "The stock market is filled with individuals who know the price of everything, but the value of nothing." v Carl Icahn: "I look for companies that are undervalued and then try to take full advantage by unlocking their true value."
+
+5. John Bogle: "Don't look for the needle in the haystack. Just buy the haystack." v "Put all your eggs in one basket and watch that basket." - Andrew Carnegie
+
+6. Jack Bogle: "Time is your friend; impulse is your enemy." v Paul Tudor Jones: "The whole world is simply nothing more than a flow chart for capital."
+
+
+8. "Put all your eggs in one basket and watch that basket." - Andrew Carnegie vs "Diversification is protection against ignorance. It makes little sense if you know what you are doing." - Warren Buffett
+
+9. "In investing, what is comfortable is rarely profitable." - Robert Arnott vs "Wide diversification is only required when investors do not understand what they are doing." - Warren Buffett
+
+10. "The stock market is filled with individuals who know the price of everything, but the value of nothing." - Philip Fisher vs "Risk comes from not knowing what you're doing." - Warren Buffett
+
+11. "Put all your energy into one opportunity, and if you're right, you'll make a lot of money." - Bill Ackman vs "The best investment you can make is in yourself." - Warren Buffett
+
+12. "The stock market is a device for transferring money from the impatient to the patient." - Warren Buffett vs "It's not whether you're right or wrong, but how much money you make when you're right and how much you lose when you're wrong." - George Soros
+
+It's a never-ending loop of pointless arguments and advices that lead us down a rabbit hole of frustration. These discussions seem to have no purpose other than to waste everyone's time and perpetuate the chaos. The lack of consensus, the subjective nature of the topics, and the disregard for the efficient market hypothesis create an environment of utter confusion and chaos. It's as if the participants are trapped in a perpetual loop of self-righteousness, each believing that their approach holds the key to financial success.
 
 But let's take a step back and reassess the situation. While healthy debates and differing opinions are essential for progress and innovation, these discussions often devolve into nothing more than ego battles and pointless rhetoric. It's disheartening to witness the sheer waste of intellectual energy and the failure to focus on more productive endeavors. Here's some random intelligent sounding arguments
 
