@@ -83,7 +83,7 @@ The quote "Price is what you pay, value is what you get" proves useless as well,
 
 Regarding the statement "Our favorite holding period is forever," the majority of contemporary stocks resemble the greater fool theory. They either lack a significant payout ratio or offer minimal returns. In order to cash out, one must find another investor willing to pay higher prices, relying on the same promises that were made during the initial purchase. Consequently, in today's market, there is no direct correlation between shareholders and a company's profits.
 
-There's endless advices and quotes:
+If that's not enough,  then there's more endless advices and quotes from iconic investors to add more confusion in your mind:
 
 1. Warren Buffett: "Be fearful when others are greedy, and greedy when others are fearful." vs George Soros: "The worse a situation becomes, the less it takes to turn it around, and the bigger the upside."
 
