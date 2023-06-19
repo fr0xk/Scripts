@@ -82,9 +82,11 @@ Available at SSRN: https://ssrn.com/abstract=2287202
 
 **Systematic Value vs Discretionary Judgement**
 
-The first concept we need to understand is the forward PE ratio, which represents the price-to-earnings ratio that is expected but not yet announced. It is essentially a speculative or educated guess based on hypotheses. Forward PE is not an observable fact, and therefore we cannot engage in debates regarding hypothetical cash flows. You can see X and I can say Y and guess what? We're both equally correct.
+The first concept we need to understand is the forward PE ratio, which represents the price-to-earnings ratio that is expected but not yet announced. It is essentially a speculative or educated guess based on hypotheses. Forward PE is not an observable fact, and therefore we cannot engage in debates regarding hypothetical cash flows. You can say X and I can say Y and guess what? We're both equally correct.
 
 Consider a hypothetical scenario with a stock that has historical earnings per share (EPS) values of 10, 10.5, 10, 11, 12, and 13. The current price of the stock is 750. Now, let's assume that you believe there are macroeconomic or product demand reasons that could lead to an EPS of 50 in the near future, resulting in a forward PE ratio of only 15. In this case, you could be correct, which would signify a significant shift from the present situation or even if you turn out to be wrong, there may still be other factors influencing the stock price that could lead to financial gains on your side or worse you will be bagholding.
+
+![Value vs Quality](https://alphaarchitect.com/wp-content/uploads/2020/10/Performance-of-Good-versus-Bad-Value-Stocks-in-the-US-1200x600.png)
 
 Now, let's consider a scenario where you select 150 stocks using discretionary judgment, either based on analyst estimates (which often tend to be overshoot or undershoot) or your own assessment within a semi-efficient market. On the other hand, another individual chooses 150 stocks based solely on the lowest 10% of price-to-earnings or price-to-book ratios within each sector, without considering any other factors such as management or qualitative aspects.
 
