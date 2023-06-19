@@ -117,7 +117,10 @@ The table below shows the results of each trade and the cumulative return of the
 The strategy turns $100 into $403 in 27 years, with an annualized return of 6.8%. After taxes and fees, the final value is $321.6, with an annualized return of 5.5% (against 10% annualized buy and hold). The strategy has a lower drawdown than buy and hold, but also a lower Sharpe ratio.
 
 Trend Following can hunt for outliers and save investors from unpredictable events like "Tail Risk".
+
 ![Chart showing Trend Following signals](https://www.tradingview.com/x/KJHUn6mH/)
+
+![Chart showing performance of global equities at all time high](https://pbs.twimg.com/media/EH-f6QkUEAE4hXb?format=jpg)
 
 We can conclude that Trend Following can be a viable strategy for long-term investors who want to avoid large losses during market downturns, but are willing to accept lower returns than buy and hold in some periods.
 
