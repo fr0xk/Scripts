@@ -116,4 +116,4 @@ In various financial market scenarios, offering specific and actionable advice t
 
 In conclusion, the incessant battles between various factions within the stock market community only serve to distract us from what truly matters: making wise investment choices and navigating the markets with prudence. Instead of wasting time and energy on pointless arguments, let's focus on enhancing our understanding, developing robust strategies, and embracing the ever-evolving nature of the financial world. It's time to break free from the cycle of frustration and channel our efforts towards more productive and meaningful endeavors.
 
-Note: [Alot of bulls*** is normalised here](EMH.md)
+Note: [Alot of bulls*** is normalised here](EMH.md) and [How Greed, Stupidity, and Ideology Made the Financial System a Total Joke](current_investing_environment.md)
