@@ -60,7 +60,7 @@ The main takeaway from this article is that the EMH is not a dogma or a doctrine
 
 - Person 2: Sounds like a lot of guesswork and speculation to me. Why don't you just buy index funds or a bunch of cheap stocks like everyone else?
 
-- Person 1: You don't understand Value Investing. Go away and read 10000 pages of Birkshire Hathaway annual shareholder's letter.
+- Person 1: You don't understand Value Investing. Go away and read 10000 pages of "Berkshire Hathaway" annual shareholder's letter.
 
 - Person 2: I did read it. He said "Any Investing is Value Investing".
 
