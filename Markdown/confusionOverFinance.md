@@ -89,11 +89,11 @@ If that's not enough,  then there's more endless advices and quotes from iconic 
 
 3. Peter Lynch: "Invest in what you know." vs Ray Dalio: "Diversification is a powerful risk-management tool."
 
-4. Benjamin Graham: "The stock market is filled with individuals who know the price of everything, but the value of nothing." v Carl Icahn: "I look for companies that are undervalued and then try to take full advantage by unlocking their true value."
+4. Benjamin Graham: "The stock market is filled with individuals who know the price of everything, but the value of nothing." vs Carl Icahn: "I look for companies that are undervalued and then try to take full advantage by unlocking their true value."
 
-5. John Bogle: "Don't look for the needle in the haystack. Just buy the haystack." v "Put all your eggs in one basket and watch that basket." - Andrew Carnegie
+5. John Bogle: "Don't look for the needle in the haystack. Just buy the haystack." vs "Put all your eggs in one basket and watch that basket." - Andrew Carnegie
 
-6. Jack Bogle: "Time is your friend; impulse is your enemy." v Paul Tudor Jones: "The whole world is simply nothing more than a flow chart for capital."
+6. Jack Bogle: "Time is your friend; impulse is your enemy." vs Paul Tudor Jones: "The whole world is simply nothing more than a flow chart for capital."
 
 
 8. "Put all your eggs in one basket and watch that basket." - Andrew Carnegie vs "Diversification is protection against ignorance. It makes little sense if you know what you are doing." - Warren Buffett
