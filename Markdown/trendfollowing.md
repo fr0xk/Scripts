@@ -1,6 +1,6 @@
 # Trend Following
 
-[![Trend Following](https://www.tradingview.com/x/V7ksrkps/)](https://www.tradingview.com/x/V7ksrkps/)
+[![Trend Following](https://www.tradingview.com/x/V7ksrkps/)](https://www.tradingview.com/x/KGThckEY/)
 
 This article provides an explanation of Trend Following, a strategy utilized in financial markets to respond to price movements. Trend Following relies on predetermined rules derived from various market price factors, without attempting to time the market or make discretionary decisions. Instead, it focuses on capturing the intermediate phase of price trends and offers protection against extreme events.
 
