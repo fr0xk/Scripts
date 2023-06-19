@@ -24,7 +24,7 @@ While the old adages of "time in the market" and the "power of compounding" hold
 
 Drawing from the principles of capitalism, we propose the following suggestions:
 
-- Encourage thorough assessment of risks and valuations in investments to mitigate the impact of behavioral biases.
+- Encourage thorough assessment of risks and systematic valuations in investments to mitigate the impact of behavioral biases.
 
 - Foster awareness of potential risks and vulnerabilities in the global economy, even during stable periods.
 
