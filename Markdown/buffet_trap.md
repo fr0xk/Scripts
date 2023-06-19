@@ -1,6 +1,6 @@
 
 
-# The Warren Buffett Trap: How to Lose Money by Copying the Oracle of Omaha
+# The Warren Buffett Trap: How to Lose Money by Copying the Oracle of Omaha (Satire)
 
 Warren Buffett is one of the richest men in the world, thanks to his knack for buying cheap stocks and holding them forever [(except when he doesn't).](https://www.cxoadvisory.com/animal-spirits/why-dont-we-all-just-do-what-warren-buffett-does/). He is the boss of Berkshire Hathaway, a giant conglomerate that owns everything from insurance to candy. He is widely revered as a saint of value investing, a religion that worships buying bargains and shunning fads 
 
