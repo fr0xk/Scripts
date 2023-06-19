@@ -120,7 +120,7 @@ Expected Outcome = 0.4 * 10,000
 
 Expected Outcome = 4,000
 
-Thus, after conducting 10,000 iterations, a trading strategy with a 20% win rate and a risk-reward ratio of 1:6 would yield an expected outcome of 4,000 units which is positive. This is what Ben Graham in his book considered as "intelligent speculation".
+Thus, after conducting 10,000 iterations, a trading strategy with a 20% win rate and a risk-reward ratio of 1:6 would yield an expected outcome of 4,000 units which is positive. This is what Ben Graham in his book considered as ["intelligent speculation"](https://www.wiley.com/legacy/products/subject/finance/bgraham/benlec10.html)
 
 ## Conclusion:
 
