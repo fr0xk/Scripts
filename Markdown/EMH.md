@@ -38,7 +38,29 @@ The main takeaway from this article is that the EMH is not a dogma or a doctrine
 
 ## The Role of Value Investing:
 
-> Any Investing is Value Investing - Warren Buffett 
+> Any Investing is Value Investing - Warren Buffett
+>
+- Person 1: Value investing is a strategy of buying stocks of companies that have strong fundamentals and competitive advantages, but are undervalued by the market.
+
+- Person 2: So it's like bargain hunting cheap stocks?
+
+- Person 1: No, it's not bargain hunting. It's a way of finding quality businesses that are worth more than their current price.
+
+- Person 2: But how can you tell if a company is worth more than its price? That sounds subjective to me.
+
+- Person 1: Well, it's not subjective. It's based on analyzing the company's financial statements, growth prospects, competitive position and intrinsic value.
+
+- Person 2: But how do you calculate the intrinsic value? How do you factor in all the uncertainties and risks?
+
+- Person 1: You calculate the intrinsic value by estimating the future cash flows that the company can generate and discounting them to the present. This process is called valuation.
+
+- Person 2: Valuation? So you just make up numbers and hope for the best?
+
+- Person 1: No, you don't make up numbers. You use realistic assumptions and conservative estimates based on the available information.
+
+- Person 2: Sounds like a lot of guesswork and speculation to me. Why don't you just buy index funds or a bunch of cheap stocks like everyone else?
+
+- Person 1: You don't understand Value Investing. Go away and read 10000 pages of Birkshire Hathaway annual shareholder's letter.
 
 The term "Value Investing" is often misused, hyped or marketed to describe different approaches to investing that may or may not rely on speculation. I prefer to use the original term that Benjamin Graham coined, which is also consistent with the academic definition of value stocks: "cheap stocks". This means that we should evaluate stocks based on their current price relative to some fundamental measure of value, such as earnings or book value. Growth and quality are not relevant for value investing, as they are sources of uncertainty and speculation.
 
@@ -48,7 +70,9 @@ I'm not trying to alter the definition of PE ratios where E still stands for ear
 
 PE is a statistical measure, which means it requires a large sample size to work. This implies that if the market is somewhat efficient, holding a diversified portfolio of low PE stocks for 30+ years will yield similar returns to carefully selected stocks by investors who build a concentrated portfolio.
 
-And if we assume the statement "most fund managers can't beat the benchmark" is true, then neither group should be able to predict cash flows better than the market itself over time. Whether they invest in "Great companies at reasonable prices" or "Bad companies at cheap prices". Eugene Fama, however, favors the latter view. The concept behind value stocks is that they have low prices compared to their current financial situation, so the market views them as being in some financial trouble. The value premium refers to the difference in returns between stocks with low market values compared to their book value, earnings, or cash flow (these are called value stocks) and stocks with high market values relative to these measures (these are called growth stocks). Value stocks often face difficulties, such as low profitability and high debt. The value premium is the extra return investors expect to receive for taking on the risk that these companies may perform poorly or even go out of business. In a semi-efficient market, price can also represent value. When all relevant information is accessible, market participants engage in collective fundamental analysis to determine a fair price for a security, considering all available data. The value premium (margin of safety) refers to the additional compensation that value investors demand for assuming additional risk
+To some extent if you believe that individuals employ various strategies when trading in markets, which can involve relying on tips, succumbing to short-term greed, or looking at past prices to create a a weak form of market. But when considering the larger group of participants of today's developed & developing countries and amount of information circulating via various sources, any form of opportunities created through irrational behavior is ultimately eliminated through competition among them (rationality vs irrational participants)
+
+Furthermore, the concept of risk is highly subjective. Risk can manifest as volatility according to the Capital Asset Pricing Model (CAPM), or it can be associated with business risk, liquidity risk, or solvency risk. In the realm of Value Investing, a higher discount is demanded compared to the market in order to compensate for these risks. Otherwise, the whole exercise would be pointless. And if we assume the statement "most fund managers can't beat the benchmark" is true, then neither group should be able to predict cash flows better than the market itself over time. Whether they invest in "Great companies at reasonable prices" or "Bad companies at cheap prices". Eugene Fama, however, favors the latter view. The concept behind value stocks is that they have low prices compared to their current financial situation, so the market views them as being in some financial trouble. The value premium refers to the difference in returns between stocks with low market values compared to their book value, earnings, or cash flow (these are called value stocks) and stocks with high market values relative to these measures (these are called growth stocks). Value stocks often face difficulties, such as low profitability and high debt. The value premium is the extra return investors expect to receive for taking on the risk that these companies may perform poorly or even go out of business. In a semi-efficient market, price can also represent value. When all relevant information is accessible, market participants engage in collective fundamental analysis to determine a fair price for a security, considering all available data. The value premium (margin of safety) refers to the additional compensation that value investors demand for assuming additional risk
 
 >"The idea is that value stocks have low prices relative to their present fundamentals, so the market thinks they're relatively financially distressed. The value premium is the return difference between stocks with low market values relative to book value, earnings, or cash flow (value stocks) and stocks with high market values relative to these measures (growth stocks). Value stocks are often distressed, in the sense that they have low profitability and high leverage. The value premium is compensation for bearing the risk that these firms do poorly or fail."
 
