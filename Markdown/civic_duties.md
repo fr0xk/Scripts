@@ -1,4 +1,4 @@
-"Nurturing Civic Duties: Unraveling India's Historical Echoes for a Brighter Future"
+# Nurturing Civic Duties: Unraveling India's Historical Echoes for a Brighter Future
 
 India's society is currently grappling with significant challenges stemming from the neglect of basic civic duties by its citizens. This pattern finds historical echoes in the past, such as the failure to pay taxes during ancient times and a lack of civic engagement during periods of foreign rule. These issues persist today, with tax evasion, an unorganized sector in disarray despite being a crucial part of India's GDP, low voter turnout in elections, a lack of participation in jury duty, and widespread disregard for the law. Consequently, India finds itself in a state of disarray, mirroring historical instances of societal turmoil.
 
