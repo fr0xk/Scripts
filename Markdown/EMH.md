@@ -36,6 +36,12 @@ Since then, the EMH has been refined and extended by many researchers and practi
 
 The main takeaway from this article is that the EMH is not a dogma or a doctrine, but rather a hypothesis or a theory. It is not a simple or a static idea, but rather a complex and a dynamic one. It is not a universal or a absolute truth, but rather a conditional and a relative one. It is not a final or a definitive answer, but rather a starting point and a guiding principle.
 
+## Expected Returns and Delusion of Positive Sum
+
+Investment returns have two parts: the expected return and the unexpected return. The expected return is the best guess of what will happen based on all the information currently available. The unexpected return is the surprise, the difference between what does happen and what was expected. Investors should base their portfolio decisions on expected future returns, not recent realized returns, and the two can differ by a lot. Look at the returns on the so-called FAANG. Given their great returns over the last 10 years, what is our best guess of how the FAANG stocks will do over the next decade? Should we expect an average annual return of almost 35% again? Absolutely not. Who wouldn’t buy these stocks if their expected returns were 35%? But buyers need sellers. The demand driven by such high expected returns would simply push prices up and drive expected returns down to a more reasonable level. For the same reason, I’m confident that if we could go back to August 2010, we would find few investors predicting the FAANG stocks would do as well as they did from 2010 to 2020. So what does explain the FAANG stocks’ high realized returns? Their unexpected returns. Things turned out much better for them than investors expected. The companies’ cash flows over the last 10 years were much higher than investors expected 10 years ago and their prospects looking forward from today are almost certainly better than investors expected they would be 10 years ago.
+
+All this unexpected good news produced high unexpected stock returns over the last decade. It would be wrong, however, to expect high unexpected returns to persist. After all, it doesn’t make sense to count on good luck. The expected value of the unexpected returns must be zero.
+
 ## The Role of Value Investing:
 
 > Any Investing is Value Investing - Warren Buffett
