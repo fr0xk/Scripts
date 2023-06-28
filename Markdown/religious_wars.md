@@ -24,7 +24,7 @@ Dave: That's garbage, Carol. Amazon, Apple, and Netflix ain't wonderful companie
 
 Alice: Sheesh, y'all are seriously committed to your strategies. No sign of backing down or finding common ground. Any final words for each other before we wrap up this crazy show?
 
-Bob: Yeah, I got something to say. Carol and Dave are both idiots who gonna get burned in the next market crash. They're playing with fire, not making smart investments. They're just followers, not independent thinkers. They're screwed.
+Bob: Yeah, I got something to say. Carol and Dave are both idiots who gonna get burned in the next market crash. They're playing with fire, not making smart investments. They're just followers, not independent thinkers. They're screwed. Also Shopify is rekt now.
 
 Carol: Oh, I got something to add too. Bob and Dave are both fools who ain't never gonna get rich. They're throwing away their money, not making it work for them. They're clinging to outdated rules, not seizing new opportunities. They straight-up suck.
 
