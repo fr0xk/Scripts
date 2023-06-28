@@ -63,3 +63,5 @@ Carol: You make a good point, Trevor. If you have a well-defined system and you'
 Dave: Trevor, you've given me something to think about. If you're truly disciplined and have a well-tested methodology, then maybe there's room for trend following in the investment world. I shouldn't be so quick to dismiss it. But I don't think you will beat the market with all these extra costs associated with trading turnovers.
 
 Alice: Well, look at that! We've reached a moment of mutual respect and understanding. Each strategy has its strengths and weaknesses, and it's important to recognize that. Trevor, you've defended yourself well, and the others have acknowledged the value in your approach. That's what this show is all about—exposing different perspectives and finding common ground. Keep on riding those trends, Trevor, and may the market waves continue to treat you well. And to our viewers, remember that there's more than one way to make those investment gains. Stay tuned for our next episode of the Stock Picker Showdown, where we'll continue to dive into the exciting world of finance!
+
+PS: Also check out [lucky by narratives](EMH.md)
