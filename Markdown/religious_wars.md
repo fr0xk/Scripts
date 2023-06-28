@@ -30,9 +30,7 @@ Carol: Oh, I got something to add too. Bob and Dave are both fools who ain't nev
 
 Dave: And don't forget about me. Bob and Carol are both dinosaurs who gonna be left in the dust in the next market revolution. They're turning a blind eye to innovation, not embracing change. They're following tired dogmas, not uncovering fresh possibilities. They're toast.
 
-Alice: Well, thank y'all
-
- for joining us today on the Stock Picker Showdown. This debate was wild and heated, to say the least. I hope you had a blast, just like I did. Before we wrap it up, we have a special guest who wants to share his opinion on this topic. Give it up for Eugene Fama, a Nobel Prize-winning economist and one of the biggest names in finance.
+Alice: Well, this debate was wild and heated, to say the least. I hope you had a blast, just like I did. Before we wrap it up, we have a special guest who wants to share his opinion on this topic. Give it up for Eugene Fama, a Nobel Prize-winning economist and one of the biggest names in finance.
 
 Eugene: Thanks, Alice. Glad to be here. I've been listening to this debate with keen interest and amusement. Gotta say, all three of these strategies are pretty much pointless attempts to beat the market. The market is efficient, meaning it knows everything you know and then some. It prices stocks accurately all the time. So trying to consistently outperform the market using public information, like financial ratios, growth rates, or qualitative factors, is a fool's errand. All these strategies rely on luck, not skill, and expose investors to higher risk without higher returns. The only smart move is to buy and hold a well-diversified portfolio of low-cost index funds that give you the market return with minimal fees and taxes. That's the strategy I recommend to all investors who wanna achieve
 
