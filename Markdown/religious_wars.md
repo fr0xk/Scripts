@@ -1,3 +1,5 @@
+# Dogfight in Finance 
+
 Alice: Yo yo yo, what's crackin' everyone, welcome to the Stock Picker Showdown, where we roast three different investment strategies and see who sucks the most. Today we got Bob, who's a classic value investor, Carol, who's all about wonderful companies at a fair price, and Dave, who's all about that growth game. Let's kick it off with Bob. Bob, why do you think value investing is the bomb?
 
 Bob: Well, Alice, it's hella simple. Value investing is based on the idea that the market often screws up and misprices stocks, and by copping stocks with low price-to-book or earnings ratios, you can cash in on the market's stupidity and make crazy money. This strategy has been proven by badass investors like Benjamin Graham, Warren Buffett, and Joel Greenblatt. Value investing is the only smart way to play the stock market.
