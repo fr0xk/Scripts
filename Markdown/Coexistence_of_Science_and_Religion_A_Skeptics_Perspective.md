@@ -2,6 +2,9 @@
 
 Author: fr0xk
 ---
+> "Science without religion is lame, religion without science is blind."
+>
+-- Albert Einstein
 
 Can science and religion really get along? It's a question that's been bugging a lot of us, and as a skeptical mind, I can't help but wonder if their coexistence is just wishful thinking. Science, with its fancy reliance on hard evidence and logical reasoning, often finds itself at odds with religion, which operates on faith and personal beliefs. The gap between these two worlds is like trying to fit a square peg into a round hole – it just doesn't seem to fit, you know?
 
