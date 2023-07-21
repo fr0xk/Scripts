@@ -1,4 +1,4 @@
-## UPSC Study Note: India's Workforce, Taxation, and Social Security (Based on 2022 Data)
+## India's Workforce, Taxation, and Social Security (Based on 2022 Data)
 
 ### Introduction
 
