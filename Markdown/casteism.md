@@ -1,5 +1,7 @@
 # The Complex Puzzle of India's Caste System
 
+![Racism Backfires](https://i.imgur.com/eazrp0k.jpg)
+
 India's tapestry weaves together casteism, poverty, and cultural norms that often baffle outsiders. The government juggles socialist and nationalist agendas, while religious dynamics add irony and conflict. Pollution runs rampant, bureaucracy is a monumental challenge, and the streets teem with rickshaws, dogs, and cows. Potholes could swallow a truck, the heat is intense, and the wealth gap is glaring.
 
 Speaking of casteism, it's a lot more intricate than it looks. Alongside the traditional caste hierarchy, the concept of Dalits, or untouchables, exists. Aryan influence has twisted perceptions, creating an unjust system where some are treated as subhuman. Oddly, equality depends on this very casteism, as the government established the system to offer equal opportunities to lower castes.
