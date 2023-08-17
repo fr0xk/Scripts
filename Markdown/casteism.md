@@ -1,4 +1,5 @@
-## The Complex Puzzle of India's Caste System
+# The Complex Puzzle of India's Caste System
+
 
 India's tapestry weaves together casteism, poverty, and cultural norms that often baffle outsiders. The government juggles socialist and nationalist agendas, while religious dynamics add irony and conflict. Pollution runs rampant, bureaucracy is a monumental challenge, and the streets teem with rickshaws, dogs, and cows. Potholes could swallow a truck, the heat is intense, and the wealth gap is glaring.
 
@@ -53,3 +54,7 @@ Remember, these quotes are products of their times. Critically evaluate their im
 The whole caste system deal in India is like a loop-de-loop roller coaster in present state. People's beliefs and what they do because of them keep bouncing off each other, making the system even stronger. Think of it like a cycle where how people see things shapes what they do, and what they do then affects how they see things. It's like reality is a big mirror reflecting actions, and those actions then tweak the reflection.
 
 Back in the day, Hindu culture put a "made with religious beliefs" stamp on it. Stories, traditions, and holy texts justified this system that gave different roles to different groups. Those ideas had a backstage pass to social and economic decisions, like pushing some folks to the side and treating them differently. Those actions then pumped up the beliefs even more! The way people treated each other reinforced those cultural ideas. This whole loopity-loop thing has made the caste system unbreakable, even though some folks tried to change it. Even when they brought in policies to help lower castes, it added more twists to the ride. Those perks made people show off their caste labels even more, and some people felt left out and ticked off. So the cycle spun on, making things more complicated than it was originally intended.
+
+My personal stand?
+
+![Genocidal](https://i.imgur.com/orwrKdr.jpg)
