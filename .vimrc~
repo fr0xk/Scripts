@@ -2,7 +2,6 @@
 
 " Enable line numbers
 set number
-set relativenumber
 
 " Enable syntax highlighting
 syntax enable
@@ -22,8 +21,9 @@ endif
 " Highlight search results as you type
 set incsearch
 
-" Remap <F5> to save
+" Remap <F5> to save and <F9> to execute Python code
 nnoremap <F5> :w<CR>
+nnoremap <F9> :!python %<CR>
 
 " Customize the background color for the 'Normal' highlight group
 hi Normal ctermbg=black
@@ -33,23 +33,10 @@ try
   colorscheme onedark
 catch
   " Fallback to default colorscheme
-  colorscheme desert
+  colorscheme default
 endtry
 
 " Define a simple status line
 set laststatus=2
 set statusline=%<%f\ %h%m%r\ %=%k\ %-14.(%l,%c%V%)\ %P
-
-" Additional Key Mappings
-nnoremap <F9> :!python %<CR>
-
-" Clipboard
-set clipboard=unnamedplus   " Enable system clipboard integration
-
-" Backup and Swap Files
-set backup
-set undofile
-set undodir=~/.vim/undodir
-
-" Save this file as ~/.vimrc
 
