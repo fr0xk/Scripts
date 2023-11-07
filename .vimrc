@@ -1,4 +1,4 @@
-" Portable and Cross-Platform .vimrc with 'One Dark' colorscheme
+" Portable and Cross-Platform .vimrc
 
 " Enable line numbers
 set number
@@ -13,8 +13,10 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-" Enable mouse support
-set mouse=a
+" Enable mouse support for GUI versions of Vim
+if has("gui_running")
+  set mouse=a
+endif
 
 " Highlight search results as you type
 set incsearch
@@ -26,7 +28,7 @@ nnoremap <F9> :!python %<CR>
 " Customize the background color for the 'Normal' highlight group
 hi Normal ctermbg=black
 
-" Set the 'One Dark' colorscheme if available, or fallback to default
+" Use 'One Dark' colorscheme if available, or fallback to default
 try
   colorscheme onedark
 catch
