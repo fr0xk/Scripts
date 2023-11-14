@@ -27,7 +27,17 @@ This quote supports slavery, contradicting the ideals of freedom and justice. Al
 - Quran: "Kill them where you find them...fitnah is worse than killing." (Quran 2:191)
 This quote advocates violence against opponents. Peace, tolerance, and freedom of thought and religion are crucial values.
 
-Additionally:
+Before you yell at me like a pleb & take your pick from the Holy Trinity of Christian Excuses:
+
+> You don't understand it
+>
+> Out of Context!™
+>
+> You need faith to understand!
+>
+> You see, the original meaning in Hebrew/Greek/whatever culture is..." **
+
+Here's a bit more to close you up -
 
 1. **Vedas:**
    - "Women are devoid of strength, devoid of mental energy... it is in the very nature of women to corrupt men." (Atharva Veda 6.11.3)
@@ -48,6 +58,7 @@ Additionally:
    - "It is the nature of women to be fickle... to deceive and to rob men of their brains." (Baldassare Castiglione's "The Book of the Courtier," 1528)
    
 7. **Modern Example (Misogynistic):**
+   
    - "A good wife is one who serves her husband in the morning like a mother does, loves him during the day like a sister does, and pleases him like a prostitute at night." (Chanakya's "Arthashastra," 4th century BCE)
    
 Remember, these quotes are products of their times. Critically evaluate their impact on equality and dignity while considering their historical context.
