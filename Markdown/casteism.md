@@ -27,7 +27,7 @@ This quote supports slavery, contradicting the ideals of freedom and justice. Al
 - Quran: "Kill them where you find them...fitnah is worse than killing." (Quran 2:191)
 This quote advocates violence against opponents. Peace, tolerance, and freedom of thought and religion are crucial values.
 
-Before you yell at me like a pleb & take your pick from the Holy Trinity of Christian Excuses:
+Before you yell at me like a pleb & take your pick from the Holy Trinity of Religious Excuses:
 
 > You don't understand it
 >
