@@ -8,7 +8,24 @@ Author: fr0xk
 
 Can science and religion really get along? It's a question that's been bugging a lot of us, and as a skeptical mind, I can't help but wonder if their coexistence is just wishful thinking. Science, with its fancy reliance on hard evidence and logical reasoning, often finds itself at odds with religion, which operates on faith and personal beliefs. The gap between these two worlds is like trying to fit a square peg into a round hole – it just doesn't seem to fit, you know?
 
-Science, always changing and evolving, is all about unraveling the mysteries of the natural world. It's all about meticulous observation, experiments up the wazoo, and sharp thinking. It has led us to mind-blowing advancements and breakthroughs that have transformed our understanding of the universe. Look at the theory of evolution, for instance. Supported by a mountain of evidence from diverse scientific disciplines, it knocks traditional religious beliefs about the origin of species out of the park. And recent strides made in neuroscience help us make sense of our own minds and consciousness, which used to be solely attributed to the man upstairs.  On the other hand, religion offers comfort, purpose, and a moral compass for many. It taps into our deepest metaphysical desires, promising a connection to something bigger than ourselves. But here's the rub: religious beliefs often rely on ancient texts and traditions that are open to interpretation and manipulation. Some folks take these interpretations to justify things that just don't jive with scientific evidence. We're talking about conflicts arising when religious doctrines clash with established scientific principles, like denying the age of the Earth or brushing off the solid evidence for human evolution.
+Science, always changing and evolving, is all about unraveling the mysteries of the natural world. It's all about meticulous observation, experiments up the wazoo, and sharp thinking. It has led us to mind-blowing advancements and breakthroughs that have transformed our understanding of the universe. Look at the theory of evolution, for instance. Supported by a mountain of evidence from diverse scientific disciplines, it knocks traditional religious beliefs about the origin of species out of the park. And recent strides made in neuroscience help us make sense of our own minds and consciousness, which used to be solely attributed to the man upstairs.  On the other hand, religion offers comfort, purpose, and a moral compass for many. It taps into our deepest metaphysical desires, promising a connection to something bigger than ourselves. But here's the rub: religious beliefs often rely on ancient texts and traditions that are open to interpretation and manipulation. Some folks take these interpretations to justify things that just don't jive with scientific evidence. We're talking about conflicts arising when religious doctrines clash with established scientific principles, like denying the age of the Earth or brushing off the solid evidence for human evolution. Let's take various traditional definition of "God" as example.
+
+## Unsubstantiated Claims
+
+Imagine if:
+
+- I insisted I could defy Earth's gravity and leap into space but never demonstrated it.
+- I claimed the sky is green in daylight despite it being objectively blue.
+- I asserted an apple and a banana are identical but failed to prove it.
+- I declared I could surpass light speed instantly but couldn't show it.
+
+Do you notice a pattern?
+
+## Lack of Evidence for Gods
+
+There's no real, demonstrable proof for any "god(s)" or supernatural entities. Claims lack factual, objective, observable, testable evidence and rely on faith or failed religious excuses.
+
+People assert gods' existence for centuries without evidence. It's rational to conclude they likely don't exist unless proven otherwise. The strong atheist stance is more justified, given the lack of analytical, logical, and empirical evidence for gods. Stating "There is/are no god(s)" isn't a belief; it's a statement of nonbelief.
 
 Now, some people argue that science and religion can find common ground through flexible interpretations and personal experiences. They say religion can adapt alongside scientific discoveries, like a chameleon changing its colors. While it's true that some folks choose to see religious texts as metaphorical or symbolic to accommodate scientific insights, those interpretations are usually subjective and don't necessarily reflect what the religious community at large believes. Question is - Is science immune to these kinds of manipulation? Now lets look into a bit history:
 
