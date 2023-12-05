@@ -1,10 +1,8 @@
 # Can Science and Religion Coexist? A Skeptic's Perspective
 
+---
 Author: fr0xk
 ---
-> "Science without religion is lame, religion without science is blind."
->
--- Albert Einstein
 
 Can science and religion really get along? It's a question that's been bugging a lot of us, and as a skeptical mind, I can't help but wonder if their coexistence is just wishful thinking. Science, with its fancy reliance on hard evidence and logical reasoning, often finds itself at odds with religion, which operates on faith and personal beliefs. The gap between these two worlds is like trying to fit a square peg into a round hole – it just doesn't seem to fit, you know?
 
@@ -34,6 +32,19 @@ Now, some people argue that science and religion can find common ground through 
 - Lysenkoism in the Soviet Union (1930s-1960s): Trofim Lysenko, a Soviet biologist, promoted Lamarckian inheritance and denied the principles of Mendelian genetics. His ideas gained political favor and were enforced as the official state doctrine, With the backing of powerful figures, Lysenko's pseudoscientific beliefs were elevated to the status of state doctrine. The consequences were dire, as the Soviet government embarked on a campaign to suppress any opposition to Lysenko's ideas, unleashing a wave of persecution against geneticists and biologists who dared to challenge the prevailing narrative. This led to setbacks in Soviet genetics and agricultural practices.
 
 - The tobacco industry's manipulation of scientific research (20th century): For many years, tobacco companies funded and manipulated scientific research to downplay the health risks associated with smoking. They cherry-picked data, suppressed unfavorable findings, and created doubt regarding the link between smoking and diseases such as lung cancer. This allowed them to continue promoting their products and mislead the public about their dangers.
+
+---
+> "Science without religion is lame, religion without science is blind."
+>
+-- Albert Einstein
+
+Also
+
+---
+> “It was, of course, a lie what you read about my religious convictions, a lie which is being systematically repeated. I do not believe in a personal God and I have never denied this, but have expressed it clearly. If something is in me which can be called religious, then it is the unbounded admiration for the structure of the world so far as our science can reveal it.” 
+---
+-- Albert Einstein: The human side, edited by Hoffman and Dukas, Princeton University Press, 1981
+>
 
 Richard Feynman once cautioned, "The first principle is that you must not fool yourself—and you are the easiest person to fool." Today, science is also misused as a religion and political agenda to manipulate the masses through censorship. For instance, when scientists treat theories as dogma, dissenting voices are suppressed, hindering genuine inquiry. Similarly, in politics, selective disclosure of scientific information can distort reality and shape public opinion. Censorship controls the flow of information, limiting diverse perspectives. There are common practices of cherry-picking – taking the convenient verses while tossing aside the inconvenient truths (intentionally or unintentionally). That's like trying to have your cake and eat it too. But we can't ignore the elephant in the room when it comes to "trust the science." Now, vaccines – those miraculous scientific achievements – have become quite the hot potato. It's a touchy subject with debates raging over safety and effectiveness. Skepticism about vaccines stems from some shady business. We're talking about possibilities of data manipulation, conflicts of interest, and the suppression of dissenting voices within the scientific community. Now, vaccination may or may not be an optimal solution. But if you dare to question it, you're fucked. Now, that's not science, that's a political agenda. That's a bunch of bullshit.
 
