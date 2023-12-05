@@ -1,4 +1,4 @@
-```python
+
 import math
 
 def calculate_exposure_value(aperture, shutter_speed, iso, reflectivity):
@@ -42,4 +42,3 @@ ev = calculate_exposure_value(aperture, shutter_speed, base_iso, scene_reflectiv
 resulting_illuminance = calculate_illuminance(ev, scene_reflectivity)
 
 print("\nCalculated Illuminance: {:.2f} lux".format(resulting_illuminance))
-```
