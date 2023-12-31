@@ -17,7 +17,7 @@ Modern smartphones have come a long way in camera quality, but the gap between t
 Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. However a few smartphones have bridged the gap to a remarkable degree:
 
 ![uncanny_valley](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg)
-**Captured on Sony RX100 M1**
+**Captured on Nokia Pureview 808**
 
 - **Nokia 808 PureView:** This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative sensor technology.
 - **Lumia 950:** Its noise handling was exceptional, reminiscent of Sony DSLRs, adding a pleasing grain that enhanced the image's character.
