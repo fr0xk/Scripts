@@ -6,11 +6,14 @@ Modern smartphones have come a long way in camera quality, but the gap between t
 
 - **Depth of field:** Smartphone lenses have inherent limitations due to their tiny size, resulting in less nuanced background blur compared to the versatility of DSLR lenses. Besides, it also lacks the texture of continuous and unprocessed grainy look of film
 
-- **Processing:** While smartphones excel at automatic processing and scene correction, the results can often appear overly smooth, artificial, and lacking in natural texture. DSLRs often offer "flawed" processing in the sense that it preserves more detail and allows for greater control over the final image.
+- **Processing:** While smartphones excel at automatic processing and scene correction, the results can often appear overly smooth, artificial, and lacking in natural texture. DSLRs often offer "flawed" processing in the sense that it preserves more detail and allows for greater control over the final image. These days, smartphone cameras use frame stacking methods to reduce noise, but it comes at a cost. Each individual RAW image captured in the stack might not have enough detail in high-contrast areas due to the shorter exposure times needed for noise reduction. This leads to incomplete information when merging the images, making it harder to accurately reconstruct smooth transitions.
+
+![blockiness](https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg)
+**Blockiness Effect**
 
 ![difference](https://github.com/fr0xk/Scripts/blob/main/images/GAQC468aMAAXTtV.jpeg)
 ![smartphone photography](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231219_151813-01.jpg)
-**Captured on iPhone 8**
+**Oversharpened Edges (Halo Effect)**
 
 
 ![B&W Film Look](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231229_231058.jpg)
