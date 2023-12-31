@@ -19,7 +19,7 @@ Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights,
 ![uncanny_valley](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg)
 **Captured on Nokia Pureview 808**
 
-- **Nokia 808 PureView:** This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative sensor technology.
+- **Nokia 808 PureView:** This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative 1 inch type sensor technology.
 - **Lumia 950:** Its noise handling was exceptional, reminiscent of Sony DSLRs, adding a pleasing grain that enhanced the image's character.
 - **Huawei P40 Pro Plus:** With its Leica collaboration, this phone offered more control and natural-looking rendering, pushing the boundaries of smartphone photography.
 - **Xiaomi 12S Ultra:** The "Leica Authentic" mode delivers a distinct, film-like aesthetic for those who prefer a less processed look.
