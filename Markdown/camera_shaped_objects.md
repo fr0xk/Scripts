@@ -4,7 +4,11 @@
 
 Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR."
 
-- **Depth of field:** Smartphone lenses have inherent limitations due to their tiny size, resulting in less nuanced background blur compared to the versatility of DSLR lenses.
+- **Depth of field:** Smartphone lenses have inherent limitations due to their tiny size, resulting in less nuanced background blur compared to the versatility of DSLR lenses. Besides, it also lacks the texture of continuous and unprocessed grainy look of film
+
+![B&W Film](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231229_231058.jpg)
+**Captured on RX100**
+
 - **Processing:** While smartphones excel at automatic processing and scene correction, the results can often appear overly smooth, artificial, and lacking in natural texture. DSLRs often offer "flawed" processing in the sense that it preserves more detail and allows for greater control over the final image.
 
 ![smartphone photography](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231219_151813-01.jpg)
