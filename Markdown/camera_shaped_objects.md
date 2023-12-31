@@ -6,14 +6,15 @@ Modern smartphones have come a long way in camera quality, but the gap between t
 
 - **Depth of field:** Smartphone lenses have inherent limitations due to their tiny size, resulting in less nuanced background blur compared to the versatility of DSLR lenses. Besides, it also lacks the texture of continuous and unprocessed grainy look of film
 
-![B&W Film Look](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231229_231058.jpg)
-**Captured on RX100**
-
 - **Processing:** While smartphones excel at automatic processing and scene correction, the results can often appear overly smooth, artificial, and lacking in natural texture. DSLRs often offer "flawed" processing in the sense that it preserves more detail and allows for greater control over the final image.
 
 ![difference](https://github.com/fr0xk/Scripts/blob/main/images/GAQC468aMAAXTtV.jpeg)
 ![smartphone photography](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231219_151813-01.jpg)
 **Captured on iPhone 8**
+
+
+![B&W Film Look](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231229_231058.jpg)
+**Captured on RX100**
 
 Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. However a few smartphones have bridged the gap to a remarkable degree:
 
