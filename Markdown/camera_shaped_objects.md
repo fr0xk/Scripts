@@ -20,8 +20,6 @@ At high ISO, sensor noise gets amplified. Image stacking typically takes multipl
 <strong> Blockiness Effect in Pixel 8 </strong>
 </p>
 
-**Blockiness Effect in Pixel 8 Camera**
-
 Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. Only a few smartphones have bridged the gap to a remarkable degree and never have been recreated such quality photos in smartphone ever. Here's few -
 
 <p align="center">
