@@ -1,25 +1,24 @@
 ## Smartphone vs. DSLR: The Uncanny Valley of Photography
 
 ![image_scene](https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg)
+**Captured on Sony RX100 M1**
 
 Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR."
 
-- **Depth of field:** Smartphone lenses have inherent limitations due to their tiny size, resulting in less nuanced background blur compared to the versatility of DSLR lenses. Besides, it also lacks the texture of continuous and unprocessed grainy look of film
+Here are some snapshots I've taken with the iPhone 15 and the Sony RX100 (2012) point-and-shoot camera. Challenge: zoom in and decipher which ones are from the smartphone and which are from the RX100.
 
-- **Processing:** While smartphones excel at automatic processing and scene correction, the results can often appear overly smooth, artificial, and lacking in natural texture. DSLRs often offer "flawed" processing in the sense that it preserves more detail and allows for greater control over the final image. These days, smartphone cameras use frame stacking methods to reduce noise, but it comes at a cost. Each individual RAW image captured in the stack might not have enough detail in high-contrast areas due to the shorter exposure times needed for noise reduction. This leads to incomplete information when merging the images, making it harder to accurately reconstruct smooth transitions.
+![Smartphone](https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg)
+![Sony RX100](https://github.com/fr0xk/Scripts/blob/main/images/dome%202.jpg)
+
+![Smartphone](https://github.com/fr0xk/Scripts/blob/main/images/horizon%201.jpg)
+![Sony RX100](https://github.com/fr0xk/Scripts/blob/main/images/horizon%202.jpeg)
+
+If you correctly deduced that the initial ones were snapped by a cell phone camera, kudos! Smartphone cameras struggle in high dynamic range scenes with abundant textures, leading to oversharpening (edge enhancement) due to abrupt local contrast changes. Nowadays, to mitigate noise, many camera apps employ image stacking, where noise decreases roughly by the square root of the stacked images. However, this technique brings its own demons – the dreaded blockiness effect. This effect arises from the same issue mentioned above, especially when tinkering with exposures in generated RAW files.
 
 ![blockiness](https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg)
-**Blockiness Effect**
+**Blockiness Effect in Pixel 8 Camera**
 
-![difference](https://github.com/fr0xk/Scripts/blob/main/images/GAQC468aMAAXTtV.jpeg)
-![smartphone photography](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231219_151813-01.jpg)
-**Oversharpened Edges (Halo Effect)**
-
-
-![B&W Film Look](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231229_231058.jpg)
-**Captured on RX100**
-
-Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. However a few smartphones have bridged the gap to a remarkable degree:
+Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. However a few smartphones have bridged the gap to a remarkable degree
 
 ![uncanny_valley](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg)
 **Captured on Nokia Pureview 808**
