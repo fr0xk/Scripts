@@ -7,10 +7,10 @@
 </head>
 <body>
 
-<h2>Smartphone vs. DSLR: The Uncanny Valley of Photography</h2>
+<h1>Smartphone vs. DSLR: The Uncanny Valley of Photography</h1>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="1080" height="auto" alt="Captured on Sony RX100 M1">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="720" height="auto" alt="Captured on Sony RX100 M1">
   <br>
   <strong>Captured on Sony RX100 M1</strong>
 </p>
@@ -52,7 +52,7 @@
 
 <p>Don't get me wrong, smartphones undeniably excel in convenience and everyday photography, but the gap in image quality and creative control remains. For those seeking true photographic expression and the ability to capture the world with nuance and artistry, a dedicated DSLR still reigns supreme.</p>
 
-<h3>Further considerations:</h3>
+<h2>Further considerations:</h2>
 
 <ul>
   <li>This article focuses primarily on still photography. Smartphone video capabilities have become increasingly impressive, and the lines are blurring even faster in this area.</li>
