@@ -10,7 +10,7 @@
 <h1>Smartphone vs. DSLR: The Uncanny Valley of Photography</h1>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="720" height="auto" alt="Captured on Sony RX100 M1">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="1080" height="auto" alt="Captured on Sony RX100 M1">
   <br>
   <strong>Captured on Sony RX100 M1</strong>
 </p>
