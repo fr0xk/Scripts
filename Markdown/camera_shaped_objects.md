@@ -7,10 +7,12 @@
 Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR."
 
 Here are some snapshots I've taken with the iPhone 15 and the Sony RX100 (2012) point-and-shoot camera. Challenge: zoom in and decipher which ones are from the smartphone and which are from the RX100.
+<p align="center">
+<img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg" width="480" height="auto"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%202.jpg" width="480" height="auto"> </p>
 
-<img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg" width="480" height="auto"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%202.jpg" width="480" height="auto">
-
+<p align="center">
 <img src="https://github.com/fr0xk/Scripts/blob/main/images/horizon%201.jpg" width="480" height="auto"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/horizon%202.jpeg" width="480" height="auto">
+</p>
 
 If you correctly deduced that the initial ones (on left) were snapped by a cell phone camera, kudos! Smartphone cameras struggle in high dynamic range scenes with abundant textures, leading to oversharpening (edge enhancement) due to abrupt local contrast changes. Image stacking algorithms often enhance clarity and sharpness. Unfortunately, with fine details like blades of grass, this boost can overshoot, exaggerating edges and creating unnatural halos, making the grass look "spiky". Some algorithms apply sharpening adaptively based on image areas. If the algorithm misinterprets noise or subtle texture variations in grass as edges, it could over-sharpen those areas. Stacking Misalignment is a completely different issue that needs to be mitigated. 
 
