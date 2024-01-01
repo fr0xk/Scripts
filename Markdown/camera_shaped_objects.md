@@ -1,7 +1,8 @@
 ## Smartphone vs. DSLR: The Uncanny Valley of Photography
 
-![image_scene](https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg)
-**Captured on Sony RX100 M1**
+<p align="center"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="1080" height="auto"> <br>
+  <strong>Captured on Sony RX100 M1</strong>
+</p>
 
 Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR."
 
