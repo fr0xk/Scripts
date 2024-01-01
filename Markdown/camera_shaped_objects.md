@@ -7,23 +7,23 @@ Modern smartphones have come a long way in camera quality, but the gap between t
 
 Here are some snapshots I've taken with the iPhone 15 and the Sony RX100 (2012) point-and-shoot camera. Challenge: zoom in and decipher which ones are from the smartphone and which are from the RX100.
 
-![Smartphone](https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg)
-![Sony RX100](https://github.com/fr0xk/Scripts/blob/main/images/dome%202.jpg)
+<img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg" width="480" height="auto"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%202.jpg" width="480" height="auto">
 
-![Smartphone](https://github.com/fr0xk/Scripts/blob/main/images/horizon%201.jpg)
-![Sony RX100](https://github.com/fr0xk/Scripts/blob/main/images/horizon%202.jpeg)
+<img src="https://github.com/fr0xk/Scripts/blob/main/images/horizon%201.jpg" width="480" height="auto"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/horizon%202.jpeg" width="480" height="auto">
 
-If you correctly deduced that the initial ones were snapped by a cell phone camera, kudos! Smartphone cameras struggle in high dynamic range scenes with abundant textures, leading to oversharpening (edge enhancement) due to abrupt local contrast changes. Image stacking algorithms often enhance clarity and sharpness. Unfortunately, with fine details like blades of grass, this boost can overshoot, exaggerating edges and creating unnatural halos, making the grass look "spiky". Some algorithms apply sharpening adaptively based on image areas. If the algorithm misinterprets noise or subtle texture variations in grass as edges, it could over-sharpen those areas. Stacking Misalignment is a completely different issue that needs to be mitigated. 
+If you correctly deduced that the initial ones (on left) were snapped by a cell phone camera, kudos! Smartphone cameras struggle in high dynamic range scenes with abundant textures, leading to oversharpening (edge enhancement) due to abrupt local contrast changes. Image stacking algorithms often enhance clarity and sharpness. Unfortunately, with fine details like blades of grass, this boost can overshoot, exaggerating edges and creating unnatural halos, making the grass look "spiky". Some algorithms apply sharpening adaptively based on image areas. If the algorithm misinterprets noise or subtle texture variations in grass as edges, it could over-sharpen those areas. Stacking Misalignment is a completely different issue that needs to be mitigated. 
 
 At high ISO, sensor noise gets amplified. Image stacking typically takes multiple noisy frames and averages them for cleaner results. But with varied contrast, averaging might not completely cancel out noise in high-contrast areas. RAW images need demosaicing (debayering) to convert sensor data into colors. When stacking multiple frames, misalignment during debayering could create artifacts & blocky quantization errors
 
-![blockiness](https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg)
+<p align="center"> <img src="https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg" height="480" width="auto"> </p>
 **Blockiness Effect in Pixel 8 Camera**
 
-Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. Only a few smartphones have bridged the gap to a remarkable degree and never have been recreated such quality photos in smartphone ever. Here's few
+Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. Only a few smartphones have bridged the gap to a remarkable degree and never have been recreated such quality photos in smartphone ever. Here's few -
 
-![uncanny_valley](https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg)
-**Captured on Nokia Pureview 808**
+<p align="center">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg" width="480" height="auto">
+</p>
+**Captured on Nokia Pureview 808**  
 
 - **Nokia 808 PureView:** This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative 1 inch type sensor technology.
 - **Lumia 950:** Its noise handling was exceptional, reminiscent of Sony DSLRs, adding a pleasing grain that enhanced the image's character.
