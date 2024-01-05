@@ -1,11 +1,12 @@
 #!/bin/sh
 
-# Check if dcraw and imagemagick are installed
+# Check if dcraw is installed
 if ! command -v dcraw >/dev/null 2>&1; then
     echo "Error: dcraw is required but not installed. Please install it using 'pkg install dcraw'. Aborting."
     exit 1
 fi
 
+# Check if imagemagick is installed
 if ! command -v convert >/dev/null 2>&1; then
     echo "Error: imagemagick is required but not installed. Please install it using 'pkg install imagemagick'. Aborting."
     exit 1
@@ -30,17 +31,19 @@ for input_file in "$@"; do
     filename_noext="${filename%.*}"
 
     # Convert DNG to PPM with specified dcraw parameters
-    dcraw -c -w -H 5 -o 2 -r 7 4 6 -q 0.25 -D 0.33 "$input_file" > "${filename_noext}.ppm"
+    dcraw -v -c -o 0 -q 3 -n 25 -H 2 -C 0.25 7 -6 -T "$input_file" > "${filename_noext}.ppm"
     
     """
     Explanation:
-    - -c: Outputs the image data to stdout instead of creating a file.
-    - -w: Uses the camera white balance if possible for color adjustment.
-    - -H 5: Sets the highlight mode to 5 (rebuild) to reconstruct clipped highlights.
-    - -o 2: Specifies the output colorspace (Adobe RGB in this case).
-    - -r 7 4 6: Adjusts white balance by specifying multipliers for red, green, and blue channels.
-    - -q 0.25: Sets image quality to 0.25, reducing file size at the cost of some quality.
-    - -D 0.33: Specifies the linearization threshold for adjusting image linearization.
+    - -v: Print verbose messages.
+    - -c: Write image data to standard output.
+    - -o 0: Output colorspace set to raw.
+    - -q 3: Set the interpolation quality to a high level.
+    - -n 25: Set threshold for wavelet denoising to reduce noise by 25%.
+    - -H 2: Highlight mode set to blend to reduce chromatic noise.
+    - -C 0.25 7: Correct chromatic aberration with a chroma threshold of 7.
+    - -6: Write 16-bit instead of 8-bit for higher quality.
+    - -T: Write TIFF instead of PPM for high-quality output.
     - "$input_file": Specifies the input raw file.
     - > "${filename_noext}.ppm": Redirects output to a PPM file with the same name as the input file.
     """
