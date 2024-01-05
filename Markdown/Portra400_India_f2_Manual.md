@@ -17,6 +17,8 @@ Shoot Portra 400 film at f/2 for vibrant images in Indian light.
 * **Freeze Time:** Capture dynamic moments at f/2, e.g., 1/500 for festivals or 1/1000 for playful scenes.
 
 * **Dreamy Portraits:** Soften details with 1/60 or 1/30 at f/2.
+  
+* **Indoors:** Adapt to the low light environment by setting white balance to 3200K for LEDs, 3500-4000K for halogens, and adjusting shutter speed to 1/60-1/125 for LEDs and 1/125-1/250 for halogens, utilizing a light meter for precise adjustments.
 
 **Pro Tips:**
 
