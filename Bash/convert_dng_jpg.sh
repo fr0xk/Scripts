@@ -29,12 +29,8 @@ for input_file in "$@"; do
     filename=$(basename -- "$input_file")
     filename_noext="${filename%.*}"
 
-    # Convert DNG to JPEG with color balance and noise reduction using dcraw
-    # -c: Output to stdout
-    # -w: Use camera white balance, if possible
-    # -H [0-9]: Highlight mode (0=clip, 1=unclip, 2=blend, 3+=rebuild)
-    # -o [0-6]: Output colorspace (raw,sRGB,Adobe,Wide,ProPhoto,XYZ,ACES)
-    dcraw -c -w -H 5 -o 2 "$input_file" > "${filename_noext}.ppm"
+    # Convert DNG to PPM with specified dcraw parameters
+    dcraw -c -w -H 5 -o 2 -r 7 4 6 -q 0.25 -D 0.33 "$input_file" > "${filename_noext}.ppm"
 
     if [ $? -eq 0 ]; then
         # Convert the intermediate PPM to JPEG with imagemagick
