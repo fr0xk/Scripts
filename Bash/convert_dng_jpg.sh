@@ -31,14 +31,10 @@ for input_file in "$@"; do
 
     # Convert DNG to JPEG with color balance and noise reduction using dcraw
     # -c: Output to stdout
-    # -w: Use camera white balance
-    # -q 3: Set quality to highest
-    # -o 2: Apply Auto level stretch
-    # -T: Write 16-bit TIFF
-    # -H 5: Set chromatic noise reduction to 5
-    # -W: Enable luminance noise reduction
-    # -b 2.2: Set color balance
-    dcraw -c -w -q 3 -o 2 -T -H 5 -W -b 2.2 "$input_file" > "${filename_noext}.ppm"
+    # -w: Use camera white balance, if possible
+    # -H [0-9]: Highlight mode (0=clip, 1=unclip, 2=blend, 3+=rebuild)
+    # -o [0-6]: Output colorspace (raw,sRGB,Adobe,Wide,ProPhoto,XYZ,ACES)
+    dcraw -c -w -H 5 -o 2 "$input_file" > "${filename_noext}.ppm"
 
     if [ $? -eq 0 ]; then
         # Convert the intermediate PPM to JPEG with imagemagick
