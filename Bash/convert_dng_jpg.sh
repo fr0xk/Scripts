@@ -31,6 +31,19 @@ for input_file in "$@"; do
 
     # Convert DNG to PPM with specified dcraw parameters
     dcraw -c -w -H 5 -o 2 -r 7 4 6 -q 0.25 -D 0.33 "$input_file" > "${filename_noext}.ppm"
+    
+    """
+    Explanation:
+    - -c: Outputs the image data to stdout instead of creating a file.
+    - -w: Uses the camera white balance if possible for color adjustment.
+    - -H 5: Sets the highlight mode to 5 (rebuild) to reconstruct clipped highlights.
+    - -o 2: Specifies the output colorspace (Adobe RGB in this case).
+    - -r 7 4 6: Adjusts white balance by specifying multipliers for red, green, and blue channels.
+    - -q 0.25: Sets image quality to 0.25, reducing file size at the cost of some quality.
+    - -D 0.33: Specifies the linearization threshold for adjusting image linearization.
+    - "$input_file": Specifies the input raw file.
+    - > "${filename_noext}.ppm": Redirects output to a PPM file with the same name as the input file.
+    """
 
     if [ $? -eq 0 ]; then
         # Convert the intermediate PPM to JPEG with imagemagick
