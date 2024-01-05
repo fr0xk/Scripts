@@ -28,5 +28,3 @@ Shoot Portra 400 film at f/2 for vibrant images in Indian light.
 * **Bonus Tip:** Use a lens hood to avoid flare.
 
 **Now go, capture India's vibrant essence!** 
-
-Share your creations with Portra 400. Join the community of adventurers painting India with light!
