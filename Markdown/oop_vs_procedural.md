@@ -239,3 +239,137 @@ int main() {
     return 0;
 }
 ```
+## Avoiding nested loops
+
+```cpp
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+
+struct Employee {
+    std::string name;
+    int employeeID;
+    std::string department;
+
+    Employee(const std::string& empName, int empID, const std::string& empDepartment)
+        : name(empName), employeeID(empID), department(empDepartment) {}
+};
+
+struct Task {
+    std::string name;
+    int progress;
+    Employee assignedEmployee;
+
+    Task(const std::string& taskName, const Employee& emp)
+        : name(taskName), progress(0), assignedEmployee(emp) {}
+
+    void trackProgress() const {
+        std::cout << "Tracking progress of task '" << name << "': " << progress << "%.\n";
+    }
+};
+
+struct Project {
+    std::string name;
+    std::vector<std::string> resources;
+    std::vector<Task> tasks;
+
+    Project(const std::string& projectName, const std::vector<std::string>& projectResources)
+        : name(projectName), resources(projectResources) {}
+
+    void assignTask(const Task& task) const {
+        std::cout << "Assigning task '" << task.name << "' in project " << name << " to employee " << task.assignedEmployee.name << " (ID: " << task.assignedEmployee.employeeID << ") from the " << task.assignedEmployee.department << " department.\n";
+    }
+
+    void manageResources() const {
+        std::cout << "Managing resources for project " << name << ": ";
+        for (const auto& resource : resources) {
+            std::cout << resource << ", ";
+        }
+        std::cout << "\n";
+    }
+};
+
+template <typename T>
+void forEach(const std::vector<T>& items, const std::function<void(const T&)>& action) {
+    std::for_each(items.begin(), items.end(), action);
+}
+
+template <typename T, typename Predicate>
+std::vector<T> filter(const std::vector<T>& items, Predicate predicate) {
+    std::vector<T> result;
+    std::copy_if(items.begin(), items.end(), std::back_inserter(result), predicate);
+    return result;
+}
+
+template <typename T, typename Mapper>
+auto map(const std::vector<T>& items, Mapper mapper) -> std::vector<decltype(mapper(std::declval<T>()))> {
+    std::vector<decltype(mapper(std::declval<T>()))> result;
+    std::transform(items.begin(), items.end(), std::back_inserter(result), mapper);
+    return result;
+}
+
+void stressTest(int numProjects, int numEmployees, int numTasks) {
+    // Improved: Example using functional programming style
+    std::vector<Project> projects;
+
+    // Generate projects
+    forEach(std::vector<int>(numProjects), [&](int i) {
+        projects.emplace_back("Project" + std::to_string(i), {"Resource1", "Resource2", "Resource3"});
+    });
+
+    // Generate employees and tasks for each project
+    forEach(projects, [&](const Project& project) {
+        auto employees = map(std::vector<int>(numEmployees), [&](int j) {
+            return Employee{"Employee" + std::to_string(j), 1000 + j, "Department" + std::to_string(j % 3)};
+        });
+
+        project.resources = map(employees, [](const Employee& emp) { return emp.name; });
+
+        forEach(employees, [&](const Employee& employee) {
+            auto tasks = map(std::vector<int>(numTasks), [&](int k) {
+                return Task{"Task" + std::to_string(k), employee};
+            });
+
+            project.tasks.insert(project.tasks.end(), tasks.begin(), tasks.end());
+        });
+    });
+
+    // Improved: Managing multiple projects in a scalable manner
+    forEach(projects, [&](const Project& project) {
+        std::cout << "Project: " << project.name << "\n";
+        project.manageResources();
+
+        forEach(project.tasks, [&](const Task& task) {
+            project.assignTask(task);
+            task.trackProgress();
+        });
+    });
+}
+
+int main() {
+    // Example using functional programming style
+    Project enterpriseSoftware("Enterprise Software", {"Developer1", "Developer2", "QA Engineer", "Project Manager", "UI/UX Designer", "DevOps Engineer"});
+
+    auto employees = map(std::vector<int>(10), [](int i) {
+        return Employee{"Employee" + std::to_string(i), 1001 + i, "Department" + std::to_string(i % 3)};
+    });
+
+    auto projectTasks = map(std::vector<int>(10), [&](int i) {
+        return Task{"Task" + std::to_string(i), employees[i]};
+    });
+
+    forEach(projectTasks, [&](const Task& task) {
+        enterpriseSoftware.assignTask(task);
+        task.trackProgress();
+        enterpriseSoftware.tasks.push_back(task);
+    });
+
+    enterpriseSoftware.manageResources();
+
+    // Improved: Managing multiple projects in a scalable manner
+    stressTest(5, 10, 15);
+
+    return 0;
+}
+```
