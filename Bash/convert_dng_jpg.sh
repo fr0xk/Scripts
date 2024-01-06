@@ -1,60 +1,51 @@
-#!/bin/sh
+#!/bin/bash
 
-# Check if dcraw is installed
-if ! command -v dcraw >/dev/null 2>&1; then
-    echo "Error: dcraw is required but not installed. Please install it using 'pkg install dcraw'. Aborting."
-    exit 1
-fi
+# SPDX-License-Identifier: GPL-3.0-or-later
+# Copyright 2024 <Sudarshan Kakoty>
 
-# Check if imagemagick is installed
-if ! command -v convert >/dev/null 2>&1; then
-    echo "Error: imagemagick is required but not installed. Please install it using 'pkg install imagemagick'. Aborting."
-    exit 1
-fi
+# 1. Check for required tools
+check_tool() {
+    if ! command -v "$1" >/dev/null 2>&1; then
+        echo "Error: $1 is required but not installed. Please install it using 'pkg install $1'. Aborting."
+        exit 1
+    fi
+}
 
-# Check if input files are provided
-if [ "$#" -eq 0 ]; then
+check_tool dcraw
+check_tool convert
+
+# 2. Check for input files
+if [ $# -eq 0 ]; then
     echo "Usage: $0 <input_file1.dng> [<input_file2.dng> ...]"
     exit 1
 fi
 
-# Process each input file
+# 3. Process each input file
 for input_file in "$@"; do
-    # Check if the input file exists
-    if [ ! -f "$input_file" ]; then
-        echo "Warning: File '$input_file' not found. Skipping."
-        continue
-    fi
-
     # Extract original filename without extension
     filename=$(basename -- "$input_file")
     filename_noext="${filename%.*}"
 
-    # Convert DNG to PPM with specified dcraw parameters
-    dcraw -v -c -o 0 -q 3 -n 25 -H 2 -C 0.25 7 -6 -T "$input_file" > "${filename_noext}.ppm"
-    
-    """
-    Explanation:
-    - -v: Print verbose messages.
-    - -c: Write image data to standard output.
-    - -o 0: Output colorspace set to raw.
-    - -q 3: Set the interpolation quality to a high level.
-    - -n 25: Set threshold for wavelet denoising to reduce noise by 25%.
-    - -H 2: Highlight mode set to blend to reduce chromatic noise.
-    - -C 0.25 7: Correct chromatic aberration with a chroma threshold of 7.
-    - -6: Write 16-bit instead of 8-bit for higher quality.
-    - -T: Write TIFF instead of PPM for high-quality output.
-    - "$input_file": Specifies the input raw file.
-    - > "${filename_noext}.ppm": Redirects output to a PPM file with the same name as the input file.
-    """
+    # 5. Convert DNG to PPM with high quality and chromatic noise reduction
+    dcraw -4 -H 0 -e -W -q 3 -n 25 -H 2 -C 0.25 7 -6 -T "$input_file" > "${filename_noext}.ppm"
+
+    # Explain dcraw arguments in a comment below:
+    # -4: Highest quality processing.
+    # -H 0: No highlight/shadow adjustment.
+    # -e: Embed EXIF data in output file.
+    # -W: Automatically white balance the image.
+    # -q 3: High interpolation quality.
+    # -n 25: Wavelet denoising strength at 25%.
+    # -H 2: Blending highlight mode for chromatic noise reduction.
+    # -C 0.25 7: Chromatic aberration correction with threshold of 7.
+    # -6: Output 16-bit TIFF for higher quality.
+    # -T: Save output as TIFF for better conversion by ImageMagick.
 
     if [ $? -eq 0 ]; then
-        # Convert the intermediate PPM to JPEG with imagemagick
-        # -colorspace sRGB: Ensure the output is a color image, not black and white
-        # -quality 100: Set JPEG quality to the highest
-        convert -colorspace sRGB -quality 100 "${filename_noext}.ppm" "${filename_noext}.jpg"
+        # 6. Convert PPM to JPEG with high quality and sRGB colorspace
+        convert -quality 100 -colorspace sRGB "${filename_noext}.ppm" "${filename_noext}.jpg"
 
-        # Optional: Delete intermediate PPM file
+        # Optionally remove intermediate PPM file
         # rm "${filename_noext}.ppm"
 
         echo "Conversion complete: ${filename_noext}.jpg"
@@ -62,3 +53,7 @@ for input_file in "$@"; do
         echo "Error: Conversion failed for $input_file. Skipping."
     fi
 done
+
+echo "Processed $#@ files."
+
+exit 0
