@@ -10,7 +10,7 @@
 <h1>Smartphone vs. DSLR: The Uncanny Valley of Photography</h1>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="1080" height="auto" alt="Captured on Sony RX100 M1">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/1000019082-01~2.jpg" width="720" height="auto" alt="Captured on Sony RX100 M1">
   <br>
   <strong>Captured on Sony RX100 M1</strong>
 </p>
@@ -30,7 +30,7 @@
 <p>If you correctly deduced that the initial ones (on the left) were snapped by a cell phone camera, kudos! Smartphone cameras struggle in high dynamic range scenes with abundant textures, leading to oversharpening (edge enhancement) due to abrupt local contrast changes. Image stacking algorithms often enhance clarity and sharpness. Unfortunately, with fine details like blades of grass, this boost can overshoot, exaggerating edges and creating unnatural halos, making the grass look "spiky". Some algorithms apply sharpening adaptively based on image areas. If the algorithm misinterprets noise or subtle texture variations in grass as edges, it could over-sharpen those areas. Stacking Misalignment is a completely different issue that needs to be mitigated.</p>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg" height="800" width="auto" alt="Blockiness Effect in Pixel 8">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/PXL_20231231_230518277-01.jpeg" height="480" width="auto" alt="Blockiness Effect in Pixel 8">
   <br> 
   <strong> Blockiness Effect in Pixel 8 </strong>
 </p>
@@ -38,7 +38,7 @@
 <p>Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. Only a few smartphones have bridged the gap to a remarkable degree and never have been recreated such quality photos in a smartphone ever. Here's a few -</p>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg" width="800" height="auto" alt="Captured on Nokia Pureview 808">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg" width="480" height="auto" alt="Captured on Nokia Pureview 808">
   <br>
   <strong>Captured on Nokia Pureview 808</strong>
 </p>
