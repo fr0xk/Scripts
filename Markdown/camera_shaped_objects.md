@@ -10,9 +10,9 @@
 <h1>Smartphone vs. DSLR: The Uncanny Valley of Photography</h1>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20240109_153809.jpg" width="720" height="auto" alt="Captured on Xiaomi 12">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20240109_153809.jpg" width="720" height="auto" alt="Captured on Xiaomi 13 Ultra">
   <br>
-  <strong>Captured on Xiaomi 12</strong>
+  <strong>Captured on Xiaomi 13 Ultra</strong>
 </p>
 
 <p>Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR." Try it out yourself here, can you tell which one of following was captured with a cell phone?-</p>
