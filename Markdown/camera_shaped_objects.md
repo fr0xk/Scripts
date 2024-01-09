@@ -15,7 +15,7 @@
   <strong>Captured on Sony RX100 M1</strong>
 </p>
 
-<p>Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR. Try it out yourself here -"</p>
+<p>Modern smartphones have come a long way in camera quality, but the gap between them and dedicated DSLRs is like the uncanny valley of 3D graphics. Despite surface similarities, a trained eye can always spot the telltale signs of a smartphone photo, no matter how much praise it gets for being "almost like a DSLR." Try it out yourself here, can you tell which one of following was captured with a cell phone?-</p>
 
 <p align="center">
   <img src="https://github.com/fr0xk/Scripts/blob/main/images/dome%201.jpg" width="480" height="auto" alt="Dome 1"> 
