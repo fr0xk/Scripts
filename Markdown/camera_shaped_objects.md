@@ -38,9 +38,9 @@
 <p>Take my old Sony RX100MK1 from 2012. It has limitations like clipped highlights, low dynamic range, and sensitivity to shake. Yet, the photos it produces have a more realistic and organic feel compared to modern smartphones. Smartphones excel at clinical documentation, capturing everything in the scene with precision, but lack the soul of a true camera. Only a few smartphones have bridged the gap to a remarkable degree and never have been recreated such quality photos in a smartphone ever. Here's a few -</p>
 
 <p align="center">
-  <img src="https://github.com/fr0xk/Scripts/blob/main/images/IMG_20231231_163831.jpg" width="480" height="auto" alt="Captured on Nokia Pureview 808">
+  <img src="https://github.com/fr0xk/Scripts/blob/main/images/diff.jpg" width="4500" height="auto" alt="Can you spot the difference?">
   <br>
-  <strong>Captured on Nokia Pureview 808</strong>
+  <strong>Can you spot the difference?</strong>
 </p>
 
 <ul>
