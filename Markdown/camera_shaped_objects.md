@@ -44,7 +44,7 @@
 </p>
 
 <ul>
-  <li><strong>Nokia 808 PureView:</strong> This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative 1 inch type sensor technology.</li>
+  <li><strong>Nokia 808 PureView:</strong> This legendary phone could capture images rivaling entry-level DSLRs in good lighting, thanks to its innovative 1 inch type (1/1.2"), 26mm f/2.4 CMOS sensor technology.</li>
   <li><strong>Lumia 950:</strong> Its noise handling was exceptional, reminiscent of Sony DSLRs, adding a pleasing grain that enhanced the image's character.</li>
   <li><strong>Huawei P40 Pro Plus:</strong> With its Leica collaboration, this phone offered more control and natural-looking rendering, pushing the boundaries of smartphone photography.</li>
   <li><strong>Xiaomi 12S Ultra:</strong> The "Leica Authentic" mode delivers a distinct, film-like aesthetic for those who prefer a less processed look.</li>
