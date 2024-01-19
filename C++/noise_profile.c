@@ -27,8 +27,8 @@ int main(void) {
 
 double compute_noise_model_entry_O(int plane, int sens) {
     // Set noise model parameters A and C to zero for complete noise reduction
-    static double noise_model_A[] = { 0.0, 0.0, 3.997872184191777e-06, 3.983066041120342e-06 };
-    static double noise_model_C[] = { 0.0, 0.0, 8.456861659184869e-11, 7.845077737864896e-11 };
+    static double noise_model_A[] = { 0.0, 0.0, 0.0, 0.0 };
+    static double noise_model_C[] = { 0.0, 0.0, 0.0, 0.0 };
 
     double B = 0.0; // Set noise model parameter B to zero
     double D = 0.0; // Set noise model parameter D to zero
@@ -44,8 +44,8 @@ double compute_noise_model_entry_O(int plane, int sens) {
 
 double compute_noise_model_entry_S(int plane, int sens) {
     // Set noise model parameters B and D to zero for complete noise reduction
-    static double noise_model_B[] = { 0.0, 0.0, 1.872941296585944e-05, 1.4334154698642736e-05 };
-    static double noise_model_D[] = { 0.0, 0.0, 1.6562521211033777e-07, 4.2123904944136777e-07 };
+    static double noise_model_B[] = { 0.0, 0.0, 0.0, 0.0 };
+    static double noise_model_D[] = { 0.0, 0.0, 0.0, 0.0 };
 
     double A = 0.0; // Set noise model parameter A to zero
     double C = 0.0; // Set noise model parameter C to zero
