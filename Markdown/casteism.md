@@ -34,15 +34,11 @@ Ancient texts like the Vedas, Bible, and Quran carry spiritual messages that go 
 
 - Quran: "And kill them wherever you overtake them and expel them from wherever they have expelled you, and fitnah is worse than killing. And do not fight them at the Sacred Mosque until they fight you there. But if they fight you, then kill them. Such is the recompense of the disbelievers". (Quran 2:191)
    
-1. **Bible:**
-   - "I do not permit a woman to teach or to assume authority over a man; she must be quiet." (1 Timothy 2:12)
-   
-3. **Quran:**
-   - "Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand..." (Quran 4:34)
-   
-7. **Modern Example (Misogynistic):**
-   
-   - "A good wife is one who serves her husband in the morning like a mother does, loves him during the day like a sister does, and pleases him like a prostitute at night" (Chanakya's "Arthashastra," 4th century BCE)
+- Bible: "I do not permit a woman to teach or to assume authority over a man; she must be quiet." (1 Timothy 2:12)
+
+- Quran: "Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand..." (Quran 4:34)
+
+- Modern Example (Misogynistic): "A good wife is one who serves her husband in the morning like a mother does, loves him during the day like a sister does, and pleases him like a prostitute at night" (Chanakya's "Arthashastra," 4th century BCE)
   
 Before you yell at me like a pleb & take your pick from the Holy Trinity of Religious Excuses:
 
