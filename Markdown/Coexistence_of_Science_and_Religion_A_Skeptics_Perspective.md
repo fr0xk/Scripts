@@ -4,6 +4,21 @@
 Author: fr0xk
 ---
 
+## TLDR:
+
+* **Skeptical of science and religion coexisting peacefully.**
+  
+* **Science thrives on evidence, logic, and evolves with new discoveries; religion often relies on faith and ancient texts, sometimes clashing with science.**
+  
+* **Both fields can be manipulated (e.g., Tuskegee study, Lysenkoism, tobacco industry).**
+  
+* **Deism is a possible compromise: acknowledging the universe's complexity without attributing it to a specific deity.**
+  
+* **Criticisms of media bias, scientific dogmatism, censorship, and social/political agendas.**
+  
+* **Pessimistic outlook on the future due to societal issues and lack of "fairness."**
+
+
 Can science and religion really get along? It's a question that's been bugging a lot of us, and as a skeptical mind, I can't help but wonder if their coexistence is just wishful thinking. Science, with its fancy reliance on hard evidence and logical reasoning, often finds itself at odds with religion, which operates on faith and personal beliefs. The gap between these two worlds is like trying to fit a square peg into a round hole – it just doesn't seem to fit, you know?
 
 Science, always changing and evolving, is all about unraveling the mysteries of the natural world. It's all about meticulous observation, experiments up the wazoo, and sharp thinking. It has led us to mind-blowing advancements and breakthroughs that have transformed our understanding of the universe. Look at the theory of evolution, for instance. Supported by a mountain of evidence from diverse scientific disciplines, it knocks traditional religious beliefs about the origin of species out of the park. And recent strides made in neuroscience help us make sense of our own minds and consciousness, which used to be solely attributed to the man upstairs.  On the other hand, religion offers comfort, purpose, and a moral compass for many. It taps into our deepest metaphysical desires, promising a connection to something bigger than ourselves. But here's the rub: religious beliefs often rely on ancient texts and traditions that are open to interpretation and manipulation. Some folks take these interpretations to justify things that just don't jive with scientific evidence. We're talking about conflicts arising when religious doctrines clash with established scientific principles, like denying the age of the Earth or brushing off the solid evidence for human evolution. Let's take various traditional definition of "God" as example.
