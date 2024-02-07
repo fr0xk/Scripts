@@ -5,6 +5,7 @@
 # MIT License
 # Copyright (c) [Year] [Author]
 
+# Define a function to calculate the total value for a given year
 def total_value(initial_amount, growth_rate, year):
     """
     Calculate the total value for a given year using geometric progression formula.
@@ -61,18 +62,10 @@ def main():
     print("Year\tTotal Value")
     print("--------------------")
 
-    total_values = []
-    
     # Loop through the years and print the total value for each year
     for year in range(1, years + 1):
         # Call the total_value function and format the output to two decimal places
-        total = total_value(initial_amount, growth_rate, year)
-        total_values.append(total)
-        print(f"{year}\t{total:.2f}")
-
-    # Calculate and print the sum of all total values
-    total_sum = sum(total_values)
-    print(f"\nSum of all above {years} terms: {total_sum:.2f} ({round(total_sum)})")
+        print(f"{year}\t{total_value(initial_amount, growth_rate, year):.2f}")
 
 if __name__ == "__main__":
     main()
