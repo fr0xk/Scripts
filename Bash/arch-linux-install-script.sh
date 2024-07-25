@@ -38,7 +38,6 @@ genfstab -U /mnt >> /mnt/etc/fstab
 
 # Chroot and configure the system
 arch-chroot /mnt /bin/bash << EOF
-
 # Set timezone
 ln -sf /usr/share/zoneinfo/UTC /etc/localtime
 hwclock --systohc
@@ -66,7 +65,6 @@ pacman -S arch-install-scripts btrfs-progs --noconfirm
 # Enable BTRFS snapshots in GRUB
 sed -i 's/GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet"/GRUB_CMDLINE_LINUX_DEFAULT="loglevel=3 quiet rootflags=subvol=@"/' /etc/default/grub
 grub-mkconfig -o /boot/grub/grub.cfg
-
 EOF
 
 echo "Arch Linux installation complete!"
