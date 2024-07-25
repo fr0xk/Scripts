@@ -18,7 +18,7 @@ HOSTNAME="debian-sid"
 
 USERNAME="user"
 
-TIMEZONE="America/New_York"
+TIMEZONE="India/Kolkata"
 
 LANG="en_US.UTF-8"
 
