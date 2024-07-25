@@ -48,7 +48,6 @@ mount --bind /sys /mnt/sys
 
 # Chroot and configure the system
 chroot /mnt /bin/bash << EOF
-
 # Set up apt sources
 cat > /etc/apt/sources.list << INNEREOF
 deb http://deb.debian.org/debian bullseye main
@@ -67,9 +66,9 @@ ln -sf /usr/share/zoneinfo/UTC /etc/localtime
 dpkg-reconfigure -f noninteractive tzdata
 
 # Set locale
+echo "LANG=en_US.UTF-8" > /etc/default/locale
 sed -i 's/# en_US.UTF-8 UTF-8/en_US.UTF-8 UTF-8/' /etc/locale.gen
 locale-gen
-echo "LANG=en_US.UTF-8" > /etc/default/locale
 
 # Set hostname
 echo "debian-system" > /etc/hostname
@@ -88,11 +87,11 @@ update-grub
 
 # Create a non-root user
 adduser --gecos "" debian_user
+passwd debian_user
 
 # Give sudo privileges to the new user
 apt install -y sudo
 usermod -aG sudo debian_user
-
 EOF
 
 # Unmount all partitions
