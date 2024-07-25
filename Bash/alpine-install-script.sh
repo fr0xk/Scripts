@@ -2,7 +2,7 @@
 set -e
 
 # Alpine Linux Installation Script (musl edition)
-# This script installs Alpine Linux on an SSD with BTRFS root filesystem using offline installer
+# This script installs Alpine Linux on an SSD with BTRFS root filesystem using the offline installer
 
 # Ensure script is run as root
 if [ "$(id -u)" -ne 0 ]; then
@@ -64,7 +64,6 @@ EOF
 
 # Chroot and configure the system
 chroot /mnt /bin/ash << EOF
-
 # Set timezone
 setup-timezone -z UTC
 
@@ -105,7 +104,6 @@ passwd alpine_user
 # Give sudo privileges to the new user
 apk add sudo
 echo "alpine_user ALL=(ALL) ALL" > /etc/sudoers.d/alpine_user
-
 EOF
 
 # Unmount all partitions
