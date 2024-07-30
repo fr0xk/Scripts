@@ -1,0 +1,19 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate git stats
+        run: |
+          python update_readme.py > git_stats.txt
+
+      # Add steps to manually copy the content of git_stats.txt into your README.md
+      # and commit the changes
+      
