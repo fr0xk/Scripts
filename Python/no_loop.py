@@ -36,3 +36,19 @@ filtered_numbers = list(filter(lambda num: num % 3 != 0, even_numbers))
 total_sum = sum(filtered_numbers)
 
 print(f"Total sum of even numbers (excluding multiples of 3): {total_sum}")
+
+Imperative:
+
+for i in range(1, 11):
+    for j in range(1, 11):
+        for k in range(1, 11):
+            product = i * j * k
+            print(f"{i} x {j} x {k} = {product}")
+
+Non Imperative:
+
+from itertools import product
+
+numbers = range(1, 11)
+results = list(map(lambda x: f"{x[0]} x {x[1]} x {x[2]} = {x[0] * x[1] * x[2]}", product(numbers, repeat=3)))
+print(*results, sep='\n')
