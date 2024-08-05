@@ -46,13 +46,23 @@ def determine_sex(individual):
     except Exception as e:
         return str(e)
 
-individual = Individual(
-    karyotype='XY',
-    endocrine_profile={'testosterone': 500, 'estrogen': 50},
-    phenotypic_traits=['typical male'],
-    genetic_loci=['SRY'],
-    gender_identity='Male'
-)
+# Example of realistic ranges for input values
+def get_user_input():
+    karyotype = input("Enter karyotype (e.g., 'XX', 'XY'): ")
+    testosterone = float(input("Enter testosterone level (ng/dL, typical range: 300-1000 for males, 15-70 for females): "))
+    estrogen = float(input("Enter estrogen level (pg/mL, typical range: 15-60 for males, 15-350 for females): "))
+    phenotypic_traits = input("Enter phenotypic traits (e.g., 'typical male', 'typical female'): ").split(',')
+    genetic_loci = input("Enter genetic loci (e.g., 'SRY', 'SOX9'): ").split(',')
+    gender_identity = input("Enter self-identified gender: ")
 
+    return Individual(
+        karyotype=karyotype,
+        endocrine_profile={'testosterone': testosterone, 'estrogen': estrogen},
+        phenotypic_traits=phenotypic_traits,
+        genetic_loci=genetic_loci,
+        gender_identity=gender_identity
+    )
+
+individual = get_user_input()
 sex_determination = determine_sex(individual)
 print(sex_determination)
