@@ -35,7 +35,7 @@ def determine_sex(individual):
     individual.validate()
     
     chromosomal_sex = sex_mapping['chromosomal'].get(individual.karyotype, 'Atypical')
-    hormonal_sex = sex_mapping'hormonal'
+    hormonal_sex = sex_mapping['hormonal'](individual.endocrine_profile)
     phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0], 'Atypical')
     genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0], 'Atypical')
 
@@ -54,7 +54,7 @@ def determine_sex(individual):
         'Phenotypic Sex': phenotypic_sex,
         'Genetic Sex': genetic_sex,
         'Self-Identified Sex': individual.gender_identity,
-        'Discrepancies': discrepancies or "None"
+        'Discrepancies': discrepancies if discrepancies else "None"
     }
 
 # Example of realistic ranges for input values
