@@ -15,19 +15,35 @@ class InputValidator:
         except ValueError:
             raise ValueError(f"{prompt} must be a valid number.")
 
+    @staticmethod
+    def validate_option(prompt, value, options):
+        if value not in options:
+            raise ValueError(f"{prompt} must be one of {', '.join(options)}.")
+        return value
+
 class UserInput:
     def __init__(self):
-        self.karyotype = self.get_input("Enter karyotype (e.g., 'XX', 'XY', 'XO', 'XXY', 'XXX', 'XYY', 'XXXY')", InputValidator.validate_non_empty)
-        self.testosterone = self.get_input("Enter testosterone level (ng/dL, typical range: 300-1000 for males, 15-70 for females)", InputValidator.validate_numeric)
-        self.estrogen = self.get_input("Enter estrogen level (pg/mL, typical range: 15-60 for males, 15-350 for females)", InputValidator.validate_numeric)
-        self.phenotypic_traits = self.get_input("Enter phenotypic traits (e.g., 'typical male', 'typical female', 'ambiguous', 'clitoromegaly', 'micropenis')", InputValidator.validate_non_empty)
-        self.genetic_loci = self.get_input("Enter genetic loci (e.g., 'SRY', 'SOX9', '5-ARD', 'AIS', 'CAH')", InputValidator.validate_non_empty)
-        self.gender_identity = self.get_input("Enter self-identified gender", InputValidator.validate_non_empty)
+        self.karyotype = self.get_input("Enter karyotype (e.g., 'XX', 'XY', 'XO', 'XXY', 'XXX', 'XYY', 'XXXY')", 
+                                        InputValidator.validate_option, 
+                                        ['XX', 'XY', 'XO', 'XXY', 'XXX', 'XYY', 'XXXY'])
+        self.testosterone = self.get_input("Enter testosterone level (ng/dL, typical range: 300-1000 for males, 15-70 for females)", 
+                                           InputValidator.validate_numeric)
+        self.estrogen = self.get_input("Enter estrogen level (pg/mL, typical range: 15-60 for males, 15-350 for females)", 
+                                        InputValidator.validate_numeric)
+        self.phenotypic_traits = self.get_input("Enter phenotypic traits (e.g., 'typical male', 'typical female', 'ambiguous', 'clitoromegaly', 'micropenis')", 
+                                                 InputValidator.validate_option, 
+                                                 ['typical male', 'typical female', 'ambiguous', 'clitoromegaly', 'micropenis'])
+        self.genetic_loci = self.get_input("Enter genetic loci (e.g., 'SRY', 'SOX9', '5-ARD', 'AIS', 'CAH')", 
+                                            InputValidator.validate_option, 
+                                            ['SRY', 'SOX9', '5-ARD', 'AIS', 'CAH'])
+        self.gender_identity = self.get_input("Enter self-identified gender (e.g., 'Male', 'Female', 'Non-Binary', 'Other')", 
+                                               InputValidator.validate_option, 
+                                               ['Male', 'Female', 'Non-Binary', 'Other'])
 
     @staticmethod
-    def get_input(prompt, validator):
+    def get_input(prompt, validator, options=None):
         value = input(f"{prompt}: ")
-        return validator(prompt, value)
+        return validator(prompt, value, options) if options else validator(prompt, value)
 
 class SexDetermination:
     sex_mapping = {
@@ -70,7 +86,11 @@ class SexDetermination:
             ("Chromosomal vs Genetic", "Chromosomal Sex", "Genetic Sex"),
             ("Hormonal vs Phenotypic", "Hormonal Sex", "Phenotypic Sex"),
             ("Hormonal vs Genetic", "Hormonal Sex", "Genetic Sex"),
-            ("Phenotypic vs Genetic", "Phenotypic Sex", "Genetic Sex")
+            ("Phenotypic vs Genetic", "Phenotypic Sex", "Genetic Sex"),
+            ("Self-Identified vs Chromosomal", "Self-Identified Sex", "Chromosomal Sex"),
+            ("Self-Identified vs Hormonal", "Self-Identified Sex", "Hormonal Sex"),
+            ("Self-Identified vs Phenotypic", "Self-Identified Sex", "Phenotypic Sex"),
+            ("Self-Identified vs Genetic", "Self-Identified Sex", "Genetic Sex")
         ]))
         return list(discrepancies)
 
@@ -103,7 +123,8 @@ def main():
             'Chromosomal Sex': chromosomal_sex,
             'Hormonal Sex': hormonal_sex,
             'Phenotypic Sex': phenotypic_sex,
-            'Genetic Sex': genetic_sex
+            'Genetic Sex': genetic_sex,
+            'Self-Identified Sex': user_input.gender_identity
         }) or "None"
     }
 
