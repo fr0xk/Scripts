@@ -1,57 +1,57 @@
 import numpy as np
 
 class Individual:
-    def __init__(self, chromosomes, hormone_levels, physical_characteristics, genetic_markers, self_identification):
-        self.chromosomes = chromosomes
-        self.hormone_levels = hormone_levels
-        self.physical_characteristics = physical_characteristics
-        self.genetic_markers = genetic_markers
-        self.self_identification = self_identification
+    def __init__(self, karyotype, endocrine_profile, phenotypic_traits, genetic_loci, gender_identity):
+        self.karyotype = karyotype
+        self.endocrine_profile = endocrine_profile
+        self.phenotypic_traits = phenotypic_traits
+        self.genetic_loci = genetic_loci
+        self.gender_identity = gender_identity
 
     def validate(self):
-        if not isinstance(self.chromosomes, str):
-            raise ValueError("Chromosomes should be a string.")
-        if not isinstance(self.hormone_levels, dict):
-            raise ValueError("Hormone levels should be a dictionary.")
-        if not isinstance(self.physical_characteristics, list):
-            raise ValueError("Physical characteristics should be a list.")
-        if not isinstance(self.genetic_markers, list):
-            raise ValueError("Genetic markers should be a list.")
-        if not isinstance(self.self_identification, str):
-            raise ValueError("Self-identification should be a string.")
+        if not isinstance(self.karyotype, str):
+            raise ValueError("Karyotype should be a string.")
+        if not isinstance(self.endocrine_profile, dict):
+            raise ValueError("Endocrine profile should be a dictionary.")
+        if not isinstance(self.phenotypic_traits, list):
+            raise ValueError("Phenotypic traits should be a list.")
+        if not isinstance(self.genetic_loci, list):
+            raise ValueError("Genetic loci should be a list.")
+        if not isinstance(self.gender_identity, str):
+            raise ValueError("Gender identity should be a string.")
 
 def determine_sex(individual):
     sex_mapping = {
         'chromosomal': {'XX': 'Female', 'XY': 'Male'},
-        'hormonal': lambda levels: 'Male' if levels['testosterone'] > levels['estrogen'] else 'Female',
-        'physical': {'typical male': 'Male', 'typical female': 'Female'},
+        'hormonal': lambda profile: 'Male' if profile['testosterone'] > profile['estrogen'] else 'Female',
+        'phenotypic': {'typical male': 'Male', 'typical female': 'Female'},
         'genetic': {'SRY': 'Male', 'SOX9': 'Female'}
     }
 
     try:
         individual.validate()
         
-        chromosomal_sex = sex_mapping['chromosomal'].get(individual.chromosomes, 'Atypical')
+        chromosomal_sex = sex_mapping['chromosomal'].get(individual.karyotype, 'Atypical')
         hormonal_sex = sex_mapping'hormonal'
-        physical_sex = sex_mapping['physical'].get(individual.physical_characteristics[0], 'Atypical')
-        genetic_sex = sex_mapping['genetic'].get(individual.genetic_markers[0], 'Atypical')
+        phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0], 'Atypical')
+        genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0], 'Atypical')
 
         return {
             'Chromosomal Sex': chromosomal_sex,
             'Hormonal Sex': hormonal_sex,
-            'Physical Sex': physical_sex,
+            'Phenotypic Sex': phenotypic_sex,
             'Genetic Sex': genetic_sex,
-            'Self-Identified Sex': individual.self_identification
+            'Self-Identified Sex': individual.gender_identity
         }
     except Exception as e:
         return str(e)
 
 individual = Individual(
-    chromosomes='XY',
-    hormone_levels={'testosterone': 500, 'estrogen': 50},
-    physical_characteristics=['typical male'],
-    genetic_markers=['SRY'],
-    self_identification='Male'
+    karyotype='XY',
+    endocrine_profile={'testosterone': 500, 'estrogen': 50},
+    phenotypic_traits=['typical male'],
+    genetic_loci=['SRY'],
+    gender_identity='Male'
 )
 
 sex_determination = determine_sex(individual)
