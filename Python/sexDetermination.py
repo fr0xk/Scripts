@@ -36,17 +36,20 @@ def determine_sex(individual):
     
     chromosomal_sex = sex_mapping['chromosomal'].get(individual.karyotype, 'Atypical')
     hormonal_sex = sex_mapping['hormonal'](individual.endocrine_profile)
-    phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0], 'Atypical')
-    genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0], 'Atypical')
+    phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0] if individual.phenotypic_traits else None, 'Atypical')
+    genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0] if individual.genetic_loci else None, 'Atypical')
 
-    discrepancies = list(filter(None, map(lambda x: x[1] if x[0] != x[2] else None, [
-        (chromosomal_sex, "Chromosomal vs Hormonal", hormonal_sex),
-        (chromosomal_sex, "Chromosomal vs Phenotypic", phenotypic_sex),
-        (chromosomal_sex, "Chromosomal vs Genetic", genetic_sex),
-        (hormonal_sex, "Hormonal vs Phenotypic", phenotypic_sex),
-        (hormonal_sex, "Hormonal vs Genetic", genetic_sex),
-        (phenotypic_sex, "Phenotypic vs Genetic", genetic_sex)
-    ])))
+    comparisons = [
+        (chromosomal_sex, hormonal_sex, "Chromosomal vs Hormonal"),
+        (chromosomal_sex, phenotypic_sex, "Chromosomal vs Phenotypic"),
+        (chromosomal_sex, genetic_sex, "Chromosomal vs Genetic"),
+        (hormonal_sex, phenotypic_sex, "Hormonal vs Phenotypic"),
+        (hormonal_sex, genetic_sex, "Hormonal vs Genetic"),
+        (phenotypic_sex, genetic_sex, "Phenotypic vs Genetic")
+    ]
+    
+    discrepancies = list(filter(lambda x: x[0] != x[1], comparisons))
+    discrepancy_labels = list(map(lambda x: x[2], discrepancies))
 
     return {
         'Chromosomal Sex': chromosomal_sex,
@@ -54,10 +57,9 @@ def determine_sex(individual):
         'Phenotypic Sex': phenotypic_sex,
         'Genetic Sex': genetic_sex,
         'Self-Identified Sex': individual.gender_identity,
-        'Discrepancies': discrepancies if discrepancies else "None"
+        'Discrepancies': discrepancy_labels or "None"
     }
 
-# Example of realistic ranges for input values
 def get_user_input():
     karyotype = input("Enter karyotype (e.g., 'XX', 'XY', 'XO', 'XXY', 'XXX', 'XYY', 'XXXY'): ")
     testosterone = float(input("Enter testosterone level (ng/dL, typical range: 300-1000 for males, 15-70 for females): "))
