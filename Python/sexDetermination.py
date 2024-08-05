@@ -9,50 +9,61 @@ class Individual:
         self.gender_identity = gender_identity
 
     def validate(self):
-        if not isinstance(self.karyotype, str):
-            raise ValueError("Karyotype should be a string.")
-        if not isinstance(self.endocrine_profile, dict):
-            raise ValueError("Endocrine profile should be a dictionary.")
-        if not isinstance(self.phenotypic_traits, list):
-            raise ValueError("Phenotypic traits should be a list.")
-        if not isinstance(self.genetic_loci, list):
-            raise ValueError("Genetic loci should be a list.")
-        if not isinstance(self.gender_identity, str):
-            raise ValueError("Gender identity should be a string.")
+        assert isinstance(self.karyotype, str), "Karyotype should be a string."
+        assert isinstance(self.endocrine_profile, dict), "Endocrine profile should be a dictionary."
+        assert isinstance(self.phenotypic_traits, list), "Phenotypic traits should be a list."
+        assert isinstance(self.genetic_loci, list), "Genetic loci should be a list."
+        assert isinstance(self.gender_identity, str), "Gender identity should be a string."
 
 def determine_sex(individual):
     sex_mapping = {
-        'chromosomal': {'XX': 'Female', 'XY': 'Male'},
+        'chromosomal': {
+            'XX': 'Female', 'XY': 'Male', 'XO': 'Turner Syndrome', 'XXY': 'Klinefelter Syndrome',
+            'XXX': 'Triple X Syndrome', 'XYY': 'XYY Syndrome', 'XXXY': 'XXXY Syndrome'
+        },
         'hormonal': lambda profile: 'Male' if profile['testosterone'] > profile['estrogen'] else 'Female',
-        'phenotypic': {'typical male': 'Male', 'typical female': 'Female'},
-        'genetic': {'SRY': 'Male', 'SOX9': 'Female'}
+        'phenotypic': {
+            'typical male': 'Male', 'typical female': 'Female', 'ambiguous': 'Ambiguous',
+            'clitoromegaly': 'Clitoromegaly', 'micropenis': 'Micropenis'
+        },
+        'genetic': {
+            'SRY': 'Male', 'SOX9': 'Female', '5-ARD': '5-Alpha Reductase Deficiency',
+            'AIS': 'Androgen Insensitivity Syndrome', 'CAH': 'Congenital Adrenal Hyperplasia'
+        }
     }
 
-    try:
-        individual.validate()
-        
-        chromosomal_sex = sex_mapping['chromosomal'].get(individual.karyotype, 'Atypical')
-        hormonal_sex = sex_mapping'hormonal'
-        phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0], 'Atypical')
-        genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0], 'Atypical')
+    individual.validate()
+    
+    chromosomal_sex = sex_mapping['chromosomal'].get(individual.karyotype, 'Atypical')
+    hormonal_sex = sex_mapping'hormonal'
+    phenotypic_sex = sex_mapping['phenotypic'].get(individual.phenotypic_traits[0], 'Atypical')
+    genetic_sex = sex_mapping['genetic'].get(individual.genetic_loci[0], 'Atypical')
 
-        return {
-            'Chromosomal Sex': chromosomal_sex,
-            'Hormonal Sex': hormonal_sex,
-            'Phenotypic Sex': phenotypic_sex,
-            'Genetic Sex': genetic_sex,
-            'Self-Identified Sex': individual.gender_identity
-        }
-    except Exception as e:
-        return str(e)
+    discrepancies = list(filter(None, map(lambda x: x[1] if x[0] != x[2] else None, [
+        (chromosomal_sex, "Chromosomal vs Hormonal", hormonal_sex),
+        (chromosomal_sex, "Chromosomal vs Phenotypic", phenotypic_sex),
+        (chromosomal_sex, "Chromosomal vs Genetic", genetic_sex),
+        (hormonal_sex, "Hormonal vs Phenotypic", phenotypic_sex),
+        (hormonal_sex, "Hormonal vs Genetic", genetic_sex),
+        (phenotypic_sex, "Phenotypic vs Genetic", genetic_sex)
+    ])))
+
+    return {
+        'Chromosomal Sex': chromosomal_sex,
+        'Hormonal Sex': hormonal_sex,
+        'Phenotypic Sex': phenotypic_sex,
+        'Genetic Sex': genetic_sex,
+        'Self-Identified Sex': individual.gender_identity,
+        'Discrepancies': discrepancies or "None"
+    }
 
 # Example of realistic ranges for input values
 def get_user_input():
-    karyotype = input("Enter karyotype (e.g., 'XX', 'XY'): ")
+    karyotype = input("Enter karyotype (e.g., 'XX', 'XY', 'XO', 'XXY', 'XXX', 'XYY', 'XXXY'): ")
     testosterone = float(input("Enter testosterone level (ng/dL, typical range: 300-1000 for males, 15-70 for females): "))
     estrogen = float(input("Enter estrogen level (pg/mL, typical range: 15-60 for males, 15-350 for females): "))
-    phenotypic_traits = input("Enter phenotypic traits (e.g., 'typical male', 'typical female'): ").split(',')
-    genetic_loci = input("Enter genetic loci (e.g., 'SRY', 'SOX9'): ").split(',')
+    phenotypic_traits = input("Enter phenotypic traits (e.g., 'typical male', 'typical female', 'ambiguous', 'clitoromegaly', 'micropenis'): ").split(',')
+    genetic_loci = input("Enter genetic loci (e.g., 'SRY', 'SOX9', '5-ARD', 'AIS', 'CAH'): ").split(',')
     gender_identity = input("Enter self-identified gender: ")
 
     return Individual(
