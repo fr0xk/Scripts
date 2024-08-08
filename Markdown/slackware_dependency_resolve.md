@@ -219,7 +219,7 @@ rm -rf "$TEMP_DIR"
 log "$INSTALL_LOG" "All specified actions have been processed."
 ```
 
-Here's how the script would behave for installing and removing `python3` and `gcc`, including realistic examples of output for these operations.
+Here's how the script would behave for installing and removing `python3` and `gcc`
 
 ### Example for Installing Packages
 
